@@ -1,0 +1,22 @@
+﻿PARAMETRO;VALOR;UNIDADE;TIPO;NOTA
+Fonte estrutural;EAP acadêmica sintética ampliada;referência;origem;"Usada apenas para mapear IDs/códigos e pontos de índice; não contém dados identificáveis da obra."
+Escopo;Um segmento hipotético de infraestrutura linear associado ao setor 04 da EAP de referência.;descrição;fronteira;12 atividades discretas de limpeza, drenagem, terraplenagem, base, revestimento, sinalização e inspeção, mais um marco de mobilização. Não representa o S11D nem o cronograma integral.
+Horas por dia útil;8.0;h/dia;calendário;Jornada de referência para converter custo diário em custo horário.
+Horas por mês;180.0;h/mês;calendário;Mantém a premissa usada no histograma anterior.
+Dias úteis equivalentes por mês;22.5;dia útil/mês;calendário;"180 horas divididas por 8 horas/dia; não define datas civis ou feriados."
+Quantidade por atividade;Premissa por pacote;unidades listadas em atividades.csv;quantidade;"As quantidades do recorte são novas e hipotéticas; a quantidade 1 dos nós-folha da EAP de escala não é tratada como medição."
+Duração alternativa;quantidade / produtividade da habilitação;dias úteis;cálculo;"Duração contínua; sem arredondamento para dia inteiro."
+Pontos O/M/P;"O=0,80×d; M=d; P=1,20×d";dias úteis;PERT;"Faixa simétrica hipotética; TE=(O+4M+P)/6=d. A matriz usa TE de cada equipe."
+Multiplicadores produtividade;"Baixa=0,75; Padrão=1,00; Alta=1,50";× padrão;equipe;Hipóteses didáticas, não produtividades SINAPI nem produtividade da obra.
+Multiplicadores custo de equipe/dia;"Baixa=0,80; Padrão=1,00; Alta=1,80";× padrão;custo direto;"Custo da equipe por dia inclui mão de obra e equipamento; escala sintética para criar trade-off tempo-custo."
+Alocação material;Participação por atividade registrada em atividades.csv;% do custo-base;custo direto;Premissa sintética. O material varia com quantidade e é separado do custo diário de equipe.
+Custo indireto por prazo;0.2;pontos de índice/dia útil;indireto por prazo;"Administração/canteiro por dia; não contém salário e equipamento da equipe de execução."
+Custo indireto por efetivo;0.005;pontos de índice/pessoa-dia;indireto por efetivo;"Apoio individual (ex.: alimentação e itens pessoais); calculado como pessoas/equipe × duração. Não repete salários."
+Pool de recurso compartilhado;1;equipe por família;capacidade;"Os modos/perfis de uma família consomem o mesmo pool renovável; no máximo uma atividade dessa família por vez."
+Formação de equipe;Um modo por atividade;modo;decisão;Cada atividade escolhe exatamente uma formação/produtividade habilitada. Múltiplas equipes simultâneas na mesma atividade não são modeladas.
+Recursos compartilhados;Pools TERR, DREN, BASE, ASF, FIN e QA;pool;recurso renovável;"Cada perfil selecionado ocupa uma unidade do pool da família durante toda a atividade; todos os perfis da família compartilham a mesma capacidade."
+Custo fixo;Soma de FIX01 e FIX02;pontos de índice/projeto;fixo;"Mobilização de apoio ancorada nos pontos sintéticos da EAP; adicionada uma vez e fora da taxa por dia."
+Unidade de custo;Pontos de índice sintéticos;sem moeda;restrição de uso;"Não são reais, valores SINAPI ou custos de obra; não monetizar sem calibração separada."
+Precedências;Relações FS listadas em precedencias.csv;rede lógica;rede;A hierarquia EAP é estrutura de custos, não predecessora. As relações do piloto são premissas próprias.
+Cenário CPM;Equipe padrão e precedências, sem restrição de disponibilidade;dias úteis;referência;"Serve como baseline de rede; não é cronograma executável sob limite de equipes."
+Cenário RCPSP;Alocação e início sujeitos às capacidades de equipes;dias úteis;referência;"O cenário padrão usa uma heurística factível; o arquivo otimizado é calculado separadamente pelo solver."

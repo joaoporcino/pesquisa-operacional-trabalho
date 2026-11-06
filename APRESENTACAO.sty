@@ -1,0 +1,241 @@
+%----------------------------------------------------------------------------------------
+%    PACKAGES AND THEMES
+%----------------------------------------------------------------------------------------
+
+\documentclass[aspectratio=169,xcolor=dvipsnames]{beamer}
+\usetheme{SimplePlus}
+
+\usepackage{hyperref}
+\usepackage{graphicx} % Allows including images
+\usepackage{booktabs} % Allows the use of \toprule, \midrule and \bottomrule in tables
+
+\usepackage{tikz}
+\usetikzlibrary{graphs}
+
+\usepackage[brazilian]{babel}
+
+\def\espacopadrao{\vspace*{0.3cm}}
+
+%----------------------------------------------------------------------------------------
+%    TITLE PAGE
+%----------------------------------------------------------------------------------------
+
+\title{Otimização de custo de obra via rearranjo de equipes e ajuste de prazos de atividades}
+
+\institute
+{
+    Proposta de trabalho para a disciplina de Pesquisa\\
+    Operacional do curso de Engenharia de Sitemas da UFMG
+}
+\date{} % Date, can be changed to a custom date
+
+%----------------------------------------------------------------------------------------
+%    PRESENTATION SLIDES
+%----------------------------------------------------------------------------------------
+
+\newcommand{\slidetitulo}[1]
+    {
+        \section*{#1}
+        \addcontentsline{toc}{section}{#1}
+        \begin{frame}
+            \begin{center}
+                { \Huge\bfseries #1 }
+            \end{center}
+        \end{frame}
+    }
+
+\begin{document}
+
+\maketitle
+
+
+
+\slidetitulo{Participantes do grupo}
+
+\begin{frame}{Participantes do grupo}
+    \begin{itemize}
+        \item Lucas Araújo Campos Szuster;
+        \item João Marcos Claro Porcino;
+        \item Arthur Samuel Ferreira Andrade.
+    \end{itemize}
+\end{frame}
+
+\slidetitulo{Motivação e Contextualização}
+
+\begin{frame}{Motivação e Contextualização}
+    Em obras civis, o cronograma de execução é composto por atividades sequenciadas por relações de precedência (fundação, estrutura, alvenaria, instalações, acabamento etc.). Cada atividade pode ser executada por diferentes equipes disponíveis, com produtividades e custos distintos, o que gera diferentes combinações possíveis de duração e custo total do empreendimento.
+
+    \espacopadrao
+    
+    Atrasos na entrega da obra normalmente geram custos indiretos crescentes (canteiro de obras, supervisão, financiamento) e, em muitos contratos, multas contratuais. Por outro lado, comprimir prazos por meio de equipes mais rápidas ou adicionais tende a elevar o custo direto. Esse é o clássico trade-off entre tempo e custo em gerenciamento de projetos, e propõe-se aqui modelá-lo como um problema de otimização combinatória.
+\end{frame}
+
+\slidetitulo{Descrição do Problema}
+
+\begin{frame}{Descrição do Problema [parte I]}
+    Considera-se uma obra representada por um conjunto de diferentes atividades, estruturadas com relações de precedência.
+
+    \espacopadrao
+
+    Nesta obra, existem diferentes equipes que podem realizar as diversas tarefas que são necessárias para conclusão do projeto. Cada equipe tem um custo para realização de uma tarefa e uma equipe não pode realizar duas tarefas simultâneamente.
+\end{frame}
+
+\begin{frame}{Descrição do Problema [parte II]}
+    O objetivo é decidir, para cada atividade, qual equipe utilizar e em que instante iniciá-la, de forma a minimizar o custo total do projeto — custo direto das equipes contratadas somado ao custo indireto proporcional à duração total da obra (e, opcionalmente, penalidades por atraso em relação a um prazo contratual) — respeitando as precedências entre atividades e a disponibilidade das equipes.
+\end{frame}
+
+
+
+\slidetitulo{Modelagem}
+
+\begin{frame}{Modelagem - Conjuntos e índices}
+    \begin{itemize}
+        \item \(A\): Conjunto de atividades da obra;
+        \item \(E\) Conjunto de equipes que podem realizar serviços na obra;
+        \item \(P\): Conjunto de pares de atividades com uma relação de precedência;
+        \item \(i, j\in A\): Atividades (\(i\), \(j\)) pertencentes ao conjunto de atividades da obra;
+        \item \(e \in E\): Equipe (\(e\)) que pode realizar uma tarefa;
+        \item \((i, j) \in P\): Par de atividades com uma relação de antecedência (\(i\) antecede \(j\)).
+    \end{itemize}
+\end{frame}
+
+\begin{frame}{Modelagem - Parâmetros}
+    \begin{itemize}
+        \item \(d_{i, e}\): Duração da atividade \(i\) quando realizada pela equipe \(e\);
+        \item \(c_{i,e}\): custo direto da atividade \(i\) quando realizada pela equipe \(e\)
+        \item \(CI\): custo indireto por unidade de tempo de obra;
+    \end{itemize}
+\end{frame}
+
+\begin{frame}{Modelagem - Variáveis de decisão}
+    \begin{itemize}
+        \item \(x_{i, e} = 
+        \begin{cases}
+            1, &\text{1 se a atividade }i\text{ é executada pela equpe }e\\
+            0, &\text{caso contrário}
+        \end{cases}\)
+
+        \item \(S_i\): Início da atividade \(i\) (Varável contínua, \(S_i \ge 0\));
+
+        \item \(C_{max}\): Instante de término da obra (Variável contínua, \(C_{max} \ge 0\)).
+    \end{itemize}
+\end{frame}
+
+\begin{frame}{Modelagem - Função objetiva}
+    $$
+    \min z = \sum_i \sum_e c_{i, e} x_{i, e} + CI \times C_{max}
+    $$
+\end{frame}
+
+\begin{frame}{Modelagem - Restições}
+    \begin{itemize}
+        \item \(\sum_e x_{i, e} = 1, \forall i \in A\): Cada atividade \(i\) deve ser realizada por uma única equipe \(e\);
+        \item \(S_i + \sum_e d_{i, e} x_{i, e} \le S_j, \forall (i, j) \in P\): Precedência das atividades;
+        \item \(S_i + \sum_e  d_{i, e} x_{i, e} \le C_{max}, \forall i \in A\): Todas as atividades devem ser concluidas antes do término;
+        \item \(S_i, S_j \ge 0\);
+        \item \(x_{i, e} \in \left\{ 0, 1 \right\}, \forall i, e\).
+    \end{itemize}
+\end{frame}
+
+\begin{frame}{Exemplo [parte I]}
+    Imagine uma obra que tem as seguintes atividades que necessitam ser concluidas:
+
+    \begin{enumerate}
+        \item Estrutura e fundações;
+        \item Paredes e telhado;
+        \item Instalação hidrâulica;
+        \item Instalação elétrica;
+        \item Acabamento.
+    \end{enumerate}
+
+    Onde as tarefas 1 e 2 devem ser feitas antes de quaisquer outras (nesta ordem) mas as tarefas 3 e 4 podem ser feitas em paralelo e a tarefa 5 deve ser feita após todas as outras.
+
+    Além disto, o custo indireto por unidade de tempo da obra é de 50.
+\end{frame}
+
+\begin{frame}{Exemplo [parte II]}
+    E as seguintes equipes com os seguintes durações (\(d\)) e custos (\(c\)) para realizar cada tarefa:
+
+    \espacopadrao
+
+    \begin{columns}
+        \begin{column}{0.3\linewidth}
+        Equipe \textbf{A}:
+        \begin{enumerate}
+            \item \(c = 5\); \(d = 10\);
+            \item \(c = 5\); \(d = 10\);
+            \item \(c = 10\); \(d = 20\);
+            \item \(c = 10\); \(d = 20\);
+            \item \(c = 100\); \(d = 100\);
+        \end{enumerate}
+        \end{column}
+
+        \begin{column}{0.3\linewidth}
+        Equipe \textbf{B}:
+        \begin{enumerate}
+            \item \(c = 10\); \(d = 45\);
+            \item \(c = 10\); \(d = 45\);
+            \item \(c = 8\); \(d = 10\);
+            \item \(c = 8\); \(d = 10\);
+            \item \(c = 210\); \(d = 90\);
+        \end{enumerate}
+        \end{column}
+
+        \begin{column}{0.3\linewidth}
+        Equipe \textbf{C}:
+        \begin{enumerate}
+            \item \(c = 100\); \(d = 90\);
+            \item \(c = 100\); \(d = 90\);
+            \item \(c = 145\); \(d = 80\);
+            \item \(c = 145\); \(d = 80\);
+            \item \(c = 15\); \(d = 30\);
+        \end{enumerate}
+        \end{column}
+    \end{columns}
+
+\end{frame}
+
+\begin{frame}{Exemplo [parte III]}
+    Assim teremos os seguintes conjuntos:
+
+    \begin{itemize}
+        \item \(A = \left\{1, 2, 3, 4, 5\right\}\)
+        \item \(E = \left\{ \mathbf{A}, \mathbf{B}, \mathbf{C} \right\}\)
+        \item \(P =\)
+        \tikz \graph { 1 -> 2 -> {3, 4} -> 5 };
+    \end{itemize}
+\end{frame}
+
+\begin{frame}{Exemplo [parte IV]}
+    Assim podemos escrever a matriz de custo e duração:
+
+    \espacopadrao
+
+    \begin{columns}
+        \begin{column}{0.5\linewidth}
+        \begin{equation*}
+            D = \begin{bmatrix}
+                10 & 45 & 90 \\
+                10 & 45 & 90 \\
+                20 & 10 & 80 \\
+                20 & 10 & 80 \\
+                100 & 90 & 30
+            \end{bmatrix}
+        \end{equation*} 
+        \end{column}
+
+        \begin{column}{0.5\linewidth}
+        \begin{equation*}
+            C = \begin{bmatrix}
+                5 & 10 & 100 \\
+                5 & 10 & 100 \\
+                10 & 8 & 145 \\
+                10 & 8 & 145 \\
+                100 & 210 & 15
+            \end{bmatrix}
+        \end{equation*}
+        \end{column}
+    \end{columns}
+\end{frame}
+
+\end{document}

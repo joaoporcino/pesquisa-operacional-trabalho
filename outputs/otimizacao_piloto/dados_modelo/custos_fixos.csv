@@ -1,0 +1,3 @@
+﻿ID_CUSTO_FIXO;DESCRICAO;ID_ATIVIDADE_EAP_ORIGEM;COD_EAP_ORIGEM;CLASSIFICACAO_ORIGEM;CUSTO_FIXO_PONTOS_INDICE;REPETICAO;TRATAMENTO
+FIX01;Setor 01 — pacote 001 — Preparar área de apoio;AT-00001;1.1.1.1;INDIRETA;0.67;UMA_VEZ;"Incluído uma única vez; excluído dos custos de equipe e da taxa diária."
+FIX02;Setor 01 — pacote 001 — Montar módulo temporário;AT-00002;1.1.1.2;INDIRETA;0.67;UMA_VEZ;"Incluído uma única vez; excluído dos custos de equipe e da taxa diária."

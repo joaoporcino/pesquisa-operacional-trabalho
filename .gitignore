@@ -1,0 +1,21 @@
+# Dados derivados da obra e análises associadas: revisar antes de divulgar.
+/dados_anonimizados*/
+/*-dados_anonimizados/
+/dados_simulados/dados_sinteticos_pesquisa_operacional/
+/outputs/auditoria_base_real/
+/outputs/caso_real_exploratorio/
+/outputs/planilhas_exploratorias/
+/Analise chatgpt.md
+/scripts/anonimizar_s11d.py
+
+# Arquivos locais e produtos temporários.
+gurobi.lic
+__pycache__/
+*.py[cod]
+node_modules/
+.venv/
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.xlsx.inspect.ndjson

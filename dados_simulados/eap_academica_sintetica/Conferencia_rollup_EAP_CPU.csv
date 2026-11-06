@@ -1,0 +1,32 @@
+﻿COD_EAP;COD_PAI;NIVEL;DESCRICAO_SINTETICA;PONTOS_EAP_ORIGINAIS;PONTOS_ROLLUP_CPU;DIFERENCA;RECONCILIADO
+0;;0;Projeto acadêmico de implantação de infraestrutura linear;1000.00;1000.00;0.00;SIM
+1;0;1;Preparação, engenharia e apoio;150.00;150.00;0.00;SIM
+1.1;1;2;Implantação e levantamentos;30.00;30.00;0.00;SIM
+1.1.1;1.1;3;Mobilização e instalações provisórias;20.00;20.00;0.00;SIM
+1.1.2;1.1;3;Levantamentos de campo;10.00;10.00;0.00;SIM
+1.2;1;2;Engenharia, liberações e suprimentos;75.00;75.00;0.00;SIM
+1.2.1;1.2;3;Autorizações e liberação de frentes;10.00;10.00;0.00;SIM
+1.2.2;1.2;3;Projeto executivo e construtibilidade;25.00;25.00;0.00;SIM
+1.2.3;1.2;3;Aquisição de materiais de prazo longo;40.00;40.00;0.00;SIM
+1.3;1;2;Gestão e apoio contínuo;45.00;45.00;0.00;SIM
+1.3.1;1.3;3;Planejamento, controles e supervisão;30.00;30.00;0.00;SIM
+1.3.2;1.3;3;Segurança, meio ambiente e qualidade;15.00;15.00;0.00;SIM
+2;0;1;Execução da infraestrutura;810.00;810.00;0.00;SIM
+2.1;2;2;Preparação e movimentação de terra;305.00;305.00;0.00;SIM
+2.1.1;2.1;3;Limpeza e acessos provisórios;40.00;40.00;0.00;SIM
+2.1.2;2.1;3;Cortes, aterros e conformação;200.00;200.00;0.00;SIM
+2.1.3;2.1;3;Preparação do subleito;65.00;65.00;0.00;SIM
+2.2;2;2;Drenagem;135.00;135.00;0.00;SIM
+2.2.1;2.2;3;Drenagem transversal;70.00;70.00;0.00;SIM
+2.2.2;2.2;3;Drenagem longitudinal;65.00;65.00;0.00;SIM
+2.3;2;2;Fundações e estruturas;175.00;175.00;0.00;SIM
+2.3.1;2.3;3;Fundações e contenções;95.00;95.00;0.00;SIM
+2.3.2;2.3;3;Estruturas de concreto ou metálicas;80.00;80.00;0.00;SIM
+2.4;2;2;Camadas e acabamentos;195.00;195.00;0.00;SIM
+2.4.1;2.4;3;Sub-base e base granular;70.00;70.00;0.00;SIM
+2.4.2;2.4;3;Revestimento e superfície de rolamento;90.00;90.00;0.00;SIM
+2.4.3;2.4;3;Sinalização, defensas e acabamentos;35.00;35.00;0.00;SIM
+3;0;1;Inspeção, entrega e encerramento;40.00;40.00;0.00;SIM
+3.1;3;2;Aceitação e encerramento;40.00;40.00;0.00;SIM
+3.1.1;3.1;3;Inspeções e correções;25.00;25.00;0.00;SIM
+3.1.2;3.1;3;Entrega e desmobilização;15.00;15.00;0.00;SIM

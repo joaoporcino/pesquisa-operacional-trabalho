@@ -1,0 +1,26 @@
+﻿PREDECESSORA;SUCESSORA;RELACAO;LAG_DIAS;PREMISSA
+A00;A01;FS;0;Dependência lógica hipotética para o estudo
+A01;A02;FS;0;Dependência lógica hipotética para o estudo
+A02;A03;FS;0;Dependência lógica hipotética para o estudo
+A02;A04;FS;0;Dependência lógica hipotética para o estudo
+A04;A05;FS;0;Dependência lógica hipotética para o estudo
+A01;A06;FS;0;Dependência lógica hipotética para o estudo
+A03;A06;FS;0;Dependência lógica hipotética para o estudo
+A06;A07;FS;0;Dependência lógica hipotética para o estudo
+A06;A08;FS;0;Dependência lógica hipotética para o estudo
+A06;A11;FS;0;Dependência lógica hipotética para o estudo
+A05;A11;FS;0;Dependência lógica hipotética para o estudo
+A08;A09;FS;0;Dependência lógica hipotética para o estudo
+A07;A10;FS;0;Dependência lógica hipotética para o estudo
+A08;A10;FS;0;Dependência lógica hipotética para o estudo
+A11;A12;FS;0;Dependência lógica hipotética para o estudo
+A05;A12;FS;0;Dependência lógica hipotética para o estudo
+A09;A13;FS;0;Dependência lógica hipotética para o estudo
+A10;A13;FS;0;Dependência lógica hipotética para o estudo
+A12;A13;FS;0;Dependência lógica hipotética para o estudo
+A13;A14;FS;0;Dependência lógica hipotética para o estudo
+A05;A14;FS;0;Dependência lógica hipotética para o estudo
+A14;A15;FS;0;Dependência lógica hipotética para o estudo
+A15;A16;FS;0;Dependência lógica hipotética para o estudo
+A16;A17;FS;0;Dependência lógica hipotética para o estudo
+A17;A99;FS;0;Dependência lógica hipotética para o estudo

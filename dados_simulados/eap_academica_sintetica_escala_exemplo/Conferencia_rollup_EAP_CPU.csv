@@ -1,0 +1,1850 @@
+﻿COD_EAP;COD_PAI;NIVEL;DESCRICAO_SINTETICA;PONTOS_EAP_ORIGINAIS;PONTOS_ROLLUP_CPU;DIFERENCA;RECONCILIADO
+0;;0;Projeto acadêmico de infraestrutura linear;1000.00;1000.00;0.00;SIM
+1;0;1;Preparação, mobilização e engenharia;150.00;150.00;0.00;SIM
+1.1;1;2;Apoio e mobilização — frente 01;43.05;43.05;0.00;SIM
+1.2;1;2;Levantamentos — frente 02;36.63;36.63;0.00;SIM
+1.3;1;2;Engenharia e liberações — frente 03;36.11;36.11;0.00;SIM
+1.4;1;2;Suprimentos — frente 04;19.67;19.67;0.00;SIM
+1.5;1;2;Gestão contínua — frente 05;14.54;14.54;0.00;SIM
+2;0;1;Preparação física, terraplenagem e drenagem;535.00;535.00;0.00;SIM
+2.1;2;2;Acessos e limpeza — frente 01;109.42;109.42;0.00;SIM
+2.2;2;2;Movimentação de terra — frente 02;109.42;109.42;0.00;SIM
+2.3;2;2;Subleito — frente 03;108.50;108.50;0.00;SIM
+2.4;2;2;Dispositivos de drenagem — frente 04;107.16;107.16;0.00;SIM
+2.5;2;2;Fundações e contenções — frente 05;100.50;100.50;0.00;SIM
+3;0;1;Estruturas, bases e revestimentos;240.00;240.00;0.00;SIM
+3.1;3;2;Estruturas — frente 01;53.45;53.45;0.00;SIM
+3.2;3;2;Camadas granulares — frente 02;48.73;48.73;0.00;SIM
+3.3;3;2;Revestimento — frente 03;47.40;47.40;0.00;SIM
+3.4;3;2;Interfaces construtivas — frente 04;45.21;45.21;0.00;SIM
+3.5;3;2;Controle de execução — frente 05;45.21;45.21;0.00;SIM
+4;0;1;Segurança, inspeção e acabamento;60.00;60.00;0.00;SIM
+4.1;4;2;Defensas e sinalização — frente 01;13.70;13.70;0.00;SIM
+4.2;4;2;Inspeções — frente 02;13.69;13.69;0.00;SIM
+4.3;4;2;Correções — frente 03;11.81;11.81;0.00;SIM
+4.4;4;2;Acabamentos — frente 04;11.36;11.36;0.00;SIM
+4.5;4;2;Aceitação técnica — frente 05;9.44;9.44;0.00;SIM
+5;0;1;Entrega e encerramento;15.00;15.00;0.00;SIM
+5.1;5;2;Entrega — frente 01;3.50;3.50;0.00;SIM
+5.2;5;2;Documentação — frente 02;3.50;3.50;0.00;SIM
+5.3;5;2;Desmobilização — frente 03;3.50;3.50;0.00;SIM
+5.4;5;2;Encerramento administrativo — frente 04;3.00;3.00;0.00;SIM
+5.5;5;2;Fechamento de frentes — frente 05;1.50;1.50;0.00;SIM
+1.1.1;1.1;3;Mobilização e instalações provisórias — setor 01, pacote 001;2.68;2.68;0.00;SIM
+1.1.1.1;1.1.1;4;Setor 01 — pacote 001 — Preparar área de apoio;0.67;0.67;0.00;SIM
+1.1.1.2;1.1.1;4;Setor 01 — pacote 001 — Montar módulo temporário;0.67;0.67;0.00;SIM
+1.1.1.3;1.1.1;4;Setor 01 — pacote 001 — Liberar utilidades provisórias;0.67;0.67;0.00;SIM
+1.1.1.4;1.1.1;4;Setor 01 — pacote 001 — Organizar acesso da frente;0.67;0.67;0.00;SIM
+1.2.1;1.2;3;Mobilização e instalações provisórias — setor 02, pacote 002;2.68;2.68;0.00;SIM
+1.2.1.1;1.2.1;4;Setor 02 — pacote 002 — Montar módulo temporário;0.67;0.67;0.00;SIM
+1.2.1.2;1.2.1;4;Setor 02 — pacote 002 — Liberar utilidades provisórias;0.67;0.67;0.00;SIM
+1.2.1.3;1.2.1;4;Setor 02 — pacote 002 — Organizar acesso da frente;0.67;0.67;0.00;SIM
+1.2.1.4;1.2.1;4;Setor 02 — pacote 002 — Preparar área de apoio;0.67;0.67;0.00;SIM
+1.3.1;1.3;3;Mobilização e instalações provisórias — setor 03, pacote 003;2.68;2.68;0.00;SIM
+1.3.1.1;1.3.1;4;Setor 03 — pacote 003 — Liberar utilidades provisórias;0.67;0.67;0.00;SIM
+1.3.1.2;1.3.1;4;Setor 03 — pacote 003 — Organizar acesso da frente;0.67;0.67;0.00;SIM
+1.3.1.3;1.3.1;4;Setor 03 — pacote 003 — Preparar área de apoio;0.67;0.67;0.00;SIM
+1.3.1.4;1.3.1;4;Setor 03 — pacote 003 — Montar módulo temporário;0.67;0.67;0.00;SIM
+1.4.1;1.4;3;Mobilização e instalações provisórias — setor 04, pacote 004;2.01;2.01;0.00;SIM
+1.4.1.1;1.4.1;4;Setor 04 — pacote 004 — Organizar acesso da frente;0.67;0.67;0.00;SIM
+1.4.1.2;1.4.1;4;Setor 04 — pacote 004 — Preparar área de apoio;0.67;0.67;0.00;SIM
+1.4.1.3;1.4.1;4;Setor 04 — pacote 004 — Montar módulo temporário;0.67;0.67;0.00;SIM
+1.5.1;1.5;3;Mobilização e instalações provisórias — setor 05, pacote 005;2.01;2.01;0.00;SIM
+1.5.1.1;1.5.1;4;Setor 05 — pacote 005 — Organizar acesso da frente;0.67;0.67;0.00;SIM
+1.5.1.2;1.5.1;4;Setor 05 — pacote 005 — Preparar área de apoio;0.67;0.67;0.00;SIM
+1.5.1.3;1.5.1;4;Setor 05 — pacote 005 — Montar módulo temporário;0.67;0.67;0.00;SIM
+1.1.2;1.1;3;Mobilização e instalações provisórias — setor 01, pacote 006;2.00;2.00;0.00;SIM
+1.1.2.1;1.1.2;4;Setor 01 — pacote 006 — Organizar acesso da frente;0.67;0.67;0.00;SIM
+1.1.2.2;1.1.2;4;Setor 01 — pacote 006 — Preparar área de apoio;0.67;0.67;0.00;SIM
+1.1.2.3;1.1.2;4;Setor 01 — pacote 006 — Montar módulo temporário;0.66;0.66;0.00;SIM
+1.2.2;1.2;3;Mobilização e instalações provisórias — setor 02, pacote 007;1.98;1.98;0.00;SIM
+1.2.2.1;1.2.2;4;Setor 02 — pacote 007 — Organizar acesso da frente;0.66;0.66;0.00;SIM
+1.2.2.2;1.2.2;4;Setor 02 — pacote 007 — Preparar área de apoio;0.66;0.66;0.00;SIM
+1.2.2.3;1.2.2;4;Setor 02 — pacote 007 — Montar módulo temporário;0.66;0.66;0.00;SIM
+1.3.2;1.3;3;Mobilização e instalações provisórias — setor 03, pacote 008;1.98;1.98;0.00;SIM
+1.3.2.1;1.3.2;4;Setor 03 — pacote 008 — Organizar acesso da frente;0.66;0.66;0.00;SIM
+1.3.2.2;1.3.2;4;Setor 03 — pacote 008 — Preparar área de apoio;0.66;0.66;0.00;SIM
+1.3.2.3;1.3.2;4;Setor 03 — pacote 008 — Montar módulo temporário;0.66;0.66;0.00;SIM
+1.4.2;1.4;3;Mobilização e instalações provisórias — setor 04, pacote 009;1.98;1.98;0.00;SIM
+1.4.2.1;1.4.2;4;Setor 04 — pacote 009 — Organizar acesso da frente;0.66;0.66;0.00;SIM
+1.4.2.2;1.4.2;4;Setor 04 — pacote 009 — Preparar área de apoio;0.66;0.66;0.00;SIM
+1.4.2.3;1.4.2;4;Setor 04 — pacote 009 — Montar módulo temporário;0.66;0.66;0.00;SIM
+1.1.3;1.1;3;Levantamentos topográficos e geotécnicos — setor 01, pacote 001;1.60;1.60;0.00;SIM
+1.1.3.1;1.1.3;4;Setor 01 — pacote 001 — Implantar pontos de controle;0.40;0.40;0.00;SIM
+1.1.3.2;1.1.3;4;Setor 01 — pacote 001 — Levantar faixa de implantação;0.40;0.40;0.00;SIM
+1.1.3.3;1.1.3;4;Setor 01 — pacote 001 — Investigar condição do subsolo;0.40;0.40;0.00;SIM
+1.1.3.4;1.1.3;4;Setor 01 — pacote 001 — Consolidar registro de campo;0.40;0.40;0.00;SIM
+1.2.3;1.2;3;Levantamentos topográficos e geotécnicos — setor 02, pacote 002;1.20;1.20;0.00;SIM
+1.2.3.1;1.2.3;4;Setor 02 — pacote 002 — Levantar faixa de implantação;0.40;0.40;0.00;SIM
+1.2.3.2;1.2.3;4;Setor 02 — pacote 002 — Investigar condição do subsolo;0.40;0.40;0.00;SIM
+1.2.3.3;1.2.3;4;Setor 02 — pacote 002 — Consolidar registro de campo;0.40;0.40;0.00;SIM
+1.3.3;1.3;3;Levantamentos topográficos e geotécnicos — setor 03, pacote 003;1.20;1.20;0.00;SIM
+1.3.3.1;1.3.3;4;Setor 03 — pacote 003 — Levantar faixa de implantação;0.40;0.40;0.00;SIM
+1.3.3.2;1.3.3;4;Setor 03 — pacote 003 — Investigar condição do subsolo;0.40;0.40;0.00;SIM
+1.3.3.3;1.3.3;4;Setor 03 — pacote 003 — Consolidar registro de campo;0.40;0.40;0.00;SIM
+1.4.3;1.4;3;Levantamentos topográficos e geotécnicos — setor 04, pacote 004;1.20;1.20;0.00;SIM
+1.4.3.1;1.4.3;4;Setor 04 — pacote 004 — Levantar faixa de implantação;0.40;0.40;0.00;SIM
+1.4.3.2;1.4.3;4;Setor 04 — pacote 004 — Investigar condição do subsolo;0.40;0.40;0.00;SIM
+1.4.3.3;1.4.3;4;Setor 04 — pacote 004 — Consolidar registro de campo;0.40;0.40;0.00;SIM
+1.5.2;1.5;3;Levantamentos topográficos e geotécnicos — setor 05, pacote 005;1.20;1.20;0.00;SIM
+1.5.2.1;1.5.2;4;Setor 05 — pacote 005 — Levantar faixa de implantação;0.40;0.40;0.00;SIM
+1.5.2.2;1.5.2;4;Setor 05 — pacote 005 — Investigar condição do subsolo;0.40;0.40;0.00;SIM
+1.5.2.3;1.5.2;4;Setor 05 — pacote 005 — Consolidar registro de campo;0.40;0.40;0.00;SIM
+1.1.4;1.1;3;Levantamentos topográficos e geotécnicos — setor 01, pacote 006;1.20;1.20;0.00;SIM
+1.1.4.1;1.1.4;4;Setor 01 — pacote 006 — Levantar faixa de implantação;0.40;0.40;0.00;SIM
+1.1.4.2;1.1.4;4;Setor 01 — pacote 006 — Investigar condição do subsolo;0.40;0.40;0.00;SIM
+1.1.4.3;1.1.4;4;Setor 01 — pacote 006 — Consolidar registro de campo;0.40;0.40;0.00;SIM
+1.2.4;1.2;3;Levantamentos topográficos e geotécnicos — setor 02, pacote 007;1.20;1.20;0.00;SIM
+1.2.4.1;1.2.4;4;Setor 02 — pacote 007 — Levantar faixa de implantação;0.40;0.40;0.00;SIM
+1.2.4.2;1.2.4;4;Setor 02 — pacote 007 — Investigar condição do subsolo;0.40;0.40;0.00;SIM
+1.2.4.3;1.2.4;4;Setor 02 — pacote 007 — Consolidar registro de campo;0.40;0.40;0.00;SIM
+1.3.4;1.3;3;Levantamentos topográficos e geotécnicos — setor 03, pacote 008;1.20;1.20;0.00;SIM
+1.3.4.1;1.3.4;4;Setor 03 — pacote 008 — Levantar faixa de implantação;0.40;0.40;0.00;SIM
+1.3.4.2;1.3.4;4;Setor 03 — pacote 008 — Investigar condição do subsolo;0.40;0.40;0.00;SIM
+1.3.4.3;1.3.4;4;Setor 03 — pacote 008 — Consolidar registro de campo;0.40;0.40;0.00;SIM
+1.1.5;1.1;3;Autorizações e liberação de frentes — setor 01, pacote 001;2.00;2.00;0.00;SIM
+1.1.5.1;1.1.5;4;Setor 01 — pacote 001 — Preparar documentação de liberação;0.50;0.50;0.00;SIM
+1.1.5.2;1.1.5;4;Setor 01 — pacote 001 — Validar acesso à área;0.50;0.50;0.00;SIM
+1.1.5.3;1.1.5;4;Setor 01 — pacote 001 — Registrar condicionantes de execução;0.50;0.50;0.00;SIM
+1.1.5.4;1.1.5;4;Setor 01 — pacote 001 — Emitir termo de liberação;0.50;0.50;0.00;SIM
+1.2.5;1.2;3;Autorizações e liberação de frentes — setor 02, pacote 002;2.00;2.00;0.00;SIM
+1.2.5.1;1.2.5;4;Setor 02 — pacote 002 — Validar acesso à área;0.50;0.50;0.00;SIM
+1.2.5.2;1.2.5;4;Setor 02 — pacote 002 — Registrar condicionantes de execução;0.50;0.50;0.00;SIM
+1.2.5.3;1.2.5;4;Setor 02 — pacote 002 — Emitir termo de liberação;0.50;0.50;0.00;SIM
+1.2.5.4;1.2.5;4;Setor 02 — pacote 002 — Preparar documentação de liberação;0.50;0.50;0.00;SIM
+1.3.5;1.3;3;Autorizações e liberação de frentes — setor 03, pacote 003;1.50;1.50;0.00;SIM
+1.3.5.1;1.3.5;4;Setor 03 — pacote 003 — Registrar condicionantes de execução;0.50;0.50;0.00;SIM
+1.3.5.2;1.3.5;4;Setor 03 — pacote 003 — Emitir termo de liberação;0.50;0.50;0.00;SIM
+1.3.5.3;1.3.5;4;Setor 03 — pacote 003 — Preparar documentação de liberação;0.50;0.50;0.00;SIM
+1.4.4;1.4;3;Autorizações e liberação de frentes — setor 04, pacote 004;1.50;1.50;0.00;SIM
+1.4.4.1;1.4.4;4;Setor 04 — pacote 004 — Registrar condicionantes de execução;0.50;0.50;0.00;SIM
+1.4.4.2;1.4.4;4;Setor 04 — pacote 004 — Emitir termo de liberação;0.50;0.50;0.00;SIM
+1.4.4.3;1.4.4;4;Setor 04 — pacote 004 — Preparar documentação de liberação;0.50;0.50;0.00;SIM
+1.5.3;1.5;3;Autorizações e liberação de frentes — setor 05, pacote 005;1.50;1.50;0.00;SIM
+1.5.3.1;1.5.3;4;Setor 05 — pacote 005 — Registrar condicionantes de execução;0.50;0.50;0.00;SIM
+1.5.3.2;1.5.3;4;Setor 05 — pacote 005 — Emitir termo de liberação;0.50;0.50;0.00;SIM
+1.5.3.3;1.5.3;4;Setor 05 — pacote 005 — Preparar documentação de liberação;0.50;0.50;0.00;SIM
+1.1.6;1.1;3;Autorizações e liberação de frentes — setor 01, pacote 006;1.50;1.50;0.00;SIM
+1.1.6.1;1.1.6;4;Setor 01 — pacote 006 — Registrar condicionantes de execução;0.50;0.50;0.00;SIM
+1.1.6.2;1.1.6;4;Setor 01 — pacote 006 — Emitir termo de liberação;0.50;0.50;0.00;SIM
+1.1.6.3;1.1.6;4;Setor 01 — pacote 006 — Preparar documentação de liberação;0.50;0.50;0.00;SIM
+1.1.7;1.1;3;Projeto executivo e construtibilidade — setor 01, pacote 001;2.24;2.24;0.00;SIM
+1.1.7.1;1.1.7;4;Setor 01 — pacote 001 — Detalhar solução executiva;0.56;0.56;0.00;SIM
+1.1.7.2;1.1.7;4;Setor 01 — pacote 001 — Compatibilizar interfaces;0.56;0.56;0.00;SIM
+1.1.7.3;1.1.7;4;Setor 01 — pacote 001 — Revisar sequência construtiva;0.56;0.56;0.00;SIM
+1.1.7.4;1.1.7;4;Setor 01 — pacote 001 — Emitir desenho para campo;0.56;0.56;0.00;SIM
+1.2.6;1.2;3;Projeto executivo e construtibilidade — setor 02, pacote 002;2.24;2.24;0.00;SIM
+1.2.6.1;1.2.6;4;Setor 02 — pacote 002 — Compatibilizar interfaces;0.56;0.56;0.00;SIM
+1.2.6.2;1.2.6;4;Setor 02 — pacote 002 — Revisar sequência construtiva;0.56;0.56;0.00;SIM
+1.2.6.3;1.2.6;4;Setor 02 — pacote 002 — Emitir desenho para campo;0.56;0.56;0.00;SIM
+1.2.6.4;1.2.6;4;Setor 02 — pacote 002 — Detalhar solução executiva;0.56;0.56;0.00;SIM
+1.3.6;1.3;3;Projeto executivo e construtibilidade — setor 03, pacote 003;2.24;2.24;0.00;SIM
+1.3.6.1;1.3.6;4;Setor 03 — pacote 003 — Revisar sequência construtiva;0.56;0.56;0.00;SIM
+1.3.6.2;1.3.6;4;Setor 03 — pacote 003 — Emitir desenho para campo;0.56;0.56;0.00;SIM
+1.3.6.3;1.3.6;4;Setor 03 — pacote 003 — Detalhar solução executiva;0.56;0.56;0.00;SIM
+1.3.6.4;1.3.6;4;Setor 03 — pacote 003 — Compatibilizar interfaces;0.56;0.56;0.00;SIM
+1.4.5;1.4;3;Projeto executivo e construtibilidade — setor 04, pacote 004;1.68;1.68;0.00;SIM
+1.4.5.1;1.4.5;4;Setor 04 — pacote 004 — Emitir desenho para campo;0.56;0.56;0.00;SIM
+1.4.5.2;1.4.5;4;Setor 04 — pacote 004 — Detalhar solução executiva;0.56;0.56;0.00;SIM
+1.4.5.3;1.4.5;4;Setor 04 — pacote 004 — Compatibilizar interfaces;0.56;0.56;0.00;SIM
+1.5.4;1.5;3;Projeto executivo e construtibilidade — setor 05, pacote 005;1.68;1.68;0.00;SIM
+1.5.4.1;1.5.4;4;Setor 05 — pacote 005 — Emitir desenho para campo;0.56;0.56;0.00;SIM
+1.5.4.2;1.5.4;4;Setor 05 — pacote 005 — Detalhar solução executiva;0.56;0.56;0.00;SIM
+1.5.4.3;1.5.4;4;Setor 05 — pacote 005 — Compatibilizar interfaces;0.56;0.56;0.00;SIM
+1.1.8;1.1;3;Projeto executivo e construtibilidade — setor 01, pacote 006;1.68;1.68;0.00;SIM
+1.1.8.1;1.1.8;4;Setor 01 — pacote 006 — Emitir desenho para campo;0.56;0.56;0.00;SIM
+1.1.8.2;1.1.8;4;Setor 01 — pacote 006 — Detalhar solução executiva;0.56;0.56;0.00;SIM
+1.1.8.3;1.1.8;4;Setor 01 — pacote 006 — Compatibilizar interfaces;0.56;0.56;0.00;SIM
+1.2.7;1.2;3;Projeto executivo e construtibilidade — setor 02, pacote 007;1.68;1.68;0.00;SIM
+1.2.7.1;1.2.7;4;Setor 02 — pacote 007 — Emitir desenho para campo;0.56;0.56;0.00;SIM
+1.2.7.2;1.2.7;4;Setor 02 — pacote 007 — Detalhar solução executiva;0.56;0.56;0.00;SIM
+1.2.7.3;1.2.7;4;Setor 02 — pacote 007 — Compatibilizar interfaces;0.56;0.56;0.00;SIM
+1.3.7;1.3;3;Projeto executivo e construtibilidade — setor 03, pacote 008;1.66;1.66;0.00;SIM
+1.3.7.1;1.3.7;4;Setor 03 — pacote 008 — Emitir desenho para campo;0.56;0.56;0.00;SIM
+1.3.7.2;1.3.7;4;Setor 03 — pacote 008 — Detalhar solução executiva;0.55;0.55;0.00;SIM
+1.3.7.3;1.3.7;4;Setor 03 — pacote 008 — Compatibilizar interfaces;0.55;0.55;0.00;SIM
+1.4.6;1.4;3;Projeto executivo e construtibilidade — setor 04, pacote 009;1.65;1.65;0.00;SIM
+1.4.6.1;1.4.6;4;Setor 04 — pacote 009 — Emitir desenho para campo;0.55;0.55;0.00;SIM
+1.4.6.2;1.4.6;4;Setor 04 — pacote 009 — Detalhar solução executiva;0.55;0.55;0.00;SIM
+1.4.6.3;1.4.6;4;Setor 04 — pacote 009 — Compatibilizar interfaces;0.55;0.55;0.00;SIM
+1.5.5;1.5;3;Projeto executivo e construtibilidade — setor 05, pacote 010;1.65;1.65;0.00;SIM
+1.5.5.1;1.5.5;4;Setor 05 — pacote 010 — Emitir desenho para campo;0.55;0.55;0.00;SIM
+1.5.5.2;1.5.5;4;Setor 05 — pacote 010 — Detalhar solução executiva;0.55;0.55;0.00;SIM
+1.5.5.3;1.5.5;4;Setor 05 — pacote 010 — Compatibilizar interfaces;0.55;0.55;0.00;SIM
+1.1.9;1.1;3;Projeto executivo e construtibilidade — setor 01, pacote 011;1.65;1.65;0.00;SIM
+1.1.9.1;1.1.9;4;Setor 01 — pacote 011 — Emitir desenho para campo;0.55;0.55;0.00;SIM
+1.1.9.2;1.1.9;4;Setor 01 — pacote 011 — Detalhar solução executiva;0.55;0.55;0.00;SIM
+1.1.9.3;1.1.9;4;Setor 01 — pacote 011 — Compatibilizar interfaces;0.55;0.55;0.00;SIM
+1.2.8;1.2;3;Projeto executivo e construtibilidade — setor 02, pacote 012;1.65;1.65;0.00;SIM
+1.2.8.1;1.2.8;4;Setor 02 — pacote 012 — Emitir desenho para campo;0.55;0.55;0.00;SIM
+1.2.8.2;1.2.8;4;Setor 02 — pacote 012 — Detalhar solução executiva;0.55;0.55;0.00;SIM
+1.2.8.3;1.2.8;4;Setor 02 — pacote 012 — Compatibilizar interfaces;0.55;0.55;0.00;SIM
+1.3.8;1.3;3;Projeto executivo e construtibilidade — setor 03, pacote 013;1.65;1.65;0.00;SIM
+1.3.8.1;1.3.8;4;Setor 03 — pacote 013 — Emitir desenho para campo;0.55;0.55;0.00;SIM
+1.3.8.2;1.3.8;4;Setor 03 — pacote 013 — Detalhar solução executiva;0.55;0.55;0.00;SIM
+1.3.8.3;1.3.8;4;Setor 03 — pacote 013 — Compatibilizar interfaces;0.55;0.55;0.00;SIM
+1.4.7;1.4;3;Projeto executivo e construtibilidade — setor 04, pacote 014;1.65;1.65;0.00;SIM
+1.4.7.1;1.4.7;4;Setor 04 — pacote 014 — Emitir desenho para campo;0.55;0.55;0.00;SIM
+1.4.7.2;1.4.7;4;Setor 04 — pacote 014 — Detalhar solução executiva;0.55;0.55;0.00;SIM
+1.4.7.3;1.4.7;4;Setor 04 — pacote 014 — Compatibilizar interfaces;0.55;0.55;0.00;SIM
+1.1.10;1.1;3;Aquisição de materiais de prazo longo — setor 01, pacote 001;2.00;2.00;0.00;SIM
+1.1.10.1;1.1.10;4;Setor 01 — pacote 001 — Confirmar especificação de fornecimento;0.50;0.50;0.00;SIM
+1.1.10.2;1.1.10;4;Setor 01 — pacote 001 — Emitir pedido de material;0.50;0.50;0.00;SIM
+1.1.10.3;1.1.10;4;Setor 01 — pacote 001 — Inspecionar recebimento;0.50;0.50;0.00;SIM
+1.1.10.4;1.1.10;4;Setor 01 — pacote 001 — Liberar lote para uso;0.50;0.50;0.00;SIM
+1.2.9;1.2;3;Aquisição de materiais de prazo longo — setor 02, pacote 002;2.00;2.00;0.00;SIM
+1.2.9.1;1.2.9;4;Setor 02 — pacote 002 — Emitir pedido de material;0.50;0.50;0.00;SIM
+1.2.9.2;1.2.9;4;Setor 02 — pacote 002 — Inspecionar recebimento;0.50;0.50;0.00;SIM
+1.2.9.3;1.2.9;4;Setor 02 — pacote 002 — Liberar lote para uso;0.50;0.50;0.00;SIM
+1.2.9.4;1.2.9;4;Setor 02 — pacote 002 — Confirmar especificação de fornecimento;0.50;0.50;0.00;SIM
+1.3.9;1.3;3;Aquisição de materiais de prazo longo — setor 03, pacote 003;2.00;2.00;0.00;SIM
+1.3.9.1;1.3.9;4;Setor 03 — pacote 003 — Inspecionar recebimento;0.50;0.50;0.00;SIM
+1.3.9.2;1.3.9;4;Setor 03 — pacote 003 — Liberar lote para uso;0.50;0.50;0.00;SIM
+1.3.9.3;1.3.9;4;Setor 03 — pacote 003 — Confirmar especificação de fornecimento;0.50;0.50;0.00;SIM
+1.3.9.4;1.3.9;4;Setor 03 — pacote 003 — Emitir pedido de material;0.50;0.50;0.00;SIM
+1.4.8;1.4;3;Aquisição de materiais de prazo longo — setor 04, pacote 004;2.00;2.00;0.00;SIM
+1.4.8.1;1.4.8;4;Setor 04 — pacote 004 — Liberar lote para uso;0.50;0.50;0.00;SIM
+1.4.8.2;1.4.8;4;Setor 04 — pacote 004 — Confirmar especificação de fornecimento;0.50;0.50;0.00;SIM
+1.4.8.3;1.4.8;4;Setor 04 — pacote 004 — Emitir pedido de material;0.50;0.50;0.00;SIM
+1.4.8.4;1.4.8;4;Setor 04 — pacote 004 — Inspecionar recebimento;0.50;0.50;0.00;SIM
+1.5.6;1.5;3;Aquisição de materiais de prazo longo — setor 05, pacote 005;2.00;2.00;0.00;SIM
+1.5.6.1;1.5.6;4;Setor 05 — pacote 005 — Confirmar especificação de fornecimento;0.50;0.50;0.00;SIM
+1.5.6.2;1.5.6;4;Setor 05 — pacote 005 — Emitir pedido de material;0.50;0.50;0.00;SIM
+1.5.6.3;1.5.6;4;Setor 05 — pacote 005 — Inspecionar recebimento;0.50;0.50;0.00;SIM
+1.5.6.4;1.5.6;4;Setor 05 — pacote 005 — Liberar lote para uso;0.50;0.50;0.00;SIM
+1.1.11;1.1;3;Aquisição de materiais de prazo longo — setor 01, pacote 006;2.00;2.00;0.00;SIM
+1.1.11.1;1.1.11;4;Setor 01 — pacote 006 — Emitir pedido de material;0.50;0.50;0.00;SIM
+1.1.11.2;1.1.11;4;Setor 01 — pacote 006 — Inspecionar recebimento;0.50;0.50;0.00;SIM
+1.1.11.3;1.1.11;4;Setor 01 — pacote 006 — Liberar lote para uso;0.50;0.50;0.00;SIM
+1.1.11.4;1.1.11;4;Setor 01 — pacote 006 — Confirmar especificação de fornecimento;0.50;0.50;0.00;SIM
+1.2.10;1.2;3;Aquisição de materiais de prazo longo — setor 02, pacote 007;2.00;2.00;0.00;SIM
+1.2.10.1;1.2.10;4;Setor 02 — pacote 007 — Inspecionar recebimento;0.50;0.50;0.00;SIM
+1.2.10.2;1.2.10;4;Setor 02 — pacote 007 — Liberar lote para uso;0.50;0.50;0.00;SIM
+1.2.10.3;1.2.10;4;Setor 02 — pacote 007 — Confirmar especificação de fornecimento;0.50;0.50;0.00;SIM
+1.2.10.4;1.2.10;4;Setor 02 — pacote 007 — Emitir pedido de material;0.50;0.50;0.00;SIM
+1.3.10;1.3;3;Aquisição de materiais de prazo longo — setor 03, pacote 008;2.00;2.00;0.00;SIM
+1.3.10.1;1.3.10;4;Setor 03 — pacote 008 — Liberar lote para uso;0.50;0.50;0.00;SIM
+1.3.10.2;1.3.10;4;Setor 03 — pacote 008 — Confirmar especificação de fornecimento;0.50;0.50;0.00;SIM
+1.3.10.3;1.3.10;4;Setor 03 — pacote 008 — Emitir pedido de material;0.50;0.50;0.00;SIM
+1.3.10.4;1.3.10;4;Setor 03 — pacote 008 — Inspecionar recebimento;0.50;0.50;0.00;SIM
+1.4.9;1.4;3;Aquisição de materiais de prazo longo — setor 04, pacote 009;1.50;1.50;0.00;SIM
+1.4.9.1;1.4.9;4;Setor 04 — pacote 009 — Confirmar especificação de fornecimento;0.50;0.50;0.00;SIM
+1.4.9.2;1.4.9;4;Setor 04 — pacote 009 — Emitir pedido de material;0.50;0.50;0.00;SIM
+1.4.9.3;1.4.9;4;Setor 04 — pacote 009 — Inspecionar recebimento;0.50;0.50;0.00;SIM
+1.5.7;1.5;3;Aquisição de materiais de prazo longo — setor 05, pacote 010;1.50;1.50;0.00;SIM
+1.5.7.1;1.5.7;4;Setor 05 — pacote 010 — Confirmar especificação de fornecimento;0.50;0.50;0.00;SIM
+1.5.7.2;1.5.7;4;Setor 05 — pacote 010 — Emitir pedido de material;0.50;0.50;0.00;SIM
+1.5.7.3;1.5.7;4;Setor 05 — pacote 010 — Inspecionar recebimento;0.50;0.50;0.00;SIM
+1.1.12;1.1;3;Aquisição de materiais de prazo longo — setor 01, pacote 011;1.50;1.50;0.00;SIM
+1.1.12.1;1.1.12;4;Setor 01 — pacote 011 — Confirmar especificação de fornecimento;0.50;0.50;0.00;SIM
+1.1.12.2;1.1.12;4;Setor 01 — pacote 011 — Emitir pedido de material;0.50;0.50;0.00;SIM
+1.1.12.3;1.1.12;4;Setor 01 — pacote 011 — Inspecionar recebimento;0.50;0.50;0.00;SIM
+1.2.11;1.2;3;Aquisição de materiais de prazo longo — setor 02, pacote 012;1.50;1.50;0.00;SIM
+1.2.11.1;1.2.11;4;Setor 02 — pacote 012 — Confirmar especificação de fornecimento;0.50;0.50;0.00;SIM
+1.2.11.2;1.2.11;4;Setor 02 — pacote 012 — Emitir pedido de material;0.50;0.50;0.00;SIM
+1.2.11.3;1.2.11;4;Setor 02 — pacote 012 — Inspecionar recebimento;0.50;0.50;0.00;SIM
+1.3.11;1.3;3;Aquisição de materiais de prazo longo — setor 03, pacote 013;1.50;1.50;0.00;SIM
+1.3.11.1;1.3.11;4;Setor 03 — pacote 013 — Confirmar especificação de fornecimento;0.50;0.50;0.00;SIM
+1.3.11.2;1.3.11;4;Setor 03 — pacote 013 — Emitir pedido de material;0.50;0.50;0.00;SIM
+1.3.11.3;1.3.11;4;Setor 03 — pacote 013 — Inspecionar recebimento;0.50;0.50;0.00;SIM
+1.4.10;1.4;3;Aquisição de materiais de prazo longo — setor 04, pacote 014;1.50;1.50;0.00;SIM
+1.4.10.1;1.4.10;4;Setor 04 — pacote 014 — Confirmar especificação de fornecimento;0.50;0.50;0.00;SIM
+1.4.10.2;1.4.10;4;Setor 04 — pacote 014 — Emitir pedido de material;0.50;0.50;0.00;SIM
+1.4.10.3;1.4.10;4;Setor 04 — pacote 014 — Inspecionar recebimento;0.50;0.50;0.00;SIM
+1.5.8;1.5;3;Aquisição de materiais de prazo longo — setor 05, pacote 015;1.50;1.50;0.00;SIM
+1.5.8.1;1.5.8;4;Setor 05 — pacote 015 — Confirmar especificação de fornecimento;0.50;0.50;0.00;SIM
+1.5.8.2;1.5.8;4;Setor 05 — pacote 015 — Emitir pedido de material;0.50;0.50;0.00;SIM
+1.5.8.3;1.5.8;4;Setor 05 — pacote 015 — Inspecionar recebimento;0.50;0.50;0.00;SIM
+1.1.13;1.1;3;Aquisição de materiais de prazo longo — setor 01, pacote 016;1.50;1.50;0.00;SIM
+1.1.13.1;1.1.13;4;Setor 01 — pacote 016 — Confirmar especificação de fornecimento;0.50;0.50;0.00;SIM
+1.1.13.2;1.1.13;4;Setor 01 — pacote 016 — Emitir pedido de material;0.50;0.50;0.00;SIM
+1.1.13.3;1.1.13;4;Setor 01 — pacote 016 — Inspecionar recebimento;0.50;0.50;0.00;SIM
+1.2.12;1.2;3;Aquisição de materiais de prazo longo — setor 02, pacote 017;1.50;1.50;0.00;SIM
+1.2.12.1;1.2.12;4;Setor 02 — pacote 017 — Confirmar especificação de fornecimento;0.50;0.50;0.00;SIM
+1.2.12.2;1.2.12;4;Setor 02 — pacote 017 — Emitir pedido de material;0.50;0.50;0.00;SIM
+1.2.12.3;1.2.12;4;Setor 02 — pacote 017 — Inspecionar recebimento;0.50;0.50;0.00;SIM
+1.3.12;1.3;3;Aquisição de materiais de prazo longo — setor 03, pacote 018;1.50;1.50;0.00;SIM
+1.3.12.1;1.3.12;4;Setor 03 — pacote 018 — Confirmar especificação de fornecimento;0.50;0.50;0.00;SIM
+1.3.12.2;1.3.12;4;Setor 03 — pacote 018 — Emitir pedido de material;0.50;0.50;0.00;SIM
+1.3.12.3;1.3.12;4;Setor 03 — pacote 018 — Inspecionar recebimento;0.50;0.50;0.00;SIM
+1.4.11;1.4;3;Aquisição de materiais de prazo longo — setor 04, pacote 019;1.50;1.50;0.00;SIM
+1.4.11.1;1.4.11;4;Setor 04 — pacote 019 — Confirmar especificação de fornecimento;0.50;0.50;0.00;SIM
+1.4.11.2;1.4.11;4;Setor 04 — pacote 019 — Emitir pedido de material;0.50;0.50;0.00;SIM
+1.4.11.3;1.4.11;4;Setor 04 — pacote 019 — Inspecionar recebimento;0.50;0.50;0.00;SIM
+1.5.9;1.5;3;Aquisição de materiais de prazo longo — setor 05, pacote 020;1.50;1.50;0.00;SIM
+1.5.9.1;1.5.9;4;Setor 05 — pacote 020 — Confirmar especificação de fornecimento;0.50;0.50;0.00;SIM
+1.5.9.2;1.5.9;4;Setor 05 — pacote 020 — Emitir pedido de material;0.50;0.50;0.00;SIM
+1.5.9.3;1.5.9;4;Setor 05 — pacote 020 — Inspecionar recebimento;0.50;0.50;0.00;SIM
+1.1.14;1.1;3;Aquisição de materiais de prazo longo — setor 01, pacote 021;1.50;1.50;0.00;SIM
+1.1.14.1;1.1.14;4;Setor 01 — pacote 021 — Confirmar especificação de fornecimento;0.50;0.50;0.00;SIM
+1.1.14.2;1.1.14;4;Setor 01 — pacote 021 — Emitir pedido de material;0.50;0.50;0.00;SIM
+1.1.14.3;1.1.14;4;Setor 01 — pacote 021 — Inspecionar recebimento;0.50;0.50;0.00;SIM
+1.2.13;1.2;3;Aquisição de materiais de prazo longo — setor 02, pacote 022;1.50;1.50;0.00;SIM
+1.2.13.1;1.2.13;4;Setor 02 — pacote 022 — Confirmar especificação de fornecimento;0.50;0.50;0.00;SIM
+1.2.13.2;1.2.13;4;Setor 02 — pacote 022 — Emitir pedido de material;0.50;0.50;0.00;SIM
+1.2.13.3;1.2.13;4;Setor 02 — pacote 022 — Inspecionar recebimento;0.50;0.50;0.00;SIM
+1.3.13;1.3;3;Aquisição de materiais de prazo longo — setor 03, pacote 023;1.50;1.50;0.00;SIM
+1.3.13.1;1.3.13;4;Setor 03 — pacote 023 — Confirmar especificação de fornecimento;0.50;0.50;0.00;SIM
+1.3.13.2;1.3.13;4;Setor 03 — pacote 023 — Emitir pedido de material;0.50;0.50;0.00;SIM
+1.3.13.3;1.3.13;4;Setor 03 — pacote 023 — Inspecionar recebimento;0.50;0.50;0.00;SIM
+1.4.12;1.4;3;Aquisição de materiais de prazo longo — setor 04, pacote 024;1.50;1.50;0.00;SIM
+1.4.12.1;1.4.12;4;Setor 04 — pacote 024 — Confirmar especificação de fornecimento;0.50;0.50;0.00;SIM
+1.4.12.2;1.4.12;4;Setor 04 — pacote 024 — Emitir pedido de material;0.50;0.50;0.00;SIM
+1.4.12.3;1.4.12;4;Setor 04 — pacote 024 — Inspecionar recebimento;0.50;0.50;0.00;SIM
+2.1.1;2.1;3;Limpeza e acessos provisórios — setor 01, pacote 001;2.00;2.00;0.00;SIM
+2.1.1.1;2.1.1;4;Setor 01 — pacote 001 — Limpar área de trabalho;0.50;0.50;0.00;SIM
+2.1.1.2;2.1.1;4;Setor 01 — pacote 001 — Preparar acesso temporário;0.50;0.50;0.00;SIM
+2.1.1.3;2.1.1;4;Setor 01 — pacote 001 — Organizar área de estocagem;0.50;0.50;0.00;SIM
+2.1.1.4;2.1.1;4;Setor 01 — pacote 001 — Remover material superficial;0.50;0.50;0.00;SIM
+2.2.1;2.2;3;Limpeza e acessos provisórios — setor 02, pacote 002;2.00;2.00;0.00;SIM
+2.2.1.1;2.2.1;4;Setor 02 — pacote 002 — Preparar acesso temporário;0.50;0.50;0.00;SIM
+2.2.1.2;2.2.1;4;Setor 02 — pacote 002 — Organizar área de estocagem;0.50;0.50;0.00;SIM
+2.2.1.3;2.2.1;4;Setor 02 — pacote 002 — Remover material superficial;0.50;0.50;0.00;SIM
+2.2.1.4;2.2.1;4;Setor 02 — pacote 002 — Limpar área de trabalho;0.50;0.50;0.00;SIM
+2.3.1;2.3;3;Limpeza e acessos provisórios — setor 03, pacote 003;2.00;2.00;0.00;SIM
+2.3.1.1;2.3.1;4;Setor 03 — pacote 003 — Organizar área de estocagem;0.50;0.50;0.00;SIM
+2.3.1.2;2.3.1;4;Setor 03 — pacote 003 — Remover material superficial;0.50;0.50;0.00;SIM
+2.3.1.3;2.3.1;4;Setor 03 — pacote 003 — Limpar área de trabalho;0.50;0.50;0.00;SIM
+2.3.1.4;2.3.1;4;Setor 03 — pacote 003 — Preparar acesso temporário;0.50;0.50;0.00;SIM
+2.4.1;2.4;3;Limpeza e acessos provisórios — setor 04, pacote 004;2.00;2.00;0.00;SIM
+2.4.1.1;2.4.1;4;Setor 04 — pacote 004 — Remover material superficial;0.50;0.50;0.00;SIM
+2.4.1.2;2.4.1;4;Setor 04 — pacote 004 — Limpar área de trabalho;0.50;0.50;0.00;SIM
+2.4.1.3;2.4.1;4;Setor 04 — pacote 004 — Preparar acesso temporário;0.50;0.50;0.00;SIM
+2.4.1.4;2.4.1;4;Setor 04 — pacote 004 — Organizar área de estocagem;0.50;0.50;0.00;SIM
+2.5.1;2.5;3;Limpeza e acessos provisórios — setor 05, pacote 005;2.00;2.00;0.00;SIM
+2.5.1.1;2.5.1;4;Setor 05 — pacote 005 — Limpar área de trabalho;0.50;0.50;0.00;SIM
+2.5.1.2;2.5.1;4;Setor 05 — pacote 005 — Preparar acesso temporário;0.50;0.50;0.00;SIM
+2.5.1.3;2.5.1;4;Setor 05 — pacote 005 — Organizar área de estocagem;0.50;0.50;0.00;SIM
+2.5.1.4;2.5.1;4;Setor 05 — pacote 005 — Remover material superficial;0.50;0.50;0.00;SIM
+2.1.2;2.1;3;Limpeza e acessos provisórios — setor 01, pacote 006;2.00;2.00;0.00;SIM
+2.1.2.1;2.1.2;4;Setor 01 — pacote 006 — Preparar acesso temporário;0.50;0.50;0.00;SIM
+2.1.2.2;2.1.2;4;Setor 01 — pacote 006 — Organizar área de estocagem;0.50;0.50;0.00;SIM
+2.1.2.3;2.1.2;4;Setor 01 — pacote 006 — Remover material superficial;0.50;0.50;0.00;SIM
+2.1.2.4;2.1.2;4;Setor 01 — pacote 006 — Limpar área de trabalho;0.50;0.50;0.00;SIM
+2.2.2;2.2;3;Limpeza e acessos provisórios — setor 02, pacote 007;2.00;2.00;0.00;SIM
+2.2.2.1;2.2.2;4;Setor 02 — pacote 007 — Organizar área de estocagem;0.50;0.50;0.00;SIM
+2.2.2.2;2.2.2;4;Setor 02 — pacote 007 — Remover material superficial;0.50;0.50;0.00;SIM
+2.2.2.3;2.2.2;4;Setor 02 — pacote 007 — Limpar área de trabalho;0.50;0.50;0.00;SIM
+2.2.2.4;2.2.2;4;Setor 02 — pacote 007 — Preparar acesso temporário;0.50;0.50;0.00;SIM
+2.3.2;2.3;3;Limpeza e acessos provisórios — setor 03, pacote 008;2.00;2.00;0.00;SIM
+2.3.2.1;2.3.2;4;Setor 03 — pacote 008 — Remover material superficial;0.50;0.50;0.00;SIM
+2.3.2.2;2.3.2;4;Setor 03 — pacote 008 — Limpar área de trabalho;0.50;0.50;0.00;SIM
+2.3.2.3;2.3.2;4;Setor 03 — pacote 008 — Preparar acesso temporário;0.50;0.50;0.00;SIM
+2.3.2.4;2.3.2;4;Setor 03 — pacote 008 — Organizar área de estocagem;0.50;0.50;0.00;SIM
+2.4.2;2.4;3;Limpeza e acessos provisórios — setor 04, pacote 009;1.50;1.50;0.00;SIM
+2.4.2.1;2.4.2;4;Setor 04 — pacote 009 — Limpar área de trabalho;0.50;0.50;0.00;SIM
+2.4.2.2;2.4.2;4;Setor 04 — pacote 009 — Preparar acesso temporário;0.50;0.50;0.00;SIM
+2.4.2.3;2.4.2;4;Setor 04 — pacote 009 — Organizar área de estocagem;0.50;0.50;0.00;SIM
+2.5.2;2.5;3;Limpeza e acessos provisórios — setor 05, pacote 010;1.50;1.50;0.00;SIM
+2.5.2.1;2.5.2;4;Setor 05 — pacote 010 — Limpar área de trabalho;0.50;0.50;0.00;SIM
+2.5.2.2;2.5.2;4;Setor 05 — pacote 010 — Preparar acesso temporário;0.50;0.50;0.00;SIM
+2.5.2.3;2.5.2;4;Setor 05 — pacote 010 — Organizar área de estocagem;0.50;0.50;0.00;SIM
+2.1.3;2.1;3;Limpeza e acessos provisórios — setor 01, pacote 011;1.50;1.50;0.00;SIM
+2.1.3.1;2.1.3;4;Setor 01 — pacote 011 — Limpar área de trabalho;0.50;0.50;0.00;SIM
+2.1.3.2;2.1.3;4;Setor 01 — pacote 011 — Preparar acesso temporário;0.50;0.50;0.00;SIM
+2.1.3.3;2.1.3;4;Setor 01 — pacote 011 — Organizar área de estocagem;0.50;0.50;0.00;SIM
+2.2.3;2.2;3;Limpeza e acessos provisórios — setor 02, pacote 012;1.50;1.50;0.00;SIM
+2.2.3.1;2.2.3;4;Setor 02 — pacote 012 — Limpar área de trabalho;0.50;0.50;0.00;SIM
+2.2.3.2;2.2.3;4;Setor 02 — pacote 012 — Preparar acesso temporário;0.50;0.50;0.00;SIM
+2.2.3.3;2.2.3;4;Setor 02 — pacote 012 — Organizar área de estocagem;0.50;0.50;0.00;SIM
+2.3.3;2.3;3;Limpeza e acessos provisórios — setor 03, pacote 013;1.50;1.50;0.00;SIM
+2.3.3.1;2.3.3;4;Setor 03 — pacote 013 — Limpar área de trabalho;0.50;0.50;0.00;SIM
+2.3.3.2;2.3.3;4;Setor 03 — pacote 013 — Preparar acesso temporário;0.50;0.50;0.00;SIM
+2.3.3.3;2.3.3;4;Setor 03 — pacote 013 — Organizar área de estocagem;0.50;0.50;0.00;SIM
+2.4.3;2.4;3;Limpeza e acessos provisórios — setor 04, pacote 014;1.50;1.50;0.00;SIM
+2.4.3.1;2.4.3;4;Setor 04 — pacote 014 — Limpar área de trabalho;0.50;0.50;0.00;SIM
+2.4.3.2;2.4.3;4;Setor 04 — pacote 014 — Preparar acesso temporário;0.50;0.50;0.00;SIM
+2.4.3.3;2.4.3;4;Setor 04 — pacote 014 — Organizar área de estocagem;0.50;0.50;0.00;SIM
+2.5.3;2.5;3;Limpeza e acessos provisórios — setor 05, pacote 015;1.50;1.50;0.00;SIM
+2.5.3.1;2.5.3;4;Setor 05 — pacote 015 — Limpar área de trabalho;0.50;0.50;0.00;SIM
+2.5.3.2;2.5.3;4;Setor 05 — pacote 015 — Preparar acesso temporário;0.50;0.50;0.00;SIM
+2.5.3.3;2.5.3;4;Setor 05 — pacote 015 — Organizar área de estocagem;0.50;0.50;0.00;SIM
+2.1.4;2.1;3;Limpeza e acessos provisórios — setor 01, pacote 016;1.50;1.50;0.00;SIM
+2.1.4.1;2.1.4;4;Setor 01 — pacote 016 — Limpar área de trabalho;0.50;0.50;0.00;SIM
+2.1.4.2;2.1.4;4;Setor 01 — pacote 016 — Preparar acesso temporário;0.50;0.50;0.00;SIM
+2.1.4.3;2.1.4;4;Setor 01 — pacote 016 — Organizar área de estocagem;0.50;0.50;0.00;SIM
+2.2.4;2.2;3;Limpeza e acessos provisórios — setor 02, pacote 017;1.50;1.50;0.00;SIM
+2.2.4.1;2.2.4;4;Setor 02 — pacote 017 — Limpar área de trabalho;0.50;0.50;0.00;SIM
+2.2.4.2;2.2.4;4;Setor 02 — pacote 017 — Preparar acesso temporário;0.50;0.50;0.00;SIM
+2.2.4.3;2.2.4;4;Setor 02 — pacote 017 — Organizar área de estocagem;0.50;0.50;0.00;SIM
+2.3.4;2.3;3;Limpeza e acessos provisórios — setor 03, pacote 018;1.50;1.50;0.00;SIM
+2.3.4.1;2.3.4;4;Setor 03 — pacote 018 — Limpar área de trabalho;0.50;0.50;0.00;SIM
+2.3.4.2;2.3.4;4;Setor 03 — pacote 018 — Preparar acesso temporário;0.50;0.50;0.00;SIM
+2.3.4.3;2.3.4;4;Setor 03 — pacote 018 — Organizar área de estocagem;0.50;0.50;0.00;SIM
+2.4.4;2.4;3;Limpeza e acessos provisórios — setor 04, pacote 019;1.50;1.50;0.00;SIM
+2.4.4.1;2.4.4;4;Setor 04 — pacote 019 — Limpar área de trabalho;0.50;0.50;0.00;SIM
+2.4.4.2;2.4.4;4;Setor 04 — pacote 019 — Preparar acesso temporário;0.50;0.50;0.00;SIM
+2.4.4.3;2.4.4;4;Setor 04 — pacote 019 — Organizar área de estocagem;0.50;0.50;0.00;SIM
+2.5.4;2.5;3;Limpeza e acessos provisórios — setor 05, pacote 020;1.50;1.50;0.00;SIM
+2.5.4.1;2.5.4;4;Setor 05 — pacote 020 — Limpar área de trabalho;0.50;0.50;0.00;SIM
+2.5.4.2;2.5.4;4;Setor 05 — pacote 020 — Preparar acesso temporário;0.50;0.50;0.00;SIM
+2.5.4.3;2.5.4;4;Setor 05 — pacote 020 — Organizar área de estocagem;0.50;0.50;0.00;SIM
+2.1.5;2.1;3;Limpeza e acessos provisórios — setor 01, pacote 021;1.50;1.50;0.00;SIM
+2.1.5.1;2.1.5;4;Setor 01 — pacote 021 — Limpar área de trabalho;0.50;0.50;0.00;SIM
+2.1.5.2;2.1.5;4;Setor 01 — pacote 021 — Preparar acesso temporário;0.50;0.50;0.00;SIM
+2.1.5.3;2.1.5;4;Setor 01 — pacote 021 — Organizar área de estocagem;0.50;0.50;0.00;SIM
+2.2.5;2.2;3;Limpeza e acessos provisórios — setor 02, pacote 022;1.50;1.50;0.00;SIM
+2.2.5.1;2.2.5;4;Setor 02 — pacote 022 — Limpar área de trabalho;0.50;0.50;0.00;SIM
+2.2.5.2;2.2.5;4;Setor 02 — pacote 022 — Preparar acesso temporário;0.50;0.50;0.00;SIM
+2.2.5.3;2.2.5;4;Setor 02 — pacote 022 — Organizar área de estocagem;0.50;0.50;0.00;SIM
+2.3.5;2.3;3;Limpeza e acessos provisórios — setor 03, pacote 023;1.50;1.50;0.00;SIM
+2.3.5.1;2.3.5;4;Setor 03 — pacote 023 — Limpar área de trabalho;0.50;0.50;0.00;SIM
+2.3.5.2;2.3.5;4;Setor 03 — pacote 023 — Preparar acesso temporário;0.50;0.50;0.00;SIM
+2.3.5.3;2.3.5;4;Setor 03 — pacote 023 — Organizar área de estocagem;0.50;0.50;0.00;SIM
+2.4.5;2.4;3;Limpeza e acessos provisórios — setor 04, pacote 024;1.50;1.50;0.00;SIM
+2.4.5.1;2.4.5;4;Setor 04 — pacote 024 — Limpar área de trabalho;0.50;0.50;0.00;SIM
+2.4.5.2;2.4.5;4;Setor 04 — pacote 024 — Preparar acesso temporário;0.50;0.50;0.00;SIM
+2.4.5.3;2.4.5;4;Setor 04 — pacote 024 — Organizar área de estocagem;0.50;0.50;0.00;SIM
+2.1.6;2.1;3;Drenagem transversal — setor 01, pacote 001;2.80;2.80;0.00;SIM
+2.1.6.1;2.1.6;4;Setor 01 — pacote 001 — Escavar travessia;0.70;0.70;0.00;SIM
+2.1.6.2;2.1.6;4;Setor 01 — pacote 001 — Preparar berço de assentamento;0.70;0.70;0.00;SIM
+2.1.6.3;2.1.6;4;Setor 01 — pacote 001 — Assentar tubo transversal;0.70;0.70;0.00;SIM
+2.1.6.4;2.1.6;4;Setor 01 — pacote 001 — Executar proteção de saída;0.70;0.70;0.00;SIM
+2.2.6;2.2;3;Drenagem transversal — setor 02, pacote 002;2.80;2.80;0.00;SIM
+2.2.6.1;2.2.6;4;Setor 02 — pacote 002 — Preparar berço de assentamento;0.70;0.70;0.00;SIM
+2.2.6.2;2.2.6;4;Setor 02 — pacote 002 — Assentar tubo transversal;0.70;0.70;0.00;SIM
+2.2.6.3;2.2.6;4;Setor 02 — pacote 002 — Executar proteção de saída;0.70;0.70;0.00;SIM
+2.2.6.4;2.2.6;4;Setor 02 — pacote 002 — Escavar travessia;0.70;0.70;0.00;SIM
+2.3.6;2.3;3;Drenagem transversal — setor 03, pacote 003;2.80;2.80;0.00;SIM
+2.3.6.1;2.3.6;4;Setor 03 — pacote 003 — Assentar tubo transversal;0.70;0.70;0.00;SIM
+2.3.6.2;2.3.6;4;Setor 03 — pacote 003 — Executar proteção de saída;0.70;0.70;0.00;SIM
+2.3.6.3;2.3.6;4;Setor 03 — pacote 003 — Escavar travessia;0.70;0.70;0.00;SIM
+2.3.6.4;2.3.6;4;Setor 03 — pacote 003 — Preparar berço de assentamento;0.70;0.70;0.00;SIM
+2.4.6;2.4;3;Drenagem transversal — setor 04, pacote 004;2.80;2.80;0.00;SIM
+2.4.6.1;2.4.6;4;Setor 04 — pacote 004 — Executar proteção de saída;0.70;0.70;0.00;SIM
+2.4.6.2;2.4.6;4;Setor 04 — pacote 004 — Escavar travessia;0.70;0.70;0.00;SIM
+2.4.6.3;2.4.6;4;Setor 04 — pacote 004 — Preparar berço de assentamento;0.70;0.70;0.00;SIM
+2.4.6.4;2.4.6;4;Setor 04 — pacote 004 — Assentar tubo transversal;0.70;0.70;0.00;SIM
+2.5.5;2.5;3;Drenagem transversal — setor 05, pacote 005;2.80;2.80;0.00;SIM
+2.5.5.1;2.5.5;4;Setor 05 — pacote 005 — Escavar travessia;0.70;0.70;0.00;SIM
+2.5.5.2;2.5.5;4;Setor 05 — pacote 005 — Preparar berço de assentamento;0.70;0.70;0.00;SIM
+2.5.5.3;2.5.5;4;Setor 05 — pacote 005 — Assentar tubo transversal;0.70;0.70;0.00;SIM
+2.5.5.4;2.5.5;4;Setor 05 — pacote 005 — Executar proteção de saída;0.70;0.70;0.00;SIM
+2.1.7;2.1;3;Drenagem transversal — setor 01, pacote 006;2.80;2.80;0.00;SIM
+2.1.7.1;2.1.7;4;Setor 01 — pacote 006 — Preparar berço de assentamento;0.70;0.70;0.00;SIM
+2.1.7.2;2.1.7;4;Setor 01 — pacote 006 — Assentar tubo transversal;0.70;0.70;0.00;SIM
+2.1.7.3;2.1.7;4;Setor 01 — pacote 006 — Executar proteção de saída;0.70;0.70;0.00;SIM
+2.1.7.4;2.1.7;4;Setor 01 — pacote 006 — Escavar travessia;0.70;0.70;0.00;SIM
+2.2.7;2.2;3;Drenagem transversal — setor 02, pacote 007;2.80;2.80;0.00;SIM
+2.2.7.1;2.2.7;4;Setor 02 — pacote 007 — Assentar tubo transversal;0.70;0.70;0.00;SIM
+2.2.7.2;2.2.7;4;Setor 02 — pacote 007 — Executar proteção de saída;0.70;0.70;0.00;SIM
+2.2.7.3;2.2.7;4;Setor 02 — pacote 007 — Escavar travessia;0.70;0.70;0.00;SIM
+2.2.7.4;2.2.7;4;Setor 02 — pacote 007 — Preparar berço de assentamento;0.70;0.70;0.00;SIM
+2.3.7;2.3;3;Drenagem transversal — setor 03, pacote 008;2.80;2.80;0.00;SIM
+2.3.7.1;2.3.7;4;Setor 03 — pacote 008 — Executar proteção de saída;0.70;0.70;0.00;SIM
+2.3.7.2;2.3.7;4;Setor 03 — pacote 008 — Escavar travessia;0.70;0.70;0.00;SIM
+2.3.7.3;2.3.7;4;Setor 03 — pacote 008 — Preparar berço de assentamento;0.70;0.70;0.00;SIM
+2.3.7.4;2.3.7;4;Setor 03 — pacote 008 — Assentar tubo transversal;0.70;0.70;0.00;SIM
+2.4.7;2.4;3;Drenagem transversal — setor 04, pacote 009;2.80;2.80;0.00;SIM
+2.4.7.1;2.4.7;4;Setor 04 — pacote 009 — Escavar travessia;0.70;0.70;0.00;SIM
+2.4.7.2;2.4.7;4;Setor 04 — pacote 009 — Preparar berço de assentamento;0.70;0.70;0.00;SIM
+2.4.7.3;2.4.7;4;Setor 04 — pacote 009 — Assentar tubo transversal;0.70;0.70;0.00;SIM
+2.4.7.4;2.4.7;4;Setor 04 — pacote 009 — Executar proteção de saída;0.70;0.70;0.00;SIM
+2.5.6;2.5;3;Drenagem transversal — setor 05, pacote 010;2.80;2.80;0.00;SIM
+2.5.6.1;2.5.6;4;Setor 05 — pacote 010 — Preparar berço de assentamento;0.70;0.70;0.00;SIM
+2.5.6.2;2.5.6;4;Setor 05 — pacote 010 — Assentar tubo transversal;0.70;0.70;0.00;SIM
+2.5.6.3;2.5.6;4;Setor 05 — pacote 010 — Executar proteção de saída;0.70;0.70;0.00;SIM
+2.5.6.4;2.5.6;4;Setor 05 — pacote 010 — Escavar travessia;0.70;0.70;0.00;SIM
+2.1.8;2.1;3;Drenagem transversal — setor 01, pacote 011;2.10;2.10;0.00;SIM
+2.1.8.1;2.1.8;4;Setor 01 — pacote 011 — Assentar tubo transversal;0.70;0.70;0.00;SIM
+2.1.8.2;2.1.8;4;Setor 01 — pacote 011 — Executar proteção de saída;0.70;0.70;0.00;SIM
+2.1.8.3;2.1.8;4;Setor 01 — pacote 011 — Escavar travessia;0.70;0.70;0.00;SIM
+2.2.8;2.2;3;Drenagem transversal — setor 02, pacote 012;2.10;2.10;0.00;SIM
+2.2.8.1;2.2.8;4;Setor 02 — pacote 012 — Assentar tubo transversal;0.70;0.70;0.00;SIM
+2.2.8.2;2.2.8;4;Setor 02 — pacote 012 — Executar proteção de saída;0.70;0.70;0.00;SIM
+2.2.8.3;2.2.8;4;Setor 02 — pacote 012 — Escavar travessia;0.70;0.70;0.00;SIM
+2.3.8;2.3;3;Drenagem transversal — setor 03, pacote 013;2.10;2.10;0.00;SIM
+2.3.8.1;2.3.8;4;Setor 03 — pacote 013 — Assentar tubo transversal;0.70;0.70;0.00;SIM
+2.3.8.2;2.3.8;4;Setor 03 — pacote 013 — Executar proteção de saída;0.70;0.70;0.00;SIM
+2.3.8.3;2.3.8;4;Setor 03 — pacote 013 — Escavar travessia;0.70;0.70;0.00;SIM
+2.4.8;2.4;3;Drenagem transversal — setor 04, pacote 014;2.10;2.10;0.00;SIM
+2.4.8.1;2.4.8;4;Setor 04 — pacote 014 — Assentar tubo transversal;0.70;0.70;0.00;SIM
+2.4.8.2;2.4.8;4;Setor 04 — pacote 014 — Executar proteção de saída;0.70;0.70;0.00;SIM
+2.4.8.3;2.4.8;4;Setor 04 — pacote 014 — Escavar travessia;0.70;0.70;0.00;SIM
+2.5.7;2.5;3;Drenagem transversal — setor 05, pacote 015;2.10;2.10;0.00;SIM
+2.5.7.1;2.5.7;4;Setor 05 — pacote 015 — Assentar tubo transversal;0.70;0.70;0.00;SIM
+2.5.7.2;2.5.7;4;Setor 05 — pacote 015 — Executar proteção de saída;0.70;0.70;0.00;SIM
+2.5.7.3;2.5.7;4;Setor 05 — pacote 015 — Escavar travessia;0.70;0.70;0.00;SIM
+2.1.9;2.1;3;Drenagem transversal — setor 01, pacote 016;2.10;2.10;0.00;SIM
+2.1.9.1;2.1.9;4;Setor 01 — pacote 016 — Assentar tubo transversal;0.70;0.70;0.00;SIM
+2.1.9.2;2.1.9;4;Setor 01 — pacote 016 — Executar proteção de saída;0.70;0.70;0.00;SIM
+2.1.9.3;2.1.9;4;Setor 01 — pacote 016 — Escavar travessia;0.70;0.70;0.00;SIM
+2.2.9;2.2;3;Drenagem transversal — setor 02, pacote 017;2.10;2.10;0.00;SIM
+2.2.9.1;2.2.9;4;Setor 02 — pacote 017 — Assentar tubo transversal;0.70;0.70;0.00;SIM
+2.2.9.2;2.2.9;4;Setor 02 — pacote 017 — Executar proteção de saída;0.70;0.70;0.00;SIM
+2.2.9.3;2.2.9;4;Setor 02 — pacote 017 — Escavar travessia;0.70;0.70;0.00;SIM
+2.3.9;2.3;3;Drenagem transversal — setor 03, pacote 018;2.10;2.10;0.00;SIM
+2.3.9.1;2.3.9;4;Setor 03 — pacote 018 — Assentar tubo transversal;0.70;0.70;0.00;SIM
+2.3.9.2;2.3.9;4;Setor 03 — pacote 018 — Executar proteção de saída;0.70;0.70;0.00;SIM
+2.3.9.3;2.3.9;4;Setor 03 — pacote 018 — Escavar travessia;0.70;0.70;0.00;SIM
+2.4.9;2.4;3;Drenagem transversal — setor 04, pacote 019;2.10;2.10;0.00;SIM
+2.4.9.1;2.4.9;4;Setor 04 — pacote 019 — Assentar tubo transversal;0.70;0.70;0.00;SIM
+2.4.9.2;2.4.9;4;Setor 04 — pacote 019 — Executar proteção de saída;0.70;0.70;0.00;SIM
+2.4.9.3;2.4.9;4;Setor 04 — pacote 019 — Escavar travessia;0.70;0.70;0.00;SIM
+2.5.8;2.5;3;Drenagem transversal — setor 05, pacote 020;2.10;2.10;0.00;SIM
+2.5.8.1;2.5.8;4;Setor 05 — pacote 020 — Assentar tubo transversal;0.70;0.70;0.00;SIM
+2.5.8.2;2.5.8;4;Setor 05 — pacote 020 — Executar proteção de saída;0.70;0.70;0.00;SIM
+2.5.8.3;2.5.8;4;Setor 05 — pacote 020 — Escavar travessia;0.70;0.70;0.00;SIM
+2.1.10;2.1;3;Drenagem transversal — setor 01, pacote 021;2.10;2.10;0.00;SIM
+2.1.10.1;2.1.10;4;Setor 01 — pacote 021 — Assentar tubo transversal;0.70;0.70;0.00;SIM
+2.1.10.2;2.1.10;4;Setor 01 — pacote 021 — Executar proteção de saída;0.70;0.70;0.00;SIM
+2.1.10.3;2.1.10;4;Setor 01 — pacote 021 — Escavar travessia;0.70;0.70;0.00;SIM
+2.2.10;2.2;3;Drenagem transversal — setor 02, pacote 022;2.10;2.10;0.00;SIM
+2.2.10.1;2.2.10;4;Setor 02 — pacote 022 — Assentar tubo transversal;0.70;0.70;0.00;SIM
+2.2.10.2;2.2.10;4;Setor 02 — pacote 022 — Executar proteção de saída;0.70;0.70;0.00;SIM
+2.2.10.3;2.2.10;4;Setor 02 — pacote 022 — Escavar travessia;0.70;0.70;0.00;SIM
+2.3.10;2.3;3;Drenagem transversal — setor 03, pacote 023;2.10;2.10;0.00;SIM
+2.3.10.1;2.3.10;4;Setor 03 — pacote 023 — Assentar tubo transversal;0.70;0.70;0.00;SIM
+2.3.10.2;2.3.10;4;Setor 03 — pacote 023 — Executar proteção de saída;0.70;0.70;0.00;SIM
+2.3.10.3;2.3.10;4;Setor 03 — pacote 023 — Escavar travessia;0.70;0.70;0.00;SIM
+2.4.10;2.4;3;Drenagem transversal — setor 04, pacote 024;2.10;2.10;0.00;SIM
+2.4.10.1;2.4.10;4;Setor 04 — pacote 024 — Assentar tubo transversal;0.70;0.70;0.00;SIM
+2.4.10.2;2.4.10;4;Setor 04 — pacote 024 — Executar proteção de saída;0.70;0.70;0.00;SIM
+2.4.10.3;2.4.10;4;Setor 04 — pacote 024 — Escavar travessia;0.70;0.70;0.00;SIM
+2.5.9;2.5;3;Drenagem transversal — setor 05, pacote 025;2.10;2.10;0.00;SIM
+2.5.9.1;2.5.9;4;Setor 05 — pacote 025 — Assentar tubo transversal;0.70;0.70;0.00;SIM
+2.5.9.2;2.5.9;4;Setor 05 — pacote 025 — Executar proteção de saída;0.70;0.70;0.00;SIM
+2.5.9.3;2.5.9;4;Setor 05 — pacote 025 — Escavar travessia;0.70;0.70;0.00;SIM
+2.1.11;2.1;3;Drenagem transversal — setor 01, pacote 026;2.10;2.10;0.00;SIM
+2.1.11.1;2.1.11;4;Setor 01 — pacote 026 — Assentar tubo transversal;0.70;0.70;0.00;SIM
+2.1.11.2;2.1.11;4;Setor 01 — pacote 026 — Executar proteção de saída;0.70;0.70;0.00;SIM
+2.1.11.3;2.1.11;4;Setor 01 — pacote 026 — Escavar travessia;0.70;0.70;0.00;SIM
+2.2.11;2.2;3;Drenagem transversal — setor 02, pacote 027;2.10;2.10;0.00;SIM
+2.2.11.1;2.2.11;4;Setor 02 — pacote 027 — Assentar tubo transversal;0.70;0.70;0.00;SIM
+2.2.11.2;2.2.11;4;Setor 02 — pacote 027 — Executar proteção de saída;0.70;0.70;0.00;SIM
+2.2.11.3;2.2.11;4;Setor 02 — pacote 027 — Escavar travessia;0.70;0.70;0.00;SIM
+2.3.11;2.3;3;Drenagem transversal — setor 03, pacote 028;2.10;2.10;0.00;SIM
+2.3.11.1;2.3.11;4;Setor 03 — pacote 028 — Assentar tubo transversal;0.70;0.70;0.00;SIM
+2.3.11.2;2.3.11;4;Setor 03 — pacote 028 — Executar proteção de saída;0.70;0.70;0.00;SIM
+2.3.11.3;2.3.11;4;Setor 03 — pacote 028 — Escavar travessia;0.70;0.70;0.00;SIM
+2.4.11;2.4;3;Drenagem transversal — setor 04, pacote 029;2.10;2.10;0.00;SIM
+2.4.11.1;2.4.11;4;Setor 04 — pacote 029 — Assentar tubo transversal;0.70;0.70;0.00;SIM
+2.4.11.2;2.4.11;4;Setor 04 — pacote 029 — Executar proteção de saída;0.70;0.70;0.00;SIM
+2.4.11.3;2.4.11;4;Setor 04 — pacote 029 — Escavar travessia;0.70;0.70;0.00;SIM
+2.5.10;2.5;3;Drenagem transversal — setor 05, pacote 030;2.10;2.10;0.00;SIM
+2.5.10.1;2.5.10;4;Setor 05 — pacote 030 — Assentar tubo transversal;0.70;0.70;0.00;SIM
+2.5.10.2;2.5.10;4;Setor 05 — pacote 030 — Executar proteção de saída;0.70;0.70;0.00;SIM
+2.5.10.3;2.5.10;4;Setor 05 — pacote 030 — Escavar travessia;0.70;0.70;0.00;SIM
+2.1.12;2.1;3;Cortes, aterros e conformação — setor 01, pacote 001;3.68;3.68;0.00;SIM
+2.1.12.1;2.1.12;4;Setor 01 — pacote 001 — Executar corte de material;0.92;0.92;0.00;SIM
+2.1.12.2;2.1.12;4;Setor 01 — pacote 001 — Carregar e transportar solo;0.92;0.92;0.00;SIM
+2.1.12.3;2.1.12;4;Setor 01 — pacote 001 — Distribuir material de aterro;0.92;0.92;0.00;SIM
+2.1.12.4;2.1.12;4;Setor 01 — pacote 001 — Conformar plataforma;0.92;0.92;0.00;SIM
+2.2.12;2.2;3;Cortes, aterros e conformação — setor 02, pacote 002;3.68;3.68;0.00;SIM
+2.2.12.1;2.2.12;4;Setor 02 — pacote 002 — Carregar e transportar solo;0.92;0.92;0.00;SIM
+2.2.12.2;2.2.12;4;Setor 02 — pacote 002 — Distribuir material de aterro;0.92;0.92;0.00;SIM
+2.2.12.3;2.2.12;4;Setor 02 — pacote 002 — Conformar plataforma;0.92;0.92;0.00;SIM
+2.2.12.4;2.2.12;4;Setor 02 — pacote 002 — Executar corte de material;0.92;0.92;0.00;SIM
+2.3.12;2.3;3;Cortes, aterros e conformação — setor 03, pacote 003;3.68;3.68;0.00;SIM
+2.3.12.1;2.3.12;4;Setor 03 — pacote 003 — Distribuir material de aterro;0.92;0.92;0.00;SIM
+2.3.12.2;2.3.12;4;Setor 03 — pacote 003 — Conformar plataforma;0.92;0.92;0.00;SIM
+2.3.12.3;2.3.12;4;Setor 03 — pacote 003 — Executar corte de material;0.92;0.92;0.00;SIM
+2.3.12.4;2.3.12;4;Setor 03 — pacote 003 — Carregar e transportar solo;0.92;0.92;0.00;SIM
+2.4.12;2.4;3;Cortes, aterros e conformação — setor 04, pacote 004;3.68;3.68;0.00;SIM
+2.4.12.1;2.4.12;4;Setor 04 — pacote 004 — Conformar plataforma;0.92;0.92;0.00;SIM
+2.4.12.2;2.4.12;4;Setor 04 — pacote 004 — Executar corte de material;0.92;0.92;0.00;SIM
+2.4.12.3;2.4.12;4;Setor 04 — pacote 004 — Carregar e transportar solo;0.92;0.92;0.00;SIM
+2.4.12.4;2.4.12;4;Setor 04 — pacote 004 — Distribuir material de aterro;0.92;0.92;0.00;SIM
+2.5.11;2.5;3;Cortes, aterros e conformação — setor 05, pacote 005;3.68;3.68;0.00;SIM
+2.5.11.1;2.5.11;4;Setor 05 — pacote 005 — Executar corte de material;0.92;0.92;0.00;SIM
+2.5.11.2;2.5.11;4;Setor 05 — pacote 005 — Carregar e transportar solo;0.92;0.92;0.00;SIM
+2.5.11.3;2.5.11;4;Setor 05 — pacote 005 — Distribuir material de aterro;0.92;0.92;0.00;SIM
+2.5.11.4;2.5.11;4;Setor 05 — pacote 005 — Conformar plataforma;0.92;0.92;0.00;SIM
+2.1.13;2.1;3;Cortes, aterros e conformação — setor 01, pacote 006;3.68;3.68;0.00;SIM
+2.1.13.1;2.1.13;4;Setor 01 — pacote 006 — Carregar e transportar solo;0.92;0.92;0.00;SIM
+2.1.13.2;2.1.13;4;Setor 01 — pacote 006 — Distribuir material de aterro;0.92;0.92;0.00;SIM
+2.1.13.3;2.1.13;4;Setor 01 — pacote 006 — Conformar plataforma;0.92;0.92;0.00;SIM
+2.1.13.4;2.1.13;4;Setor 01 — pacote 006 — Executar corte de material;0.92;0.92;0.00;SIM
+2.2.13;2.2;3;Cortes, aterros e conformação — setor 02, pacote 007;3.68;3.68;0.00;SIM
+2.2.13.1;2.2.13;4;Setor 02 — pacote 007 — Distribuir material de aterro;0.92;0.92;0.00;SIM
+2.2.13.2;2.2.13;4;Setor 02 — pacote 007 — Conformar plataforma;0.92;0.92;0.00;SIM
+2.2.13.3;2.2.13;4;Setor 02 — pacote 007 — Executar corte de material;0.92;0.92;0.00;SIM
+2.2.13.4;2.2.13;4;Setor 02 — pacote 007 — Carregar e transportar solo;0.92;0.92;0.00;SIM
+2.3.13;2.3;3;Cortes, aterros e conformação — setor 03, pacote 008;3.68;3.68;0.00;SIM
+2.3.13.1;2.3.13;4;Setor 03 — pacote 008 — Conformar plataforma;0.92;0.92;0.00;SIM
+2.3.13.2;2.3.13;4;Setor 03 — pacote 008 — Executar corte de material;0.92;0.92;0.00;SIM
+2.3.13.3;2.3.13;4;Setor 03 — pacote 008 — Carregar e transportar solo;0.92;0.92;0.00;SIM
+2.3.13.4;2.3.13;4;Setor 03 — pacote 008 — Distribuir material de aterro;0.92;0.92;0.00;SIM
+2.4.13;2.4;3;Cortes, aterros e conformação — setor 04, pacote 009;3.68;3.68;0.00;SIM
+2.4.13.1;2.4.13;4;Setor 04 — pacote 009 — Executar corte de material;0.92;0.92;0.00;SIM
+2.4.13.2;2.4.13;4;Setor 04 — pacote 009 — Carregar e transportar solo;0.92;0.92;0.00;SIM
+2.4.13.3;2.4.13;4;Setor 04 — pacote 009 — Distribuir material de aterro;0.92;0.92;0.00;SIM
+2.4.13.4;2.4.13;4;Setor 04 — pacote 009 — Conformar plataforma;0.92;0.92;0.00;SIM
+2.5.12;2.5;3;Cortes, aterros e conformação — setor 05, pacote 010;3.68;3.68;0.00;SIM
+2.5.12.1;2.5.12;4;Setor 05 — pacote 010 — Carregar e transportar solo;0.92;0.92;0.00;SIM
+2.5.12.2;2.5.12;4;Setor 05 — pacote 010 — Distribuir material de aterro;0.92;0.92;0.00;SIM
+2.5.12.3;2.5.12;4;Setor 05 — pacote 010 — Conformar plataforma;0.92;0.92;0.00;SIM
+2.5.12.4;2.5.12;4;Setor 05 — pacote 010 — Executar corte de material;0.92;0.92;0.00;SIM
+2.1.14;2.1;3;Cortes, aterros e conformação — setor 01, pacote 011;3.68;3.68;0.00;SIM
+2.1.14.1;2.1.14;4;Setor 01 — pacote 011 — Distribuir material de aterro;0.92;0.92;0.00;SIM
+2.1.14.2;2.1.14;4;Setor 01 — pacote 011 — Conformar plataforma;0.92;0.92;0.00;SIM
+2.1.14.3;2.1.14;4;Setor 01 — pacote 011 — Executar corte de material;0.92;0.92;0.00;SIM
+2.1.14.4;2.1.14;4;Setor 01 — pacote 011 — Carregar e transportar solo;0.92;0.92;0.00;SIM
+2.2.14;2.2;3;Cortes, aterros e conformação — setor 02, pacote 012;3.68;3.68;0.00;SIM
+2.2.14.1;2.2.14;4;Setor 02 — pacote 012 — Conformar plataforma;0.92;0.92;0.00;SIM
+2.2.14.2;2.2.14;4;Setor 02 — pacote 012 — Executar corte de material;0.92;0.92;0.00;SIM
+2.2.14.3;2.2.14;4;Setor 02 — pacote 012 — Carregar e transportar solo;0.92;0.92;0.00;SIM
+2.2.14.4;2.2.14;4;Setor 02 — pacote 012 — Distribuir material de aterro;0.92;0.92;0.00;SIM
+2.3.14;2.3;3;Cortes, aterros e conformação — setor 03, pacote 013;3.68;3.68;0.00;SIM
+2.3.14.1;2.3.14;4;Setor 03 — pacote 013 — Executar corte de material;0.92;0.92;0.00;SIM
+2.3.14.2;2.3.14;4;Setor 03 — pacote 013 — Carregar e transportar solo;0.92;0.92;0.00;SIM
+2.3.14.3;2.3.14;4;Setor 03 — pacote 013 — Distribuir material de aterro;0.92;0.92;0.00;SIM
+2.3.14.4;2.3.14;4;Setor 03 — pacote 013 — Conformar plataforma;0.92;0.92;0.00;SIM
+2.4.14;2.4;3;Cortes, aterros e conformação — setor 04, pacote 014;3.68;3.68;0.00;SIM
+2.4.14.1;2.4.14;4;Setor 04 — pacote 014 — Carregar e transportar solo;0.92;0.92;0.00;SIM
+2.4.14.2;2.4.14;4;Setor 04 — pacote 014 — Distribuir material de aterro;0.92;0.92;0.00;SIM
+2.4.14.3;2.4.14;4;Setor 04 — pacote 014 — Conformar plataforma;0.92;0.92;0.00;SIM
+2.4.14.4;2.4.14;4;Setor 04 — pacote 014 — Executar corte de material;0.92;0.92;0.00;SIM
+2.5.13;2.5;3;Cortes, aterros e conformação — setor 05, pacote 015;3.68;3.68;0.00;SIM
+2.5.13.1;2.5.13;4;Setor 05 — pacote 015 — Distribuir material de aterro;0.92;0.92;0.00;SIM
+2.5.13.2;2.5.13;4;Setor 05 — pacote 015 — Conformar plataforma;0.92;0.92;0.00;SIM
+2.5.13.3;2.5.13;4;Setor 05 — pacote 015 — Executar corte de material;0.92;0.92;0.00;SIM
+2.5.13.4;2.5.13;4;Setor 05 — pacote 015 — Carregar e transportar solo;0.92;0.92;0.00;SIM
+2.1.15;2.1;3;Cortes, aterros e conformação — setor 01, pacote 016;3.68;3.68;0.00;SIM
+2.1.15.1;2.1.15;4;Setor 01 — pacote 016 — Conformar plataforma;0.92;0.92;0.00;SIM
+2.1.15.2;2.1.15;4;Setor 01 — pacote 016 — Executar corte de material;0.92;0.92;0.00;SIM
+2.1.15.3;2.1.15;4;Setor 01 — pacote 016 — Carregar e transportar solo;0.92;0.92;0.00;SIM
+2.1.15.4;2.1.15;4;Setor 01 — pacote 016 — Distribuir material de aterro;0.92;0.92;0.00;SIM
+2.2.15;2.2;3;Cortes, aterros e conformação — setor 02, pacote 017;3.68;3.68;0.00;SIM
+2.2.15.1;2.2.15;4;Setor 02 — pacote 017 — Executar corte de material;0.92;0.92;0.00;SIM
+2.2.15.2;2.2.15;4;Setor 02 — pacote 017 — Carregar e transportar solo;0.92;0.92;0.00;SIM
+2.2.15.3;2.2.15;4;Setor 02 — pacote 017 — Distribuir material de aterro;0.92;0.92;0.00;SIM
+2.2.15.4;2.2.15;4;Setor 02 — pacote 017 — Conformar plataforma;0.92;0.92;0.00;SIM
+2.3.15;2.3;3;Cortes, aterros e conformação — setor 03, pacote 018;3.67;3.67;0.00;SIM
+2.3.15.1;2.3.15;4;Setor 03 — pacote 018 — Carregar e transportar solo;0.92;0.92;0.00;SIM
+2.3.15.2;2.3.15;4;Setor 03 — pacote 018 — Distribuir material de aterro;0.92;0.92;0.00;SIM
+2.3.15.3;2.3.15;4;Setor 03 — pacote 018 — Conformar plataforma;0.92;0.92;0.00;SIM
+2.3.15.4;2.3.15;4;Setor 03 — pacote 018 — Executar corte de material;0.91;0.91;0.00;SIM
+2.4.15;2.4;3;Cortes, aterros e conformação — setor 04, pacote 019;3.64;3.64;0.00;SIM
+2.4.15.1;2.4.15;4;Setor 04 — pacote 019 — Distribuir material de aterro;0.91;0.91;0.00;SIM
+2.4.15.2;2.4.15;4;Setor 04 — pacote 019 — Conformar plataforma;0.91;0.91;0.00;SIM
+2.4.15.3;2.4.15;4;Setor 04 — pacote 019 — Executar corte de material;0.91;0.91;0.00;SIM
+2.4.15.4;2.4.15;4;Setor 04 — pacote 019 — Carregar e transportar solo;0.91;0.91;0.00;SIM
+2.5.14;2.5;3;Cortes, aterros e conformação — setor 05, pacote 020;3.64;3.64;0.00;SIM
+2.5.14.1;2.5.14;4;Setor 05 — pacote 020 — Conformar plataforma;0.91;0.91;0.00;SIM
+2.5.14.2;2.5.14;4;Setor 05 — pacote 020 — Executar corte de material;0.91;0.91;0.00;SIM
+2.5.14.3;2.5.14;4;Setor 05 — pacote 020 — Carregar e transportar solo;0.91;0.91;0.00;SIM
+2.5.14.4;2.5.14;4;Setor 05 — pacote 020 — Distribuir material de aterro;0.91;0.91;0.00;SIM
+2.1.16;2.1;3;Cortes, aterros e conformação — setor 01, pacote 021;3.64;3.64;0.00;SIM
+2.1.16.1;2.1.16;4;Setor 01 — pacote 021 — Executar corte de material;0.91;0.91;0.00;SIM
+2.1.16.2;2.1.16;4;Setor 01 — pacote 021 — Carregar e transportar solo;0.91;0.91;0.00;SIM
+2.1.16.3;2.1.16;4;Setor 01 — pacote 021 — Distribuir material de aterro;0.91;0.91;0.00;SIM
+2.1.16.4;2.1.16;4;Setor 01 — pacote 021 — Conformar plataforma;0.91;0.91;0.00;SIM
+2.2.16;2.2;3;Cortes, aterros e conformação — setor 02, pacote 022;3.64;3.64;0.00;SIM
+2.2.16.1;2.2.16;4;Setor 02 — pacote 022 — Carregar e transportar solo;0.91;0.91;0.00;SIM
+2.2.16.2;2.2.16;4;Setor 02 — pacote 022 — Distribuir material de aterro;0.91;0.91;0.00;SIM
+2.2.16.3;2.2.16;4;Setor 02 — pacote 022 — Conformar plataforma;0.91;0.91;0.00;SIM
+2.2.16.4;2.2.16;4;Setor 02 — pacote 022 — Executar corte de material;0.91;0.91;0.00;SIM
+2.3.16;2.3;3;Cortes, aterros e conformação — setor 03, pacote 023;3.64;3.64;0.00;SIM
+2.3.16.1;2.3.16;4;Setor 03 — pacote 023 — Distribuir material de aterro;0.91;0.91;0.00;SIM
+2.3.16.2;2.3.16;4;Setor 03 — pacote 023 — Conformar plataforma;0.91;0.91;0.00;SIM
+2.3.16.3;2.3.16;4;Setor 03 — pacote 023 — Executar corte de material;0.91;0.91;0.00;SIM
+2.3.16.4;2.3.16;4;Setor 03 — pacote 023 — Carregar e transportar solo;0.91;0.91;0.00;SIM
+2.4.16;2.4;3;Cortes, aterros e conformação — setor 04, pacote 024;3.64;3.64;0.00;SIM
+2.4.16.1;2.4.16;4;Setor 04 — pacote 024 — Conformar plataforma;0.91;0.91;0.00;SIM
+2.4.16.2;2.4.16;4;Setor 04 — pacote 024 — Executar corte de material;0.91;0.91;0.00;SIM
+2.4.16.3;2.4.16;4;Setor 04 — pacote 024 — Carregar e transportar solo;0.91;0.91;0.00;SIM
+2.4.16.4;2.4.16;4;Setor 04 — pacote 024 — Distribuir material de aterro;0.91;0.91;0.00;SIM
+2.5.15;2.5;3;Cortes, aterros e conformação — setor 05, pacote 025;3.64;3.64;0.00;SIM
+2.5.15.1;2.5.15;4;Setor 05 — pacote 025 — Executar corte de material;0.91;0.91;0.00;SIM
+2.5.15.2;2.5.15;4;Setor 05 — pacote 025 — Carregar e transportar solo;0.91;0.91;0.00;SIM
+2.5.15.3;2.5.15;4;Setor 05 — pacote 025 — Distribuir material de aterro;0.91;0.91;0.00;SIM
+2.5.15.4;2.5.15;4;Setor 05 — pacote 025 — Conformar plataforma;0.91;0.91;0.00;SIM
+2.1.17;2.1;3;Cortes, aterros e conformação — setor 01, pacote 026;3.64;3.64;0.00;SIM
+2.1.17.1;2.1.17;4;Setor 01 — pacote 026 — Carregar e transportar solo;0.91;0.91;0.00;SIM
+2.1.17.2;2.1.17;4;Setor 01 — pacote 026 — Distribuir material de aterro;0.91;0.91;0.00;SIM
+2.1.17.3;2.1.17;4;Setor 01 — pacote 026 — Conformar plataforma;0.91;0.91;0.00;SIM
+2.1.17.4;2.1.17;4;Setor 01 — pacote 026 — Executar corte de material;0.91;0.91;0.00;SIM
+2.2.17;2.2;3;Cortes, aterros e conformação — setor 02, pacote 027;3.64;3.64;0.00;SIM
+2.2.17.1;2.2.17;4;Setor 02 — pacote 027 — Distribuir material de aterro;0.91;0.91;0.00;SIM
+2.2.17.2;2.2.17;4;Setor 02 — pacote 027 — Conformar plataforma;0.91;0.91;0.00;SIM
+2.2.17.3;2.2.17;4;Setor 02 — pacote 027 — Executar corte de material;0.91;0.91;0.00;SIM
+2.2.17.4;2.2.17;4;Setor 02 — pacote 027 — Carregar e transportar solo;0.91;0.91;0.00;SIM
+2.3.17;2.3;3;Cortes, aterros e conformação — setor 03, pacote 028;2.73;2.73;0.00;SIM
+2.3.17.1;2.3.17;4;Setor 03 — pacote 028 — Conformar plataforma;0.91;0.91;0.00;SIM
+2.3.17.2;2.3.17;4;Setor 03 — pacote 028 — Executar corte de material;0.91;0.91;0.00;SIM
+2.3.17.3;2.3.17;4;Setor 03 — pacote 028 — Carregar e transportar solo;0.91;0.91;0.00;SIM
+2.4.17;2.4;3;Cortes, aterros e conformação — setor 04, pacote 029;2.73;2.73;0.00;SIM
+2.4.17.1;2.4.17;4;Setor 04 — pacote 029 — Conformar plataforma;0.91;0.91;0.00;SIM
+2.4.17.2;2.4.17;4;Setor 04 — pacote 029 — Executar corte de material;0.91;0.91;0.00;SIM
+2.4.17.3;2.4.17;4;Setor 04 — pacote 029 — Carregar e transportar solo;0.91;0.91;0.00;SIM
+2.5.16;2.5;3;Cortes, aterros e conformação — setor 05, pacote 030;2.73;2.73;0.00;SIM
+2.5.16.1;2.5.16;4;Setor 05 — pacote 030 — Conformar plataforma;0.91;0.91;0.00;SIM
+2.5.16.2;2.5.16;4;Setor 05 — pacote 030 — Executar corte de material;0.91;0.91;0.00;SIM
+2.5.16.3;2.5.16;4;Setor 05 — pacote 030 — Carregar e transportar solo;0.91;0.91;0.00;SIM
+2.1.18;2.1;3;Cortes, aterros e conformação — setor 01, pacote 031;2.73;2.73;0.00;SIM
+2.1.18.1;2.1.18;4;Setor 01 — pacote 031 — Conformar plataforma;0.91;0.91;0.00;SIM
+2.1.18.2;2.1.18;4;Setor 01 — pacote 031 — Executar corte de material;0.91;0.91;0.00;SIM
+2.1.18.3;2.1.18;4;Setor 01 — pacote 031 — Carregar e transportar solo;0.91;0.91;0.00;SIM
+2.2.18;2.2;3;Cortes, aterros e conformação — setor 02, pacote 032;2.73;2.73;0.00;SIM
+2.2.18.1;2.2.18;4;Setor 02 — pacote 032 — Conformar plataforma;0.91;0.91;0.00;SIM
+2.2.18.2;2.2.18;4;Setor 02 — pacote 032 — Executar corte de material;0.91;0.91;0.00;SIM
+2.2.18.3;2.2.18;4;Setor 02 — pacote 032 — Carregar e transportar solo;0.91;0.91;0.00;SIM
+2.3.18;2.3;3;Cortes, aterros e conformação — setor 03, pacote 033;2.73;2.73;0.00;SIM
+2.3.18.1;2.3.18;4;Setor 03 — pacote 033 — Conformar plataforma;0.91;0.91;0.00;SIM
+2.3.18.2;2.3.18;4;Setor 03 — pacote 033 — Executar corte de material;0.91;0.91;0.00;SIM
+2.3.18.3;2.3.18;4;Setor 03 — pacote 033 — Carregar e transportar solo;0.91;0.91;0.00;SIM
+2.4.18;2.4;3;Cortes, aterros e conformação — setor 04, pacote 034;2.73;2.73;0.00;SIM
+2.4.18.1;2.4.18;4;Setor 04 — pacote 034 — Conformar plataforma;0.91;0.91;0.00;SIM
+2.4.18.2;2.4.18;4;Setor 04 — pacote 034 — Executar corte de material;0.91;0.91;0.00;SIM
+2.4.18.3;2.4.18;4;Setor 04 — pacote 034 — Carregar e transportar solo;0.91;0.91;0.00;SIM
+2.5.17;2.5;3;Cortes, aterros e conformação — setor 05, pacote 035;2.73;2.73;0.00;SIM
+2.5.17.1;2.5.17;4;Setor 05 — pacote 035 — Conformar plataforma;0.91;0.91;0.00;SIM
+2.5.17.2;2.5.17;4;Setor 05 — pacote 035 — Executar corte de material;0.91;0.91;0.00;SIM
+2.5.17.3;2.5.17;4;Setor 05 — pacote 035 — Carregar e transportar solo;0.91;0.91;0.00;SIM
+2.1.19;2.1;3;Cortes, aterros e conformação — setor 01, pacote 036;2.73;2.73;0.00;SIM
+2.1.19.1;2.1.19;4;Setor 01 — pacote 036 — Conformar plataforma;0.91;0.91;0.00;SIM
+2.1.19.2;2.1.19;4;Setor 01 — pacote 036 — Executar corte de material;0.91;0.91;0.00;SIM
+2.1.19.3;2.1.19;4;Setor 01 — pacote 036 — Carregar e transportar solo;0.91;0.91;0.00;SIM
+2.2.19;2.2;3;Cortes, aterros e conformação — setor 02, pacote 037;2.73;2.73;0.00;SIM
+2.2.19.1;2.2.19;4;Setor 02 — pacote 037 — Conformar plataforma;0.91;0.91;0.00;SIM
+2.2.19.2;2.2.19;4;Setor 02 — pacote 037 — Executar corte de material;0.91;0.91;0.00;SIM
+2.2.19.3;2.2.19;4;Setor 02 — pacote 037 — Carregar e transportar solo;0.91;0.91;0.00;SIM
+2.3.19;2.3;3;Cortes, aterros e conformação — setor 03, pacote 038;2.73;2.73;0.00;SIM
+2.3.19.1;2.3.19;4;Setor 03 — pacote 038 — Conformar plataforma;0.91;0.91;0.00;SIM
+2.3.19.2;2.3.19;4;Setor 03 — pacote 038 — Executar corte de material;0.91;0.91;0.00;SIM
+2.3.19.3;2.3.19;4;Setor 03 — pacote 038 — Carregar e transportar solo;0.91;0.91;0.00;SIM
+2.4.19;2.4;3;Cortes, aterros e conformação — setor 04, pacote 039;2.73;2.73;0.00;SIM
+2.4.19.1;2.4.19;4;Setor 04 — pacote 039 — Conformar plataforma;0.91;0.91;0.00;SIM
+2.4.19.2;2.4.19;4;Setor 04 — pacote 039 — Executar corte de material;0.91;0.91;0.00;SIM
+2.4.19.3;2.4.19;4;Setor 04 — pacote 039 — Carregar e transportar solo;0.91;0.91;0.00;SIM
+2.5.18;2.5;3;Cortes, aterros e conformação — setor 05, pacote 040;2.73;2.73;0.00;SIM
+2.5.18.1;2.5.18;4;Setor 05 — pacote 040 — Conformar plataforma;0.91;0.91;0.00;SIM
+2.5.18.2;2.5.18;4;Setor 05 — pacote 040 — Executar corte de material;0.91;0.91;0.00;SIM
+2.5.18.3;2.5.18;4;Setor 05 — pacote 040 — Carregar e transportar solo;0.91;0.91;0.00;SIM
+2.1.20;2.1;3;Cortes, aterros e conformação — setor 01, pacote 041;2.73;2.73;0.00;SIM
+2.1.20.1;2.1.20;4;Setor 01 — pacote 041 — Conformar plataforma;0.91;0.91;0.00;SIM
+2.1.20.2;2.1.20;4;Setor 01 — pacote 041 — Executar corte de material;0.91;0.91;0.00;SIM
+2.1.20.3;2.1.20;4;Setor 01 — pacote 041 — Carregar e transportar solo;0.91;0.91;0.00;SIM
+2.2.20;2.2;3;Cortes, aterros e conformação — setor 02, pacote 042;2.73;2.73;0.00;SIM
+2.2.20.1;2.2.20;4;Setor 02 — pacote 042 — Conformar plataforma;0.91;0.91;0.00;SIM
+2.2.20.2;2.2.20;4;Setor 02 — pacote 042 — Executar corte de material;0.91;0.91;0.00;SIM
+2.2.20.3;2.2.20;4;Setor 02 — pacote 042 — Carregar e transportar solo;0.91;0.91;0.00;SIM
+2.3.20;2.3;3;Cortes, aterros e conformação — setor 03, pacote 043;2.73;2.73;0.00;SIM
+2.3.20.1;2.3.20;4;Setor 03 — pacote 043 — Conformar plataforma;0.91;0.91;0.00;SIM
+2.3.20.2;2.3.20;4;Setor 03 — pacote 043 — Executar corte de material;0.91;0.91;0.00;SIM
+2.3.20.3;2.3.20;4;Setor 03 — pacote 043 — Carregar e transportar solo;0.91;0.91;0.00;SIM
+2.4.20;2.4;3;Cortes, aterros e conformação — setor 04, pacote 044;2.73;2.73;0.00;SIM
+2.4.20.1;2.4.20;4;Setor 04 — pacote 044 — Conformar plataforma;0.91;0.91;0.00;SIM
+2.4.20.2;2.4.20;4;Setor 04 — pacote 044 — Executar corte de material;0.91;0.91;0.00;SIM
+2.4.20.3;2.4.20;4;Setor 04 — pacote 044 — Carregar e transportar solo;0.91;0.91;0.00;SIM
+2.5.19;2.5;3;Cortes, aterros e conformação — setor 05, pacote 045;2.73;2.73;0.00;SIM
+2.5.19.1;2.5.19;4;Setor 05 — pacote 045 — Conformar plataforma;0.91;0.91;0.00;SIM
+2.5.19.2;2.5.19;4;Setor 05 — pacote 045 — Executar corte de material;0.91;0.91;0.00;SIM
+2.5.19.3;2.5.19;4;Setor 05 — pacote 045 — Carregar e transportar solo;0.91;0.91;0.00;SIM
+2.1.21;2.1;3;Cortes, aterros e conformação — setor 01, pacote 046;2.73;2.73;0.00;SIM
+2.1.21.1;2.1.21;4;Setor 01 — pacote 046 — Conformar plataforma;0.91;0.91;0.00;SIM
+2.1.21.2;2.1.21;4;Setor 01 — pacote 046 — Executar corte de material;0.91;0.91;0.00;SIM
+2.1.21.3;2.1.21;4;Setor 01 — pacote 046 — Carregar e transportar solo;0.91;0.91;0.00;SIM
+2.2.21;2.2;3;Cortes, aterros e conformação — setor 02, pacote 047;2.73;2.73;0.00;SIM
+2.2.21.1;2.2.21;4;Setor 02 — pacote 047 — Conformar plataforma;0.91;0.91;0.00;SIM
+2.2.21.2;2.2.21;4;Setor 02 — pacote 047 — Executar corte de material;0.91;0.91;0.00;SIM
+2.2.21.3;2.2.21;4;Setor 02 — pacote 047 — Carregar e transportar solo;0.91;0.91;0.00;SIM
+2.3.21;2.3;3;Cortes, aterros e conformação — setor 03, pacote 048;2.73;2.73;0.00;SIM
+2.3.21.1;2.3.21;4;Setor 03 — pacote 048 — Conformar plataforma;0.91;0.91;0.00;SIM
+2.3.21.2;2.3.21;4;Setor 03 — pacote 048 — Executar corte de material;0.91;0.91;0.00;SIM
+2.3.21.3;2.3.21;4;Setor 03 — pacote 048 — Carregar e transportar solo;0.91;0.91;0.00;SIM
+2.4.21;2.4;3;Cortes, aterros e conformação — setor 04, pacote 049;2.73;2.73;0.00;SIM
+2.4.21.1;2.4.21;4;Setor 04 — pacote 049 — Conformar plataforma;0.91;0.91;0.00;SIM
+2.4.21.2;2.4.21;4;Setor 04 — pacote 049 — Executar corte de material;0.91;0.91;0.00;SIM
+2.4.21.3;2.4.21;4;Setor 04 — pacote 049 — Carregar e transportar solo;0.91;0.91;0.00;SIM
+2.5.20;2.5;3;Cortes, aterros e conformação — setor 05, pacote 050;2.73;2.73;0.00;SIM
+2.5.20.1;2.5.20;4;Setor 05 — pacote 050 — Conformar plataforma;0.91;0.91;0.00;SIM
+2.5.20.2;2.5.20;4;Setor 05 — pacote 050 — Executar corte de material;0.91;0.91;0.00;SIM
+2.5.20.3;2.5.20;4;Setor 05 — pacote 050 — Carregar e transportar solo;0.91;0.91;0.00;SIM
+2.1.22;2.1;3;Cortes, aterros e conformação — setor 01, pacote 051;2.73;2.73;0.00;SIM
+2.1.22.1;2.1.22;4;Setor 01 — pacote 051 — Conformar plataforma;0.91;0.91;0.00;SIM
+2.1.22.2;2.1.22;4;Setor 01 — pacote 051 — Executar corte de material;0.91;0.91;0.00;SIM
+2.1.22.3;2.1.22;4;Setor 01 — pacote 051 — Carregar e transportar solo;0.91;0.91;0.00;SIM
+2.2.22;2.2;3;Cortes, aterros e conformação — setor 02, pacote 052;2.73;2.73;0.00;SIM
+2.2.22.1;2.2.22;4;Setor 02 — pacote 052 — Conformar plataforma;0.91;0.91;0.00;SIM
+2.2.22.2;2.2.22;4;Setor 02 — pacote 052 — Executar corte de material;0.91;0.91;0.00;SIM
+2.2.22.3;2.2.22;4;Setor 02 — pacote 052 — Carregar e transportar solo;0.91;0.91;0.00;SIM
+2.3.22;2.3;3;Cortes, aterros e conformação — setor 03, pacote 053;2.73;2.73;0.00;SIM
+2.3.22.1;2.3.22;4;Setor 03 — pacote 053 — Conformar plataforma;0.91;0.91;0.00;SIM
+2.3.22.2;2.3.22;4;Setor 03 — pacote 053 — Executar corte de material;0.91;0.91;0.00;SIM
+2.3.22.3;2.3.22;4;Setor 03 — pacote 053 — Carregar e transportar solo;0.91;0.91;0.00;SIM
+2.4.22;2.4;3;Cortes, aterros e conformação — setor 04, pacote 054;2.73;2.73;0.00;SIM
+2.4.22.1;2.4.22;4;Setor 04 — pacote 054 — Conformar plataforma;0.91;0.91;0.00;SIM
+2.4.22.2;2.4.22;4;Setor 04 — pacote 054 — Executar corte de material;0.91;0.91;0.00;SIM
+2.4.22.3;2.4.22;4;Setor 04 — pacote 054 — Carregar e transportar solo;0.91;0.91;0.00;SIM
+2.5.21;2.5;3;Cortes, aterros e conformação — setor 05, pacote 055;2.73;2.73;0.00;SIM
+2.5.21.1;2.5.21;4;Setor 05 — pacote 055 — Conformar plataforma;0.91;0.91;0.00;SIM
+2.5.21.2;2.5.21;4;Setor 05 — pacote 055 — Executar corte de material;0.91;0.91;0.00;SIM
+2.5.21.3;2.5.21;4;Setor 05 — pacote 055 — Carregar e transportar solo;0.91;0.91;0.00;SIM
+2.1.23;2.1;3;Cortes, aterros e conformação — setor 01, pacote 056;2.73;2.73;0.00;SIM
+2.1.23.1;2.1.23;4;Setor 01 — pacote 056 — Conformar plataforma;0.91;0.91;0.00;SIM
+2.1.23.2;2.1.23;4;Setor 01 — pacote 056 — Executar corte de material;0.91;0.91;0.00;SIM
+2.1.23.3;2.1.23;4;Setor 01 — pacote 056 — Carregar e transportar solo;0.91;0.91;0.00;SIM
+2.2.23;2.2;3;Cortes, aterros e conformação — setor 02, pacote 057;2.73;2.73;0.00;SIM
+2.2.23.1;2.2.23;4;Setor 02 — pacote 057 — Conformar plataforma;0.91;0.91;0.00;SIM
+2.2.23.2;2.2.23;4;Setor 02 — pacote 057 — Executar corte de material;0.91;0.91;0.00;SIM
+2.2.23.3;2.2.23;4;Setor 02 — pacote 057 — Carregar e transportar solo;0.91;0.91;0.00;SIM
+2.3.23;2.3;3;Cortes, aterros e conformação — setor 03, pacote 058;2.73;2.73;0.00;SIM
+2.3.23.1;2.3.23;4;Setor 03 — pacote 058 — Conformar plataforma;0.91;0.91;0.00;SIM
+2.3.23.2;2.3.23;4;Setor 03 — pacote 058 — Executar corte de material;0.91;0.91;0.00;SIM
+2.3.23.3;2.3.23;4;Setor 03 — pacote 058 — Carregar e transportar solo;0.91;0.91;0.00;SIM
+2.4.23;2.4;3;Cortes, aterros e conformação — setor 04, pacote 059;2.73;2.73;0.00;SIM
+2.4.23.1;2.4.23;4;Setor 04 — pacote 059 — Conformar plataforma;0.91;0.91;0.00;SIM
+2.4.23.2;2.4.23;4;Setor 04 — pacote 059 — Executar corte de material;0.91;0.91;0.00;SIM
+2.4.23.3;2.4.23;4;Setor 04 — pacote 059 — Carregar e transportar solo;0.91;0.91;0.00;SIM
+2.5.22;2.5;3;Cortes, aterros e conformação — setor 05, pacote 060;2.73;2.73;0.00;SIM
+2.5.22.1;2.5.22;4;Setor 05 — pacote 060 — Conformar plataforma;0.91;0.91;0.00;SIM
+2.5.22.2;2.5.22;4;Setor 05 — pacote 060 — Executar corte de material;0.91;0.91;0.00;SIM
+2.5.22.3;2.5.22;4;Setor 05 — pacote 060 — Carregar e transportar solo;0.91;0.91;0.00;SIM
+2.1.24;2.1;3;Cortes, aterros e conformação — setor 01, pacote 061;2.73;2.73;0.00;SIM
+2.1.24.1;2.1.24;4;Setor 01 — pacote 061 — Conformar plataforma;0.91;0.91;0.00;SIM
+2.1.24.2;2.1.24;4;Setor 01 — pacote 061 — Executar corte de material;0.91;0.91;0.00;SIM
+2.1.24.3;2.1.24;4;Setor 01 — pacote 061 — Carregar e transportar solo;0.91;0.91;0.00;SIM
+2.2.24;2.2;3;Cortes, aterros e conformação — setor 02, pacote 062;2.73;2.73;0.00;SIM
+2.2.24.1;2.2.24;4;Setor 02 — pacote 062 — Conformar plataforma;0.91;0.91;0.00;SIM
+2.2.24.2;2.2.24;4;Setor 02 — pacote 062 — Executar corte de material;0.91;0.91;0.00;SIM
+2.2.24.3;2.2.24;4;Setor 02 — pacote 062 — Carregar e transportar solo;0.91;0.91;0.00;SIM
+2.3.24;2.3;3;Cortes, aterros e conformação — setor 03, pacote 063;2.73;2.73;0.00;SIM
+2.3.24.1;2.3.24;4;Setor 03 — pacote 063 — Conformar plataforma;0.91;0.91;0.00;SIM
+2.3.24.2;2.3.24;4;Setor 03 — pacote 063 — Executar corte de material;0.91;0.91;0.00;SIM
+2.3.24.3;2.3.24;4;Setor 03 — pacote 063 — Carregar e transportar solo;0.91;0.91;0.00;SIM
+2.4.24;2.4;3;Cortes, aterros e conformação — setor 04, pacote 064;2.73;2.73;0.00;SIM
+2.4.24.1;2.4.24;4;Setor 04 — pacote 064 — Conformar plataforma;0.91;0.91;0.00;SIM
+2.4.24.2;2.4.24;4;Setor 04 — pacote 064 — Executar corte de material;0.91;0.91;0.00;SIM
+2.4.24.3;2.4.24;4;Setor 04 — pacote 064 — Carregar e transportar solo;0.91;0.91;0.00;SIM
+2.1.25;2.1;3;Preparação do subleito — setor 01, pacote 001;3.28;3.28;0.00;SIM
+2.1.25.1;2.1.25;4;Setor 01 — pacote 001 — Regularizar superfície;0.82;0.82;-0.00;SIM
+2.1.25.2;2.1.25;4;Setor 01 — pacote 001 — Ajustar umidade;0.82;0.82;-0.00;SIM
+2.1.25.3;2.1.25;4;Setor 01 — pacote 001 — Compactar camada;0.82;0.82;-0.00;SIM
+2.1.25.4;2.1.25;4;Setor 01 — pacote 001 — Verificar condição do subleito;0.82;0.82;-0.00;SIM
+2.2.25;2.2;3;Preparação do subleito — setor 02, pacote 002;3.28;3.28;0.00;SIM
+2.2.25.1;2.2.25;4;Setor 02 — pacote 002 — Ajustar umidade;0.82;0.82;-0.00;SIM
+2.2.25.2;2.2.25;4;Setor 02 — pacote 002 — Compactar camada;0.82;0.82;-0.00;SIM
+2.2.25.3;2.2.25;4;Setor 02 — pacote 002 — Verificar condição do subleito;0.82;0.82;-0.00;SIM
+2.2.25.4;2.2.25;4;Setor 02 — pacote 002 — Regularizar superfície;0.82;0.82;-0.00;SIM
+2.3.25;2.3;3;Preparação do subleito — setor 03, pacote 003;3.28;3.28;0.00;SIM
+2.3.25.1;2.3.25;4;Setor 03 — pacote 003 — Compactar camada;0.82;0.82;-0.00;SIM
+2.3.25.2;2.3.25;4;Setor 03 — pacote 003 — Verificar condição do subleito;0.82;0.82;-0.00;SIM
+2.3.25.3;2.3.25;4;Setor 03 — pacote 003 — Regularizar superfície;0.82;0.82;-0.00;SIM
+2.3.25.4;2.3.25;4;Setor 03 — pacote 003 — Ajustar umidade;0.82;0.82;-0.00;SIM
+2.4.25;2.4;3;Preparação do subleito — setor 04, pacote 004;3.28;3.28;0.00;SIM
+2.4.25.1;2.4.25;4;Setor 04 — pacote 004 — Verificar condição do subleito;0.82;0.82;-0.00;SIM
+2.4.25.2;2.4.25;4;Setor 04 — pacote 004 — Regularizar superfície;0.82;0.82;-0.00;SIM
+2.4.25.3;2.4.25;4;Setor 04 — pacote 004 — Ajustar umidade;0.82;0.82;-0.00;SIM
+2.4.25.4;2.4.25;4;Setor 04 — pacote 004 — Compactar camada;0.82;0.82;-0.00;SIM
+2.5.23;2.5;3;Preparação do subleito — setor 05, pacote 005;3.28;3.28;0.00;SIM
+2.5.23.1;2.5.23;4;Setor 05 — pacote 005 — Regularizar superfície;0.82;0.82;-0.00;SIM
+2.5.23.2;2.5.23;4;Setor 05 — pacote 005 — Ajustar umidade;0.82;0.82;-0.00;SIM
+2.5.23.3;2.5.23;4;Setor 05 — pacote 005 — Compactar camada;0.82;0.82;-0.00;SIM
+2.5.23.4;2.5.23;4;Setor 05 — pacote 005 — Verificar condição do subleito;0.82;0.82;-0.00;SIM
+2.1.26;2.1;3;Preparação do subleito — setor 01, pacote 006;3.24;3.24;0.00;SIM
+2.1.26.1;2.1.26;4;Setor 01 — pacote 006 — Ajustar umidade;0.81;0.81;0.00;SIM
+2.1.26.2;2.1.26;4;Setor 01 — pacote 006 — Compactar camada;0.81;0.81;0.00;SIM
+2.1.26.3;2.1.26;4;Setor 01 — pacote 006 — Verificar condição do subleito;0.81;0.81;0.00;SIM
+2.1.26.4;2.1.26;4;Setor 01 — pacote 006 — Regularizar superfície;0.81;0.81;0.00;SIM
+2.2.26;2.2;3;Preparação do subleito — setor 02, pacote 007;3.24;3.24;0.00;SIM
+2.2.26.1;2.2.26;4;Setor 02 — pacote 007 — Compactar camada;0.81;0.81;0.00;SIM
+2.2.26.2;2.2.26;4;Setor 02 — pacote 007 — Verificar condição do subleito;0.81;0.81;0.00;SIM
+2.2.26.3;2.2.26;4;Setor 02 — pacote 007 — Regularizar superfície;0.81;0.81;0.00;SIM
+2.2.26.4;2.2.26;4;Setor 02 — pacote 007 — Ajustar umidade;0.81;0.81;0.00;SIM
+2.3.26;2.3;3;Preparação do subleito — setor 03, pacote 008;3.24;3.24;0.00;SIM
+2.3.26.1;2.3.26;4;Setor 03 — pacote 008 — Verificar condição do subleito;0.81;0.81;0.00;SIM
+2.3.26.2;2.3.26;4;Setor 03 — pacote 008 — Regularizar superfície;0.81;0.81;0.00;SIM
+2.3.26.3;2.3.26;4;Setor 03 — pacote 008 — Ajustar umidade;0.81;0.81;0.00;SIM
+2.3.26.4;2.3.26;4;Setor 03 — pacote 008 — Compactar camada;0.81;0.81;0.00;SIM
+2.4.26;2.4;3;Preparação do subleito — setor 04, pacote 009;2.43;2.43;0.00;SIM
+2.4.26.1;2.4.26;4;Setor 04 — pacote 009 — Regularizar superfície;0.81;0.81;0.00;SIM
+2.4.26.2;2.4.26;4;Setor 04 — pacote 009 — Ajustar umidade;0.81;0.81;0.00;SIM
+2.4.26.3;2.4.26;4;Setor 04 — pacote 009 — Compactar camada;0.81;0.81;0.00;SIM
+2.5.24;2.5;3;Preparação do subleito — setor 05, pacote 010;2.43;2.43;0.00;SIM
+2.5.24.1;2.5.24;4;Setor 05 — pacote 010 — Regularizar superfície;0.81;0.81;0.00;SIM
+2.5.24.2;2.5.24;4;Setor 05 — pacote 010 — Ajustar umidade;0.81;0.81;0.00;SIM
+2.5.24.3;2.5.24;4;Setor 05 — pacote 010 — Compactar camada;0.81;0.81;0.00;SIM
+2.1.27;2.1;3;Preparação do subleito — setor 01, pacote 011;2.43;2.43;0.00;SIM
+2.1.27.1;2.1.27;4;Setor 01 — pacote 011 — Regularizar superfície;0.81;0.81;0.00;SIM
+2.1.27.2;2.1.27;4;Setor 01 — pacote 011 — Ajustar umidade;0.81;0.81;0.00;SIM
+2.1.27.3;2.1.27;4;Setor 01 — pacote 011 — Compactar camada;0.81;0.81;0.00;SIM
+2.2.27;2.2;3;Preparação do subleito — setor 02, pacote 012;2.43;2.43;0.00;SIM
+2.2.27.1;2.2.27;4;Setor 02 — pacote 012 — Regularizar superfície;0.81;0.81;0.00;SIM
+2.2.27.2;2.2.27;4;Setor 02 — pacote 012 — Ajustar umidade;0.81;0.81;0.00;SIM
+2.2.27.3;2.2.27;4;Setor 02 — pacote 012 — Compactar camada;0.81;0.81;0.00;SIM
+2.3.27;2.3;3;Preparação do subleito — setor 03, pacote 013;2.43;2.43;0.00;SIM
+2.3.27.1;2.3.27;4;Setor 03 — pacote 013 — Regularizar superfície;0.81;0.81;0.00;SIM
+2.3.27.2;2.3.27;4;Setor 03 — pacote 013 — Ajustar umidade;0.81;0.81;0.00;SIM
+2.3.27.3;2.3.27;4;Setor 03 — pacote 013 — Compactar camada;0.81;0.81;0.00;SIM
+2.4.27;2.4;3;Preparação do subleito — setor 04, pacote 014;2.43;2.43;0.00;SIM
+2.4.27.1;2.4.27;4;Setor 04 — pacote 014 — Regularizar superfície;0.81;0.81;0.00;SIM
+2.4.27.2;2.4.27;4;Setor 04 — pacote 014 — Ajustar umidade;0.81;0.81;0.00;SIM
+2.4.27.3;2.4.27;4;Setor 04 — pacote 014 — Compactar camada;0.81;0.81;0.00;SIM
+2.5.25;2.5;3;Preparação do subleito — setor 05, pacote 015;2.43;2.43;0.00;SIM
+2.5.25.1;2.5.25;4;Setor 05 — pacote 015 — Regularizar superfície;0.81;0.81;0.00;SIM
+2.5.25.2;2.5.25;4;Setor 05 — pacote 015 — Ajustar umidade;0.81;0.81;0.00;SIM
+2.5.25.3;2.5.25;4;Setor 05 — pacote 015 — Compactar camada;0.81;0.81;0.00;SIM
+2.1.28;2.1;3;Preparação do subleito — setor 01, pacote 016;2.43;2.43;0.00;SIM
+2.1.28.1;2.1.28;4;Setor 01 — pacote 016 — Regularizar superfície;0.81;0.81;0.00;SIM
+2.1.28.2;2.1.28;4;Setor 01 — pacote 016 — Ajustar umidade;0.81;0.81;0.00;SIM
+2.1.28.3;2.1.28;4;Setor 01 — pacote 016 — Compactar camada;0.81;0.81;0.00;SIM
+2.2.28;2.2;3;Preparação do subleito — setor 02, pacote 017;2.43;2.43;0.00;SIM
+2.2.28.1;2.2.28;4;Setor 02 — pacote 017 — Regularizar superfície;0.81;0.81;0.00;SIM
+2.2.28.2;2.2.28;4;Setor 02 — pacote 017 — Ajustar umidade;0.81;0.81;0.00;SIM
+2.2.28.3;2.2.28;4;Setor 02 — pacote 017 — Compactar camada;0.81;0.81;0.00;SIM
+2.3.28;2.3;3;Preparação do subleito — setor 03, pacote 018;2.43;2.43;0.00;SIM
+2.3.28.1;2.3.28;4;Setor 03 — pacote 018 — Regularizar superfície;0.81;0.81;0.00;SIM
+2.3.28.2;2.3.28;4;Setor 03 — pacote 018 — Ajustar umidade;0.81;0.81;0.00;SIM
+2.3.28.3;2.3.28;4;Setor 03 — pacote 018 — Compactar camada;0.81;0.81;0.00;SIM
+2.4.28;2.4;3;Preparação do subleito — setor 04, pacote 019;2.43;2.43;0.00;SIM
+2.4.28.1;2.4.28;4;Setor 04 — pacote 019 — Regularizar superfície;0.81;0.81;0.00;SIM
+2.4.28.2;2.4.28;4;Setor 04 — pacote 019 — Ajustar umidade;0.81;0.81;0.00;SIM
+2.4.28.3;2.4.28;4;Setor 04 — pacote 019 — Compactar camada;0.81;0.81;0.00;SIM
+2.5.26;2.5;3;Preparação do subleito — setor 05, pacote 020;2.43;2.43;0.00;SIM
+2.5.26.1;2.5.26;4;Setor 05 — pacote 020 — Regularizar superfície;0.81;0.81;0.00;SIM
+2.5.26.2;2.5.26;4;Setor 05 — pacote 020 — Ajustar umidade;0.81;0.81;0.00;SIM
+2.5.26.3;2.5.26;4;Setor 05 — pacote 020 — Compactar camada;0.81;0.81;0.00;SIM
+2.1.29;2.1;3;Preparação do subleito — setor 01, pacote 021;2.43;2.43;0.00;SIM
+2.1.29.1;2.1.29;4;Setor 01 — pacote 021 — Regularizar superfície;0.81;0.81;0.00;SIM
+2.1.29.2;2.1.29;4;Setor 01 — pacote 021 — Ajustar umidade;0.81;0.81;0.00;SIM
+2.1.29.3;2.1.29;4;Setor 01 — pacote 021 — Compactar camada;0.81;0.81;0.00;SIM
+2.2.29;2.2;3;Preparação do subleito — setor 02, pacote 022;2.43;2.43;0.00;SIM
+2.2.29.1;2.2.29;4;Setor 02 — pacote 022 — Regularizar superfície;0.81;0.81;0.00;SIM
+2.2.29.2;2.2.29;4;Setor 02 — pacote 022 — Ajustar umidade;0.81;0.81;0.00;SIM
+2.2.29.3;2.2.29;4;Setor 02 — pacote 022 — Compactar camada;0.81;0.81;0.00;SIM
+2.3.29;2.3;3;Preparação do subleito — setor 03, pacote 023;2.43;2.43;0.00;SIM
+2.3.29.1;2.3.29;4;Setor 03 — pacote 023 — Regularizar superfície;0.81;0.81;0.00;SIM
+2.3.29.2;2.3.29;4;Setor 03 — pacote 023 — Ajustar umidade;0.81;0.81;0.00;SIM
+2.3.29.3;2.3.29;4;Setor 03 — pacote 023 — Compactar camada;0.81;0.81;0.00;SIM
+2.4.29;2.4;3;Preparação do subleito — setor 04, pacote 024;2.43;2.43;0.00;SIM
+2.4.29.1;2.4.29;4;Setor 04 — pacote 024 — Regularizar superfície;0.81;0.81;0.00;SIM
+2.4.29.2;2.4.29;4;Setor 04 — pacote 024 — Ajustar umidade;0.81;0.81;0.00;SIM
+2.4.29.3;2.4.29;4;Setor 04 — pacote 024 — Compactar camada;0.81;0.81;0.00;SIM
+2.1.30;2.1;3;Drenagem longitudinal — setor 01, pacote 001;2.60;2.60;0.00;SIM
+2.1.30.1;2.1.30;4;Setor 01 — pacote 001 — Escavar vala longitudinal;0.65;0.65;0.00;SIM
+2.1.30.2;2.1.30;4;Setor 01 — pacote 001 — Instalar elemento drenante;0.65;0.65;0.00;SIM
+2.1.30.3;2.1.30;4;Setor 01 — pacote 001 — Executar enchimento filtrante;0.65;0.65;0.00;SIM
+2.1.30.4;2.1.30;4;Setor 01 — pacote 001 — Conectar saída de drenagem;0.65;0.65;0.00;SIM
+2.2.30;2.2;3;Drenagem longitudinal — setor 02, pacote 002;2.60;2.60;0.00;SIM
+2.2.30.1;2.2.30;4;Setor 02 — pacote 002 — Instalar elemento drenante;0.65;0.65;0.00;SIM
+2.2.30.2;2.2.30;4;Setor 02 — pacote 002 — Executar enchimento filtrante;0.65;0.65;0.00;SIM
+2.2.30.3;2.2.30;4;Setor 02 — pacote 002 — Conectar saída de drenagem;0.65;0.65;0.00;SIM
+2.2.30.4;2.2.30;4;Setor 02 — pacote 002 — Escavar vala longitudinal;0.65;0.65;0.00;SIM
+2.3.30;2.3;3;Drenagem longitudinal — setor 03, pacote 003;2.60;2.60;0.00;SIM
+2.3.30.1;2.3.30;4;Setor 03 — pacote 003 — Executar enchimento filtrante;0.65;0.65;0.00;SIM
+2.3.30.2;2.3.30;4;Setor 03 — pacote 003 — Conectar saída de drenagem;0.65;0.65;0.00;SIM
+2.3.30.3;2.3.30;4;Setor 03 — pacote 003 — Escavar vala longitudinal;0.65;0.65;0.00;SIM
+2.3.30.4;2.3.30;4;Setor 03 — pacote 003 — Instalar elemento drenante;0.65;0.65;0.00;SIM
+2.4.30;2.4;3;Drenagem longitudinal — setor 04, pacote 004;2.60;2.60;0.00;SIM
+2.4.30.1;2.4.30;4;Setor 04 — pacote 004 — Conectar saída de drenagem;0.65;0.65;0.00;SIM
+2.4.30.2;2.4.30;4;Setor 04 — pacote 004 — Escavar vala longitudinal;0.65;0.65;0.00;SIM
+2.4.30.3;2.4.30;4;Setor 04 — pacote 004 — Instalar elemento drenante;0.65;0.65;0.00;SIM
+2.4.30.4;2.4.30;4;Setor 04 — pacote 004 — Executar enchimento filtrante;0.65;0.65;0.00;SIM
+2.5.27;2.5;3;Drenagem longitudinal — setor 05, pacote 005;2.60;2.60;0.00;SIM
+2.5.27.1;2.5.27;4;Setor 05 — pacote 005 — Escavar vala longitudinal;0.65;0.65;0.00;SIM
+2.5.27.2;2.5.27;4;Setor 05 — pacote 005 — Instalar elemento drenante;0.65;0.65;0.00;SIM
+2.5.27.3;2.5.27;4;Setor 05 — pacote 005 — Executar enchimento filtrante;0.65;0.65;0.00;SIM
+2.5.27.4;2.5.27;4;Setor 05 — pacote 005 — Conectar saída de drenagem;0.65;0.65;0.00;SIM
+2.1.31;2.1;3;Drenagem longitudinal — setor 01, pacote 006;2.60;2.60;0.00;SIM
+2.1.31.1;2.1.31;4;Setor 01 — pacote 006 — Instalar elemento drenante;0.65;0.65;0.00;SIM
+2.1.31.2;2.1.31;4;Setor 01 — pacote 006 — Executar enchimento filtrante;0.65;0.65;0.00;SIM
+2.1.31.3;2.1.31;4;Setor 01 — pacote 006 — Conectar saída de drenagem;0.65;0.65;0.00;SIM
+2.1.31.4;2.1.31;4;Setor 01 — pacote 006 — Escavar vala longitudinal;0.65;0.65;0.00;SIM
+2.2.31;2.2;3;Drenagem longitudinal — setor 02, pacote 007;2.60;2.60;0.00;SIM
+2.2.31.1;2.2.31;4;Setor 02 — pacote 007 — Executar enchimento filtrante;0.65;0.65;0.00;SIM
+2.2.31.2;2.2.31;4;Setor 02 — pacote 007 — Conectar saída de drenagem;0.65;0.65;0.00;SIM
+2.2.31.3;2.2.31;4;Setor 02 — pacote 007 — Escavar vala longitudinal;0.65;0.65;0.00;SIM
+2.2.31.4;2.2.31;4;Setor 02 — pacote 007 — Instalar elemento drenante;0.65;0.65;0.00;SIM
+2.3.31;2.3;3;Drenagem longitudinal — setor 03, pacote 008;2.60;2.60;0.00;SIM
+2.3.31.1;2.3.31;4;Setor 03 — pacote 008 — Conectar saída de drenagem;0.65;0.65;0.00;SIM
+2.3.31.2;2.3.31;4;Setor 03 — pacote 008 — Escavar vala longitudinal;0.65;0.65;0.00;SIM
+2.3.31.3;2.3.31;4;Setor 03 — pacote 008 — Instalar elemento drenante;0.65;0.65;0.00;SIM
+2.3.31.4;2.3.31;4;Setor 03 — pacote 008 — Executar enchimento filtrante;0.65;0.65;0.00;SIM
+2.4.31;2.4;3;Drenagem longitudinal — setor 04, pacote 009;2.60;2.60;0.00;SIM
+2.4.31.1;2.4.31;4;Setor 04 — pacote 009 — Escavar vala longitudinal;0.65;0.65;0.00;SIM
+2.4.31.2;2.4.31;4;Setor 04 — pacote 009 — Instalar elemento drenante;0.65;0.65;0.00;SIM
+2.4.31.3;2.4.31;4;Setor 04 — pacote 009 — Executar enchimento filtrante;0.65;0.65;0.00;SIM
+2.4.31.4;2.4.31;4;Setor 04 — pacote 009 — Conectar saída de drenagem;0.65;0.65;0.00;SIM
+2.5.28;2.5;3;Drenagem longitudinal — setor 05, pacote 010;2.60;2.60;0.00;SIM
+2.5.28.1;2.5.28;4;Setor 05 — pacote 010 — Instalar elemento drenante;0.65;0.65;0.00;SIM
+2.5.28.2;2.5.28;4;Setor 05 — pacote 010 — Executar enchimento filtrante;0.65;0.65;0.00;SIM
+2.5.28.3;2.5.28;4;Setor 05 — pacote 010 — Conectar saída de drenagem;0.65;0.65;0.00;SIM
+2.5.28.4;2.5.28;4;Setor 05 — pacote 010 — Escavar vala longitudinal;0.65;0.65;0.00;SIM
+2.1.32;2.1;3;Drenagem longitudinal — setor 01, pacote 011;1.95;1.95;0.00;SIM
+2.1.32.1;2.1.32;4;Setor 01 — pacote 011 — Executar enchimento filtrante;0.65;0.65;0.00;SIM
+2.1.32.2;2.1.32;4;Setor 01 — pacote 011 — Conectar saída de drenagem;0.65;0.65;0.00;SIM
+2.1.32.3;2.1.32;4;Setor 01 — pacote 011 — Escavar vala longitudinal;0.65;0.65;0.00;SIM
+2.2.32;2.2;3;Drenagem longitudinal — setor 02, pacote 012;1.95;1.95;0.00;SIM
+2.2.32.1;2.2.32;4;Setor 02 — pacote 012 — Executar enchimento filtrante;0.65;0.65;0.00;SIM
+2.2.32.2;2.2.32;4;Setor 02 — pacote 012 — Conectar saída de drenagem;0.65;0.65;0.00;SIM
+2.2.32.3;2.2.32;4;Setor 02 — pacote 012 — Escavar vala longitudinal;0.65;0.65;0.00;SIM
+2.3.32;2.3;3;Drenagem longitudinal — setor 03, pacote 013;1.95;1.95;0.00;SIM
+2.3.32.1;2.3.32;4;Setor 03 — pacote 013 — Executar enchimento filtrante;0.65;0.65;0.00;SIM
+2.3.32.2;2.3.32;4;Setor 03 — pacote 013 — Conectar saída de drenagem;0.65;0.65;0.00;SIM
+2.3.32.3;2.3.32;4;Setor 03 — pacote 013 — Escavar vala longitudinal;0.65;0.65;0.00;SIM
+2.4.32;2.4;3;Drenagem longitudinal — setor 04, pacote 014;1.95;1.95;0.00;SIM
+2.4.32.1;2.4.32;4;Setor 04 — pacote 014 — Executar enchimento filtrante;0.65;0.65;0.00;SIM
+2.4.32.2;2.4.32;4;Setor 04 — pacote 014 — Conectar saída de drenagem;0.65;0.65;0.00;SIM
+2.4.32.3;2.4.32;4;Setor 04 — pacote 014 — Escavar vala longitudinal;0.65;0.65;0.00;SIM
+2.5.29;2.5;3;Drenagem longitudinal — setor 05, pacote 015;1.95;1.95;0.00;SIM
+2.5.29.1;2.5.29;4;Setor 05 — pacote 015 — Executar enchimento filtrante;0.65;0.65;0.00;SIM
+2.5.29.2;2.5.29;4;Setor 05 — pacote 015 — Conectar saída de drenagem;0.65;0.65;0.00;SIM
+2.5.29.3;2.5.29;4;Setor 05 — pacote 015 — Escavar vala longitudinal;0.65;0.65;0.00;SIM
+2.1.33;2.1;3;Drenagem longitudinal — setor 01, pacote 016;1.95;1.95;0.00;SIM
+2.1.33.1;2.1.33;4;Setor 01 — pacote 016 — Executar enchimento filtrante;0.65;0.65;0.00;SIM
+2.1.33.2;2.1.33;4;Setor 01 — pacote 016 — Conectar saída de drenagem;0.65;0.65;0.00;SIM
+2.1.33.3;2.1.33;4;Setor 01 — pacote 016 — Escavar vala longitudinal;0.65;0.65;0.00;SIM
+2.2.33;2.2;3;Drenagem longitudinal — setor 02, pacote 017;1.95;1.95;0.00;SIM
+2.2.33.1;2.2.33;4;Setor 02 — pacote 017 — Executar enchimento filtrante;0.65;0.65;0.00;SIM
+2.2.33.2;2.2.33;4;Setor 02 — pacote 017 — Conectar saída de drenagem;0.65;0.65;0.00;SIM
+2.2.33.3;2.2.33;4;Setor 02 — pacote 017 — Escavar vala longitudinal;0.65;0.65;0.00;SIM
+2.3.33;2.3;3;Drenagem longitudinal — setor 03, pacote 018;1.95;1.95;0.00;SIM
+2.3.33.1;2.3.33;4;Setor 03 — pacote 018 — Executar enchimento filtrante;0.65;0.65;0.00;SIM
+2.3.33.2;2.3.33;4;Setor 03 — pacote 018 — Conectar saída de drenagem;0.65;0.65;0.00;SIM
+2.3.33.3;2.3.33;4;Setor 03 — pacote 018 — Escavar vala longitudinal;0.65;0.65;0.00;SIM
+2.4.33;2.4;3;Drenagem longitudinal — setor 04, pacote 019;1.95;1.95;0.00;SIM
+2.4.33.1;2.4.33;4;Setor 04 — pacote 019 — Executar enchimento filtrante;0.65;0.65;0.00;SIM
+2.4.33.2;2.4.33;4;Setor 04 — pacote 019 — Conectar saída de drenagem;0.65;0.65;0.00;SIM
+2.4.33.3;2.4.33;4;Setor 04 — pacote 019 — Escavar vala longitudinal;0.65;0.65;0.00;SIM
+2.5.30;2.5;3;Drenagem longitudinal — setor 05, pacote 020;1.95;1.95;0.00;SIM
+2.5.30.1;2.5.30;4;Setor 05 — pacote 020 — Executar enchimento filtrante;0.65;0.65;0.00;SIM
+2.5.30.2;2.5.30;4;Setor 05 — pacote 020 — Conectar saída de drenagem;0.65;0.65;0.00;SIM
+2.5.30.3;2.5.30;4;Setor 05 — pacote 020 — Escavar vala longitudinal;0.65;0.65;0.00;SIM
+2.1.34;2.1;3;Drenagem longitudinal — setor 01, pacote 021;1.95;1.95;0.00;SIM
+2.1.34.1;2.1.34;4;Setor 01 — pacote 021 — Executar enchimento filtrante;0.65;0.65;0.00;SIM
+2.1.34.2;2.1.34;4;Setor 01 — pacote 021 — Conectar saída de drenagem;0.65;0.65;0.00;SIM
+2.1.34.3;2.1.34;4;Setor 01 — pacote 021 — Escavar vala longitudinal;0.65;0.65;0.00;SIM
+2.2.34;2.2;3;Drenagem longitudinal — setor 02, pacote 022;1.95;1.95;0.00;SIM
+2.2.34.1;2.2.34;4;Setor 02 — pacote 022 — Executar enchimento filtrante;0.65;0.65;0.00;SIM
+2.2.34.2;2.2.34;4;Setor 02 — pacote 022 — Conectar saída de drenagem;0.65;0.65;0.00;SIM
+2.2.34.3;2.2.34;4;Setor 02 — pacote 022 — Escavar vala longitudinal;0.65;0.65;0.00;SIM
+2.3.34;2.3;3;Drenagem longitudinal — setor 03, pacote 023;1.95;1.95;0.00;SIM
+2.3.34.1;2.3.34;4;Setor 03 — pacote 023 — Executar enchimento filtrante;0.65;0.65;0.00;SIM
+2.3.34.2;2.3.34;4;Setor 03 — pacote 023 — Conectar saída de drenagem;0.65;0.65;0.00;SIM
+2.3.34.3;2.3.34;4;Setor 03 — pacote 023 — Escavar vala longitudinal;0.65;0.65;0.00;SIM
+2.4.34;2.4;3;Drenagem longitudinal — setor 04, pacote 024;1.95;1.95;0.00;SIM
+2.4.34.1;2.4.34;4;Setor 04 — pacote 024 — Executar enchimento filtrante;0.65;0.65;0.00;SIM
+2.4.34.2;2.4.34;4;Setor 04 — pacote 024 — Conectar saída de drenagem;0.65;0.65;0.00;SIM
+2.4.34.3;2.4.34;4;Setor 04 — pacote 024 — Escavar vala longitudinal;0.65;0.65;0.00;SIM
+2.5.31;2.5;3;Drenagem longitudinal — setor 05, pacote 025;1.95;1.95;0.00;SIM
+2.5.31.1;2.5.31;4;Setor 05 — pacote 025 — Executar enchimento filtrante;0.65;0.65;0.00;SIM
+2.5.31.2;2.5.31;4;Setor 05 — pacote 025 — Conectar saída de drenagem;0.65;0.65;0.00;SIM
+2.5.31.3;2.5.31;4;Setor 05 — pacote 025 — Escavar vala longitudinal;0.65;0.65;0.00;SIM
+2.1.35;2.1;3;Drenagem longitudinal — setor 01, pacote 026;1.95;1.95;0.00;SIM
+2.1.35.1;2.1.35;4;Setor 01 — pacote 026 — Executar enchimento filtrante;0.65;0.65;0.00;SIM
+2.1.35.2;2.1.35;4;Setor 01 — pacote 026 — Conectar saída de drenagem;0.65;0.65;0.00;SIM
+2.1.35.3;2.1.35;4;Setor 01 — pacote 026 — Escavar vala longitudinal;0.65;0.65;0.00;SIM
+2.2.35;2.2;3;Drenagem longitudinal — setor 02, pacote 027;1.95;1.95;0.00;SIM
+2.2.35.1;2.2.35;4;Setor 02 — pacote 027 — Executar enchimento filtrante;0.65;0.65;0.00;SIM
+2.2.35.2;2.2.35;4;Setor 02 — pacote 027 — Conectar saída de drenagem;0.65;0.65;0.00;SIM
+2.2.35.3;2.2.35;4;Setor 02 — pacote 027 — Escavar vala longitudinal;0.65;0.65;0.00;SIM
+2.3.35;2.3;3;Drenagem longitudinal — setor 03, pacote 028;1.95;1.95;0.00;SIM
+2.3.35.1;2.3.35;4;Setor 03 — pacote 028 — Executar enchimento filtrante;0.65;0.65;0.00;SIM
+2.3.35.2;2.3.35;4;Setor 03 — pacote 028 — Conectar saída de drenagem;0.65;0.65;0.00;SIM
+2.3.35.3;2.3.35;4;Setor 03 — pacote 028 — Escavar vala longitudinal;0.65;0.65;0.00;SIM
+2.4.35;2.4;3;Drenagem longitudinal — setor 04, pacote 029;1.95;1.95;0.00;SIM
+2.4.35.1;2.4.35;4;Setor 04 — pacote 029 — Executar enchimento filtrante;0.65;0.65;0.00;SIM
+2.4.35.2;2.4.35;4;Setor 04 — pacote 029 — Conectar saída de drenagem;0.65;0.65;0.00;SIM
+2.4.35.3;2.4.35;4;Setor 04 — pacote 029 — Escavar vala longitudinal;0.65;0.65;0.00;SIM
+2.5.32;2.5;3;Drenagem longitudinal — setor 05, pacote 030;1.95;1.95;0.00;SIM
+2.5.32.1;2.5.32;4;Setor 05 — pacote 030 — Executar enchimento filtrante;0.65;0.65;0.00;SIM
+2.5.32.2;2.5.32;4;Setor 05 — pacote 030 — Conectar saída de drenagem;0.65;0.65;0.00;SIM
+2.5.32.3;2.5.32;4;Setor 05 — pacote 030 — Escavar vala longitudinal;0.65;0.65;0.00;SIM
+2.1.36;2.1;3;Fundações e contenções — setor 01, pacote 001;3.80;3.80;0.00;SIM
+2.1.36.1;2.1.36;4;Setor 01 — pacote 001 — Preparar base de fundação;0.95;0.95;0.00;SIM
+2.1.36.2;2.1.36;4;Setor 01 — pacote 001 — Montar armadura;0.95;0.95;0.00;SIM
+2.1.36.3;2.1.36;4;Setor 01 — pacote 001 — Executar concretagem;0.95;0.95;0.00;SIM
+2.1.36.4;2.1.36;4;Setor 01 — pacote 001 — Conferir elemento de contenção;0.95;0.95;0.00;SIM
+2.2.36;2.2;3;Fundações e contenções — setor 02, pacote 002;3.80;3.80;0.00;SIM
+2.2.36.1;2.2.36;4;Setor 02 — pacote 002 — Montar armadura;0.95;0.95;0.00;SIM
+2.2.36.2;2.2.36;4;Setor 02 — pacote 002 — Executar concretagem;0.95;0.95;0.00;SIM
+2.2.36.3;2.2.36;4;Setor 02 — pacote 002 — Conferir elemento de contenção;0.95;0.95;0.00;SIM
+2.2.36.4;2.2.36;4;Setor 02 — pacote 002 — Preparar base de fundação;0.95;0.95;0.00;SIM
+2.3.36;2.3;3;Fundações e contenções — setor 03, pacote 003;3.80;3.80;0.00;SIM
+2.3.36.1;2.3.36;4;Setor 03 — pacote 003 — Executar concretagem;0.95;0.95;0.00;SIM
+2.3.36.2;2.3.36;4;Setor 03 — pacote 003 — Conferir elemento de contenção;0.95;0.95;0.00;SIM
+2.3.36.3;2.3.36;4;Setor 03 — pacote 003 — Preparar base de fundação;0.95;0.95;0.00;SIM
+2.3.36.4;2.3.36;4;Setor 03 — pacote 003 — Montar armadura;0.95;0.95;0.00;SIM
+2.4.36;2.4;3;Fundações e contenções — setor 04, pacote 004;3.80;3.80;0.00;SIM
+2.4.36.1;2.4.36;4;Setor 04 — pacote 004 — Conferir elemento de contenção;0.95;0.95;0.00;SIM
+2.4.36.2;2.4.36;4;Setor 04 — pacote 004 — Preparar base de fundação;0.95;0.95;0.00;SIM
+2.4.36.3;2.4.36;4;Setor 04 — pacote 004 — Montar armadura;0.95;0.95;0.00;SIM
+2.4.36.4;2.4.36;4;Setor 04 — pacote 004 — Executar concretagem;0.95;0.95;0.00;SIM
+2.5.33;2.5;3;Fundações e contenções — setor 05, pacote 005;3.80;3.80;0.00;SIM
+2.5.33.1;2.5.33;4;Setor 05 — pacote 005 — Preparar base de fundação;0.95;0.95;0.00;SIM
+2.5.33.2;2.5.33;4;Setor 05 — pacote 005 — Montar armadura;0.95;0.95;0.00;SIM
+2.5.33.3;2.5.33;4;Setor 05 — pacote 005 — Executar concretagem;0.95;0.95;0.00;SIM
+2.5.33.4;2.5.33;4;Setor 05 — pacote 005 — Conferir elemento de contenção;0.95;0.95;0.00;SIM
+2.1.37;2.1;3;Fundações e contenções — setor 01, pacote 006;3.80;3.80;0.00;SIM
+2.1.37.1;2.1.37;4;Setor 01 — pacote 006 — Montar armadura;0.95;0.95;0.00;SIM
+2.1.37.2;2.1.37;4;Setor 01 — pacote 006 — Executar concretagem;0.95;0.95;0.00;SIM
+2.1.37.3;2.1.37;4;Setor 01 — pacote 006 — Conferir elemento de contenção;0.95;0.95;0.00;SIM
+2.1.37.4;2.1.37;4;Setor 01 — pacote 006 — Preparar base de fundação;0.95;0.95;0.00;SIM
+2.2.37;2.2;3;Fundações e contenções — setor 02, pacote 007;3.80;3.80;0.00;SIM
+2.2.37.1;2.2.37;4;Setor 02 — pacote 007 — Executar concretagem;0.95;0.95;0.00;SIM
+2.2.37.2;2.2.37;4;Setor 02 — pacote 007 — Conferir elemento de contenção;0.95;0.95;0.00;SIM
+2.2.37.3;2.2.37;4;Setor 02 — pacote 007 — Preparar base de fundação;0.95;0.95;0.00;SIM
+2.2.37.4;2.2.37;4;Setor 02 — pacote 007 — Montar armadura;0.95;0.95;0.00;SIM
+2.3.37;2.3;3;Fundações e contenções — setor 03, pacote 008;3.80;3.80;0.00;SIM
+2.3.37.1;2.3.37;4;Setor 03 — pacote 008 — Conferir elemento de contenção;0.95;0.95;0.00;SIM
+2.3.37.2;2.3.37;4;Setor 03 — pacote 008 — Preparar base de fundação;0.95;0.95;0.00;SIM
+2.3.37.3;2.3.37;4;Setor 03 — pacote 008 — Montar armadura;0.95;0.95;0.00;SIM
+2.3.37.4;2.3.37;4;Setor 03 — pacote 008 — Executar concretagem;0.95;0.95;0.00;SIM
+2.4.37;2.4;3;Fundações e contenções — setor 04, pacote 009;3.80;3.80;0.00;SIM
+2.4.37.1;2.4.37;4;Setor 04 — pacote 009 — Preparar base de fundação;0.95;0.95;0.00;SIM
+2.4.37.2;2.4.37;4;Setor 04 — pacote 009 — Montar armadura;0.95;0.95;0.00;SIM
+2.4.37.3;2.4.37;4;Setor 04 — pacote 009 — Executar concretagem;0.95;0.95;0.00;SIM
+2.4.37.4;2.4.37;4;Setor 04 — pacote 009 — Conferir elemento de contenção;0.95;0.95;0.00;SIM
+2.5.34;2.5;3;Fundações e contenções — setor 05, pacote 010;3.80;3.80;0.00;SIM
+2.5.34.1;2.5.34;4;Setor 05 — pacote 010 — Montar armadura;0.95;0.95;0.00;SIM
+2.5.34.2;2.5.34;4;Setor 05 — pacote 010 — Executar concretagem;0.95;0.95;0.00;SIM
+2.5.34.3;2.5.34;4;Setor 05 — pacote 010 — Conferir elemento de contenção;0.95;0.95;0.00;SIM
+2.5.34.4;2.5.34;4;Setor 05 — pacote 010 — Preparar base de fundação;0.95;0.95;0.00;SIM
+2.1.38;2.1;3;Fundações e contenções — setor 01, pacote 011;2.85;2.85;0.00;SIM
+2.1.38.1;2.1.38;4;Setor 01 — pacote 011 — Executar concretagem;0.95;0.95;0.00;SIM
+2.1.38.2;2.1.38;4;Setor 01 — pacote 011 — Conferir elemento de contenção;0.95;0.95;0.00;SIM
+2.1.38.3;2.1.38;4;Setor 01 — pacote 011 — Preparar base de fundação;0.95;0.95;0.00;SIM
+2.2.38;2.2;3;Fundações e contenções — setor 02, pacote 012;2.85;2.85;0.00;SIM
+2.2.38.1;2.2.38;4;Setor 02 — pacote 012 — Executar concretagem;0.95;0.95;0.00;SIM
+2.2.38.2;2.2.38;4;Setor 02 — pacote 012 — Conferir elemento de contenção;0.95;0.95;0.00;SIM
+2.2.38.3;2.2.38;4;Setor 02 — pacote 012 — Preparar base de fundação;0.95;0.95;0.00;SIM
+2.3.38;2.3;3;Fundações e contenções — setor 03, pacote 013;2.85;2.85;0.00;SIM
+2.3.38.1;2.3.38;4;Setor 03 — pacote 013 — Executar concretagem;0.95;0.95;0.00;SIM
+2.3.38.2;2.3.38;4;Setor 03 — pacote 013 — Conferir elemento de contenção;0.95;0.95;0.00;SIM
+2.3.38.3;2.3.38;4;Setor 03 — pacote 013 — Preparar base de fundação;0.95;0.95;0.00;SIM
+2.4.38;2.4;3;Fundações e contenções — setor 04, pacote 014;2.85;2.85;0.00;SIM
+2.4.38.1;2.4.38;4;Setor 04 — pacote 014 — Executar concretagem;0.95;0.95;0.00;SIM
+2.4.38.2;2.4.38;4;Setor 04 — pacote 014 — Conferir elemento de contenção;0.95;0.95;0.00;SIM
+2.4.38.3;2.4.38;4;Setor 04 — pacote 014 — Preparar base de fundação;0.95;0.95;0.00;SIM
+2.5.35;2.5;3;Fundações e contenções — setor 05, pacote 015;2.85;2.85;0.00;SIM
+2.5.35.1;2.5.35;4;Setor 05 — pacote 015 — Executar concretagem;0.95;0.95;0.00;SIM
+2.5.35.2;2.5.35;4;Setor 05 — pacote 015 — Conferir elemento de contenção;0.95;0.95;0.00;SIM
+2.5.35.3;2.5.35;4;Setor 05 — pacote 015 — Preparar base de fundação;0.95;0.95;0.00;SIM
+2.1.39;2.1;3;Fundações e contenções — setor 01, pacote 016;2.85;2.85;0.00;SIM
+2.1.39.1;2.1.39;4;Setor 01 — pacote 016 — Executar concretagem;0.95;0.95;0.00;SIM
+2.1.39.2;2.1.39;4;Setor 01 — pacote 016 — Conferir elemento de contenção;0.95;0.95;0.00;SIM
+2.1.39.3;2.1.39;4;Setor 01 — pacote 016 — Preparar base de fundação;0.95;0.95;0.00;SIM
+2.2.39;2.2;3;Fundações e contenções — setor 02, pacote 017;2.85;2.85;0.00;SIM
+2.2.39.1;2.2.39;4;Setor 02 — pacote 017 — Executar concretagem;0.95;0.95;0.00;SIM
+2.2.39.2;2.2.39;4;Setor 02 — pacote 017 — Conferir elemento de contenção;0.95;0.95;0.00;SIM
+2.2.39.3;2.2.39;4;Setor 02 — pacote 017 — Preparar base de fundação;0.95;0.95;0.00;SIM
+2.3.39;2.3;3;Fundações e contenções — setor 03, pacote 018;2.85;2.85;0.00;SIM
+2.3.39.1;2.3.39;4;Setor 03 — pacote 018 — Executar concretagem;0.95;0.95;0.00;SIM
+2.3.39.2;2.3.39;4;Setor 03 — pacote 018 — Conferir elemento de contenção;0.95;0.95;0.00;SIM
+2.3.39.3;2.3.39;4;Setor 03 — pacote 018 — Preparar base de fundação;0.95;0.95;0.00;SIM
+2.4.39;2.4;3;Fundações e contenções — setor 04, pacote 019;2.85;2.85;0.00;SIM
+2.4.39.1;2.4.39;4;Setor 04 — pacote 019 — Executar concretagem;0.95;0.95;0.00;SIM
+2.4.39.2;2.4.39;4;Setor 04 — pacote 019 — Conferir elemento de contenção;0.95;0.95;0.00;SIM
+2.4.39.3;2.4.39;4;Setor 04 — pacote 019 — Preparar base de fundação;0.95;0.95;0.00;SIM
+2.5.36;2.5;3;Fundações e contenções — setor 05, pacote 020;2.85;2.85;0.00;SIM
+2.5.36.1;2.5.36;4;Setor 05 — pacote 020 — Executar concretagem;0.95;0.95;0.00;SIM
+2.5.36.2;2.5.36;4;Setor 05 — pacote 020 — Conferir elemento de contenção;0.95;0.95;0.00;SIM
+2.5.36.3;2.5.36;4;Setor 05 — pacote 020 — Preparar base de fundação;0.95;0.95;0.00;SIM
+2.1.40;2.1;3;Fundações e contenções — setor 01, pacote 021;2.85;2.85;0.00;SIM
+2.1.40.1;2.1.40;4;Setor 01 — pacote 021 — Executar concretagem;0.95;0.95;0.00;SIM
+2.1.40.2;2.1.40;4;Setor 01 — pacote 021 — Conferir elemento de contenção;0.95;0.95;0.00;SIM
+2.1.40.3;2.1.40;4;Setor 01 — pacote 021 — Preparar base de fundação;0.95;0.95;0.00;SIM
+2.2.40;2.2;3;Fundações e contenções — setor 02, pacote 022;2.85;2.85;0.00;SIM
+2.2.40.1;2.2.40;4;Setor 02 — pacote 022 — Executar concretagem;0.95;0.95;0.00;SIM
+2.2.40.2;2.2.40;4;Setor 02 — pacote 022 — Conferir elemento de contenção;0.95;0.95;0.00;SIM
+2.2.40.3;2.2.40;4;Setor 02 — pacote 022 — Preparar base de fundação;0.95;0.95;0.00;SIM
+2.3.40;2.3;3;Fundações e contenções — setor 03, pacote 023;2.85;2.85;0.00;SIM
+2.3.40.1;2.3.40;4;Setor 03 — pacote 023 — Executar concretagem;0.95;0.95;0.00;SIM
+2.3.40.2;2.3.40;4;Setor 03 — pacote 023 — Conferir elemento de contenção;0.95;0.95;0.00;SIM
+2.3.40.3;2.3.40;4;Setor 03 — pacote 023 — Preparar base de fundação;0.95;0.95;0.00;SIM
+2.4.40;2.4;3;Fundações e contenções — setor 04, pacote 024;2.85;2.85;0.00;SIM
+2.4.40.1;2.4.40;4;Setor 04 — pacote 024 — Executar concretagem;0.95;0.95;0.00;SIM
+2.4.40.2;2.4.40;4;Setor 04 — pacote 024 — Conferir elemento de contenção;0.95;0.95;0.00;SIM
+2.4.40.3;2.4.40;4;Setor 04 — pacote 024 — Preparar base de fundação;0.95;0.95;0.00;SIM
+2.5.37;2.5;3;Fundações e contenções — setor 05, pacote 025;2.85;2.85;0.00;SIM
+2.5.37.1;2.5.37;4;Setor 05 — pacote 025 — Executar concretagem;0.95;0.95;0.00;SIM
+2.5.37.2;2.5.37;4;Setor 05 — pacote 025 — Conferir elemento de contenção;0.95;0.95;0.00;SIM
+2.5.37.3;2.5.37;4;Setor 05 — pacote 025 — Preparar base de fundação;0.95;0.95;0.00;SIM
+2.1.41;2.1;3;Fundações e contenções — setor 01, pacote 026;2.85;2.85;0.00;SIM
+2.1.41.1;2.1.41;4;Setor 01 — pacote 026 — Executar concretagem;0.95;0.95;0.00;SIM
+2.1.41.2;2.1.41;4;Setor 01 — pacote 026 — Conferir elemento de contenção;0.95;0.95;0.00;SIM
+2.1.41.3;2.1.41;4;Setor 01 — pacote 026 — Preparar base de fundação;0.95;0.95;0.00;SIM
+2.2.41;2.2;3;Fundações e contenções — setor 02, pacote 027;2.85;2.85;0.00;SIM
+2.2.41.1;2.2.41;4;Setor 02 — pacote 027 — Executar concretagem;0.95;0.95;0.00;SIM
+2.2.41.2;2.2.41;4;Setor 02 — pacote 027 — Conferir elemento de contenção;0.95;0.95;0.00;SIM
+2.2.41.3;2.2.41;4;Setor 02 — pacote 027 — Preparar base de fundação;0.95;0.95;0.00;SIM
+2.3.41;2.3;3;Fundações e contenções — setor 03, pacote 028;2.85;2.85;0.00;SIM
+2.3.41.1;2.3.41;4;Setor 03 — pacote 028 — Executar concretagem;0.95;0.95;0.00;SIM
+2.3.41.2;2.3.41;4;Setor 03 — pacote 028 — Conferir elemento de contenção;0.95;0.95;0.00;SIM
+2.3.41.3;2.3.41;4;Setor 03 — pacote 028 — Preparar base de fundação;0.95;0.95;0.00;SIM
+2.4.41;2.4;3;Fundações e contenções — setor 04, pacote 029;2.85;2.85;0.00;SIM
+2.4.41.1;2.4.41;4;Setor 04 — pacote 029 — Executar concretagem;0.95;0.95;0.00;SIM
+2.4.41.2;2.4.41;4;Setor 04 — pacote 029 — Conferir elemento de contenção;0.95;0.95;0.00;SIM
+2.4.41.3;2.4.41;4;Setor 04 — pacote 029 — Preparar base de fundação;0.95;0.95;0.00;SIM
+2.5.38;2.5;3;Fundações e contenções — setor 05, pacote 030;2.85;2.85;0.00;SIM
+2.5.38.1;2.5.38;4;Setor 05 — pacote 030 — Executar concretagem;0.95;0.95;0.00;SIM
+2.5.38.2;2.5.38;4;Setor 05 — pacote 030 — Conferir elemento de contenção;0.95;0.95;0.00;SIM
+2.5.38.3;2.5.38;4;Setor 05 — pacote 030 — Preparar base de fundação;0.95;0.95;0.00;SIM
+3.1.1;3.1;3;Estruturas de concreto ou metálicas — setor 01, pacote 001;2.92;2.92;0.00;SIM
+3.1.1.1;3.1.1;4;Setor 01 — pacote 001 — Montar elemento estrutural;0.73;0.73;0.00;SIM
+3.1.1.2;3.1.1;4;Setor 01 — pacote 001 — Instalar armadura ou ligação;0.73;0.73;0.00;SIM
+3.1.1.3;3.1.1;4;Setor 01 — pacote 001 — Concretar ou fixar estrutura;0.73;0.73;0.00;SIM
+3.1.1.4;3.1.1;4;Setor 01 — pacote 001 — Inspecionar geometria do elemento;0.73;0.73;0.00;SIM
+3.2.1;3.2;3;Estruturas de concreto ou metálicas — setor 02, pacote 002;2.92;2.92;0.00;SIM
+3.2.1.1;3.2.1;4;Setor 02 — pacote 002 — Instalar armadura ou ligação;0.73;0.73;0.00;SIM
+3.2.1.2;3.2.1;4;Setor 02 — pacote 002 — Concretar ou fixar estrutura;0.73;0.73;0.00;SIM
+3.2.1.3;3.2.1;4;Setor 02 — pacote 002 — Inspecionar geometria do elemento;0.73;0.73;0.00;SIM
+3.2.1.4;3.2.1;4;Setor 02 — pacote 002 — Montar elemento estrutural;0.73;0.73;0.00;SIM
+3.3.1;3.3;3;Estruturas de concreto ou metálicas — setor 03, pacote 003;2.92;2.92;0.00;SIM
+3.3.1.1;3.3.1;4;Setor 03 — pacote 003 — Concretar ou fixar estrutura;0.73;0.73;0.00;SIM
+3.3.1.2;3.3.1;4;Setor 03 — pacote 003 — Inspecionar geometria do elemento;0.73;0.73;0.00;SIM
+3.3.1.3;3.3.1;4;Setor 03 — pacote 003 — Montar elemento estrutural;0.73;0.73;0.00;SIM
+3.3.1.4;3.3.1;4;Setor 03 — pacote 003 — Instalar armadura ou ligação;0.73;0.73;0.00;SIM
+3.4.1;3.4;3;Estruturas de concreto ou metálicas — setor 04, pacote 004;2.92;2.92;0.00;SIM
+3.4.1.1;3.4.1;4;Setor 04 — pacote 004 — Inspecionar geometria do elemento;0.73;0.73;0.00;SIM
+3.4.1.2;3.4.1;4;Setor 04 — pacote 004 — Montar elemento estrutural;0.73;0.73;0.00;SIM
+3.4.1.3;3.4.1;4;Setor 04 — pacote 004 — Instalar armadura ou ligação;0.73;0.73;0.00;SIM
+3.4.1.4;3.4.1;4;Setor 04 — pacote 004 — Concretar ou fixar estrutura;0.73;0.73;0.00;SIM
+3.5.1;3.5;3;Estruturas de concreto ou metálicas — setor 05, pacote 005;2.92;2.92;0.00;SIM
+3.5.1.1;3.5.1;4;Setor 05 — pacote 005 — Montar elemento estrutural;0.73;0.73;0.00;SIM
+3.5.1.2;3.5.1;4;Setor 05 — pacote 005 — Instalar armadura ou ligação;0.73;0.73;0.00;SIM
+3.5.1.3;3.5.1;4;Setor 05 — pacote 005 — Concretar ou fixar estrutura;0.73;0.73;0.00;SIM
+3.5.1.4;3.5.1;4;Setor 05 — pacote 005 — Inspecionar geometria do elemento;0.73;0.73;0.00;SIM
+3.1.2;3.1;3;Estruturas de concreto ou metálicas — setor 01, pacote 006;2.92;2.92;0.00;SIM
+3.1.2.1;3.1.2;4;Setor 01 — pacote 006 — Instalar armadura ou ligação;0.73;0.73;0.00;SIM
+3.1.2.2;3.1.2;4;Setor 01 — pacote 006 — Concretar ou fixar estrutura;0.73;0.73;0.00;SIM
+3.1.2.3;3.1.2;4;Setor 01 — pacote 006 — Inspecionar geometria do elemento;0.73;0.73;0.00;SIM
+3.1.2.4;3.1.2;4;Setor 01 — pacote 006 — Montar elemento estrutural;0.73;0.73;0.00;SIM
+3.2.2;3.2;3;Estruturas de concreto ou metálicas — setor 02, pacote 007;2.92;2.92;0.00;SIM
+3.2.2.1;3.2.2;4;Setor 02 — pacote 007 — Concretar ou fixar estrutura;0.73;0.73;0.00;SIM
+3.2.2.2;3.2.2;4;Setor 02 — pacote 007 — Inspecionar geometria do elemento;0.73;0.73;0.00;SIM
+3.2.2.3;3.2.2;4;Setor 02 — pacote 007 — Montar elemento estrutural;0.73;0.73;0.00;SIM
+3.2.2.4;3.2.2;4;Setor 02 — pacote 007 — Instalar armadura ou ligação;0.73;0.73;0.00;SIM
+3.3.2;3.3;3;Estruturas de concreto ou metálicas — setor 03, pacote 008;2.92;2.92;0.00;SIM
+3.3.2.1;3.3.2;4;Setor 03 — pacote 008 — Inspecionar geometria do elemento;0.73;0.73;0.00;SIM
+3.3.2.2;3.3.2;4;Setor 03 — pacote 008 — Montar elemento estrutural;0.73;0.73;0.00;SIM
+3.3.2.3;3.3.2;4;Setor 03 — pacote 008 — Instalar armadura ou ligação;0.73;0.73;0.00;SIM
+3.3.2.4;3.3.2;4;Setor 03 — pacote 008 — Concretar ou fixar estrutura;0.73;0.73;0.00;SIM
+3.4.2;3.4;3;Estruturas de concreto ou metálicas — setor 04, pacote 009;2.92;2.92;0.00;SIM
+3.4.2.1;3.4.2;4;Setor 04 — pacote 009 — Montar elemento estrutural;0.73;0.73;0.00;SIM
+3.4.2.2;3.4.2;4;Setor 04 — pacote 009 — Instalar armadura ou ligação;0.73;0.73;0.00;SIM
+3.4.2.3;3.4.2;4;Setor 04 — pacote 009 — Concretar ou fixar estrutura;0.73;0.73;0.00;SIM
+3.4.2.4;3.4.2;4;Setor 04 — pacote 009 — Inspecionar geometria do elemento;0.73;0.73;0.00;SIM
+3.5.2;3.5;3;Estruturas de concreto ou metálicas — setor 05, pacote 010;2.92;2.92;0.00;SIM
+3.5.2.1;3.5.2;4;Setor 05 — pacote 010 — Instalar armadura ou ligação;0.73;0.73;0.00;SIM
+3.5.2.2;3.5.2;4;Setor 05 — pacote 010 — Concretar ou fixar estrutura;0.73;0.73;0.00;SIM
+3.5.2.3;3.5.2;4;Setor 05 — pacote 010 — Inspecionar geometria do elemento;0.73;0.73;0.00;SIM
+3.5.2.4;3.5.2;4;Setor 05 — pacote 010 — Montar elemento estrutural;0.73;0.73;0.00;SIM
+3.1.3;3.1;3;Estruturas de concreto ou metálicas — setor 01, pacote 011;2.92;2.92;0.00;SIM
+3.1.3.1;3.1.3;4;Setor 01 — pacote 011 — Concretar ou fixar estrutura;0.73;0.73;0.00;SIM
+3.1.3.2;3.1.3;4;Setor 01 — pacote 011 — Inspecionar geometria do elemento;0.73;0.73;0.00;SIM
+3.1.3.3;3.1.3;4;Setor 01 — pacote 011 — Montar elemento estrutural;0.73;0.73;0.00;SIM
+3.1.3.4;3.1.3;4;Setor 01 — pacote 011 — Instalar armadura ou ligação;0.73;0.73;0.00;SIM
+3.2.3;3.2;3;Estruturas de concreto ou metálicas — setor 02, pacote 012;2.19;2.19;0.00;SIM
+3.2.3.1;3.2.3;4;Setor 02 — pacote 012 — Inspecionar geometria do elemento;0.73;0.73;0.00;SIM
+3.2.3.2;3.2.3;4;Setor 02 — pacote 012 — Montar elemento estrutural;0.73;0.73;0.00;SIM
+3.2.3.3;3.2.3;4;Setor 02 — pacote 012 — Instalar armadura ou ligação;0.73;0.73;0.00;SIM
+3.3.3;3.3;3;Estruturas de concreto ou metálicas — setor 03, pacote 013;2.19;2.19;0.00;SIM
+3.3.3.1;3.3.3;4;Setor 03 — pacote 013 — Inspecionar geometria do elemento;0.73;0.73;0.00;SIM
+3.3.3.2;3.3.3;4;Setor 03 — pacote 013 — Montar elemento estrutural;0.73;0.73;0.00;SIM
+3.3.3.3;3.3.3;4;Setor 03 — pacote 013 — Instalar armadura ou ligação;0.73;0.73;0.00;SIM
+3.4.3;3.4;3;Estruturas de concreto ou metálicas — setor 04, pacote 014;2.19;2.19;0.00;SIM
+3.4.3.1;3.4.3;4;Setor 04 — pacote 014 — Inspecionar geometria do elemento;0.73;0.73;0.00;SIM
+3.4.3.2;3.4.3;4;Setor 04 — pacote 014 — Montar elemento estrutural;0.73;0.73;0.00;SIM
+3.4.3.3;3.4.3;4;Setor 04 — pacote 014 — Instalar armadura ou ligação;0.73;0.73;0.00;SIM
+3.5.3;3.5;3;Estruturas de concreto ou metálicas — setor 05, pacote 015;2.19;2.19;0.00;SIM
+3.5.3.1;3.5.3;4;Setor 05 — pacote 015 — Inspecionar geometria do elemento;0.73;0.73;0.00;SIM
+3.5.3.2;3.5.3;4;Setor 05 — pacote 015 — Montar elemento estrutural;0.73;0.73;0.00;SIM
+3.5.3.3;3.5.3;4;Setor 05 — pacote 015 — Instalar armadura ou ligação;0.73;0.73;0.00;SIM
+3.1.4;3.1;3;Estruturas de concreto ou metálicas — setor 01, pacote 016;2.19;2.19;0.00;SIM
+3.1.4.1;3.1.4;4;Setor 01 — pacote 016 — Inspecionar geometria do elemento;0.73;0.73;0.00;SIM
+3.1.4.2;3.1.4;4;Setor 01 — pacote 016 — Montar elemento estrutural;0.73;0.73;0.00;SIM
+3.1.4.3;3.1.4;4;Setor 01 — pacote 016 — Instalar armadura ou ligação;0.73;0.73;0.00;SIM
+3.2.4;3.2;3;Estruturas de concreto ou metálicas — setor 02, pacote 017;2.19;2.19;0.00;SIM
+3.2.4.1;3.2.4;4;Setor 02 — pacote 017 — Inspecionar geometria do elemento;0.73;0.73;0.00;SIM
+3.2.4.2;3.2.4;4;Setor 02 — pacote 017 — Montar elemento estrutural;0.73;0.73;0.00;SIM
+3.2.4.3;3.2.4;4;Setor 02 — pacote 017 — Instalar armadura ou ligação;0.73;0.73;0.00;SIM
+3.3.4;3.3;3;Estruturas de concreto ou metálicas — setor 03, pacote 018;2.19;2.19;0.00;SIM
+3.3.4.1;3.3.4;4;Setor 03 — pacote 018 — Inspecionar geometria do elemento;0.73;0.73;0.00;SIM
+3.3.4.2;3.3.4;4;Setor 03 — pacote 018 — Montar elemento estrutural;0.73;0.73;0.00;SIM
+3.3.4.3;3.3.4;4;Setor 03 — pacote 018 — Instalar armadura ou ligação;0.73;0.73;0.00;SIM
+3.4.4;3.4;3;Estruturas de concreto ou metálicas — setor 04, pacote 019;2.19;2.19;0.00;SIM
+3.4.4.1;3.4.4;4;Setor 04 — pacote 019 — Inspecionar geometria do elemento;0.73;0.73;0.00;SIM
+3.4.4.2;3.4.4;4;Setor 04 — pacote 019 — Montar elemento estrutural;0.73;0.73;0.00;SIM
+3.4.4.3;3.4.4;4;Setor 04 — pacote 019 — Instalar armadura ou ligação;0.73;0.73;0.00;SIM
+3.5.4;3.5;3;Estruturas de concreto ou metálicas — setor 05, pacote 020;2.19;2.19;0.00;SIM
+3.5.4.1;3.5.4;4;Setor 05 — pacote 020 — Inspecionar geometria do elemento;0.73;0.73;0.00;SIM
+3.5.4.2;3.5.4;4;Setor 05 — pacote 020 — Montar elemento estrutural;0.73;0.73;0.00;SIM
+3.5.4.3;3.5.4;4;Setor 05 — pacote 020 — Instalar armadura ou ligação;0.73;0.73;0.00;SIM
+3.1.5;3.1;3;Estruturas de concreto ou metálicas — setor 01, pacote 021;2.19;2.19;0.00;SIM
+3.1.5.1;3.1.5;4;Setor 01 — pacote 021 — Inspecionar geometria do elemento;0.73;0.73;0.00;SIM
+3.1.5.2;3.1.5;4;Setor 01 — pacote 021 — Montar elemento estrutural;0.73;0.73;0.00;SIM
+3.1.5.3;3.1.5;4;Setor 01 — pacote 021 — Instalar armadura ou ligação;0.73;0.73;0.00;SIM
+3.2.5;3.2;3;Estruturas de concreto ou metálicas — setor 02, pacote 022;2.19;2.19;0.00;SIM
+3.2.5.1;3.2.5;4;Setor 02 — pacote 022 — Inspecionar geometria do elemento;0.73;0.73;0.00;SIM
+3.2.5.2;3.2.5;4;Setor 02 — pacote 022 — Montar elemento estrutural;0.73;0.73;0.00;SIM
+3.2.5.3;3.2.5;4;Setor 02 — pacote 022 — Instalar armadura ou ligação;0.73;0.73;0.00;SIM
+3.3.5;3.3;3;Estruturas de concreto ou metálicas — setor 03, pacote 023;2.19;2.19;0.00;SIM
+3.3.5.1;3.3.5;4;Setor 03 — pacote 023 — Inspecionar geometria do elemento;0.73;0.73;0.00;SIM
+3.3.5.2;3.3.5;4;Setor 03 — pacote 023 — Montar elemento estrutural;0.73;0.73;0.00;SIM
+3.3.5.3;3.3.5;4;Setor 03 — pacote 023 — Instalar armadura ou ligação;0.73;0.73;0.00;SIM
+3.4.5;3.4;3;Estruturas de concreto ou metálicas — setor 04, pacote 024;2.16;2.16;0.00;SIM
+3.4.5.1;3.4.5;4;Setor 04 — pacote 024 — Inspecionar geometria do elemento;0.72;0.72;0.00;SIM
+3.4.5.2;3.4.5;4;Setor 04 — pacote 024 — Montar elemento estrutural;0.72;0.72;0.00;SIM
+3.4.5.3;3.4.5;4;Setor 04 — pacote 024 — Instalar armadura ou ligação;0.72;0.72;0.00;SIM
+3.5.5;3.5;3;Estruturas de concreto ou metálicas — setor 05, pacote 025;2.16;2.16;0.00;SIM
+3.5.5.1;3.5.5;4;Setor 05 — pacote 025 — Inspecionar geometria do elemento;0.72;0.72;0.00;SIM
+3.5.5.2;3.5.5;4;Setor 05 — pacote 025 — Montar elemento estrutural;0.72;0.72;0.00;SIM
+3.5.5.3;3.5.5;4;Setor 05 — pacote 025 — Instalar armadura ou ligação;0.72;0.72;0.00;SIM
+3.1.6;3.1;3;Estruturas de concreto ou metálicas — setor 01, pacote 026;2.16;2.16;0.00;SIM
+3.1.6.1;3.1.6;4;Setor 01 — pacote 026 — Inspecionar geometria do elemento;0.72;0.72;0.00;SIM
+3.1.6.2;3.1.6;4;Setor 01 — pacote 026 — Montar elemento estrutural;0.72;0.72;0.00;SIM
+3.1.6.3;3.1.6;4;Setor 01 — pacote 026 — Instalar armadura ou ligação;0.72;0.72;0.00;SIM
+3.2.6;3.2;3;Estruturas de concreto ou metálicas — setor 02, pacote 027;2.16;2.16;0.00;SIM
+3.2.6.1;3.2.6;4;Setor 02 — pacote 027 — Inspecionar geometria do elemento;0.72;0.72;0.00;SIM
+3.2.6.2;3.2.6;4;Setor 02 — pacote 027 — Montar elemento estrutural;0.72;0.72;0.00;SIM
+3.2.6.3;3.2.6;4;Setor 02 — pacote 027 — Instalar armadura ou ligação;0.72;0.72;0.00;SIM
+3.3.6;3.3;3;Estruturas de concreto ou metálicas — setor 03, pacote 028;2.16;2.16;0.00;SIM
+3.3.6.1;3.3.6;4;Setor 03 — pacote 028 — Inspecionar geometria do elemento;0.72;0.72;0.00;SIM
+3.3.6.2;3.3.6;4;Setor 03 — pacote 028 — Montar elemento estrutural;0.72;0.72;0.00;SIM
+3.3.6.3;3.3.6;4;Setor 03 — pacote 028 — Instalar armadura ou ligação;0.72;0.72;0.00;SIM
+3.4.6;3.4;3;Estruturas de concreto ou metálicas — setor 04, pacote 029;2.16;2.16;0.00;SIM
+3.4.6.1;3.4.6;4;Setor 04 — pacote 029 — Inspecionar geometria do elemento;0.72;0.72;0.00;SIM
+3.4.6.2;3.4.6;4;Setor 04 — pacote 029 — Montar elemento estrutural;0.72;0.72;0.00;SIM
+3.4.6.3;3.4.6;4;Setor 04 — pacote 029 — Instalar armadura ou ligação;0.72;0.72;0.00;SIM
+3.5.6;3.5;3;Estruturas de concreto ou metálicas — setor 05, pacote 030;2.16;2.16;0.00;SIM
+3.5.6.1;3.5.6;4;Setor 05 — pacote 030 — Inspecionar geometria do elemento;0.72;0.72;0.00;SIM
+3.5.6.2;3.5.6;4;Setor 05 — pacote 030 — Montar elemento estrutural;0.72;0.72;0.00;SIM
+3.5.6.3;3.5.6;4;Setor 05 — pacote 030 — Instalar armadura ou ligação;0.72;0.72;0.00;SIM
+3.1.7;3.1;3;Estruturas de concreto ou metálicas — setor 01, pacote 031;2.16;2.16;0.00;SIM
+3.1.7.1;3.1.7;4;Setor 01 — pacote 031 — Inspecionar geometria do elemento;0.72;0.72;0.00;SIM
+3.1.7.2;3.1.7;4;Setor 01 — pacote 031 — Montar elemento estrutural;0.72;0.72;0.00;SIM
+3.1.7.3;3.1.7;4;Setor 01 — pacote 031 — Instalar armadura ou ligação;0.72;0.72;0.00;SIM
+3.2.7;3.2;3;Estruturas de concreto ou metálicas — setor 02, pacote 032;2.16;2.16;0.00;SIM
+3.2.7.1;3.2.7;4;Setor 02 — pacote 032 — Inspecionar geometria do elemento;0.72;0.72;0.00;SIM
+3.2.7.2;3.2.7;4;Setor 02 — pacote 032 — Montar elemento estrutural;0.72;0.72;0.00;SIM
+3.2.7.3;3.2.7;4;Setor 02 — pacote 032 — Instalar armadura ou ligação;0.72;0.72;0.00;SIM
+3.3.7;3.3;3;Estruturas de concreto ou metálicas — setor 03, pacote 033;2.16;2.16;0.00;SIM
+3.3.7.1;3.3.7;4;Setor 03 — pacote 033 — Inspecionar geometria do elemento;0.72;0.72;0.00;SIM
+3.3.7.2;3.3.7;4;Setor 03 — pacote 033 — Montar elemento estrutural;0.72;0.72;0.00;SIM
+3.3.7.3;3.3.7;4;Setor 03 — pacote 033 — Instalar armadura ou ligação;0.72;0.72;0.00;SIM
+3.1.8;3.1;3;Sub-base e base granular — setor 01, pacote 001;2.36;2.36;0.00;SIM
+3.1.8.1;3.1.8;4;Setor 01 — pacote 001 — Produzir mistura de base;0.59;0.59;0.00;SIM
+3.1.8.2;3.1.8;4;Setor 01 — pacote 001 — Transportar material granular;0.59;0.59;0.00;SIM
+3.1.8.3;3.1.8;4;Setor 01 — pacote 001 — Espalhar camada;0.59;0.59;0.00;SIM
+3.1.8.4;3.1.8;4;Setor 01 — pacote 001 — Compactar camada granular;0.59;0.59;0.00;SIM
+3.2.8;3.2;3;Sub-base e base granular — setor 02, pacote 002;2.36;2.36;0.00;SIM
+3.2.8.1;3.2.8;4;Setor 02 — pacote 002 — Transportar material granular;0.59;0.59;0.00;SIM
+3.2.8.2;3.2.8;4;Setor 02 — pacote 002 — Espalhar camada;0.59;0.59;0.00;SIM
+3.2.8.3;3.2.8;4;Setor 02 — pacote 002 — Compactar camada granular;0.59;0.59;0.00;SIM
+3.2.8.4;3.2.8;4;Setor 02 — pacote 002 — Produzir mistura de base;0.59;0.59;0.00;SIM
+3.3.8;3.3;3;Sub-base e base granular — setor 03, pacote 003;2.36;2.36;0.00;SIM
+3.3.8.1;3.3.8;4;Setor 03 — pacote 003 — Espalhar camada;0.59;0.59;0.00;SIM
+3.3.8.2;3.3.8;4;Setor 03 — pacote 003 — Compactar camada granular;0.59;0.59;0.00;SIM
+3.3.8.3;3.3.8;4;Setor 03 — pacote 003 — Produzir mistura de base;0.59;0.59;0.00;SIM
+3.3.8.4;3.3.8;4;Setor 03 — pacote 003 — Transportar material granular;0.59;0.59;0.00;SIM
+3.4.7;3.4;3;Sub-base e base granular — setor 04, pacote 004;2.36;2.36;0.00;SIM
+3.4.7.1;3.4.7;4;Setor 04 — pacote 004 — Compactar camada granular;0.59;0.59;0.00;SIM
+3.4.7.2;3.4.7;4;Setor 04 — pacote 004 — Produzir mistura de base;0.59;0.59;0.00;SIM
+3.4.7.3;3.4.7;4;Setor 04 — pacote 004 — Transportar material granular;0.59;0.59;0.00;SIM
+3.4.7.4;3.4.7;4;Setor 04 — pacote 004 — Espalhar camada;0.59;0.59;0.00;SIM
+3.5.7;3.5;3;Sub-base e base granular — setor 05, pacote 005;2.36;2.36;0.00;SIM
+3.5.7.1;3.5.7;4;Setor 05 — pacote 005 — Produzir mistura de base;0.59;0.59;0.00;SIM
+3.5.7.2;3.5.7;4;Setor 05 — pacote 005 — Transportar material granular;0.59;0.59;0.00;SIM
+3.5.7.3;3.5.7;4;Setor 05 — pacote 005 — Espalhar camada;0.59;0.59;0.00;SIM
+3.5.7.4;3.5.7;4;Setor 05 — pacote 005 — Compactar camada granular;0.59;0.59;0.00;SIM
+3.1.9;3.1;3;Sub-base e base granular — setor 01, pacote 006;2.36;2.36;0.00;SIM
+3.1.9.1;3.1.9;4;Setor 01 — pacote 006 — Transportar material granular;0.59;0.59;0.00;SIM
+3.1.9.2;3.1.9;4;Setor 01 — pacote 006 — Espalhar camada;0.59;0.59;0.00;SIM
+3.1.9.3;3.1.9;4;Setor 01 — pacote 006 — Compactar camada granular;0.59;0.59;0.00;SIM
+3.1.9.4;3.1.9;4;Setor 01 — pacote 006 — Produzir mistura de base;0.59;0.59;0.00;SIM
+3.2.9;3.2;3;Sub-base e base granular — setor 02, pacote 007;2.36;2.36;0.00;SIM
+3.2.9.1;3.2.9;4;Setor 02 — pacote 007 — Espalhar camada;0.59;0.59;0.00;SIM
+3.2.9.2;3.2.9;4;Setor 02 — pacote 007 — Compactar camada granular;0.59;0.59;0.00;SIM
+3.2.9.3;3.2.9;4;Setor 02 — pacote 007 — Produzir mistura de base;0.59;0.59;0.00;SIM
+3.2.9.4;3.2.9;4;Setor 02 — pacote 007 — Transportar material granular;0.59;0.59;0.00;SIM
+3.3.9;3.3;3;Sub-base e base granular — setor 03, pacote 008;2.36;2.36;0.00;SIM
+3.3.9.1;3.3.9;4;Setor 03 — pacote 008 — Compactar camada granular;0.59;0.59;0.00;SIM
+3.3.9.2;3.3.9;4;Setor 03 — pacote 008 — Produzir mistura de base;0.59;0.59;0.00;SIM
+3.3.9.3;3.3.9;4;Setor 03 — pacote 008 — Transportar material granular;0.59;0.59;0.00;SIM
+3.3.9.4;3.3.9;4;Setor 03 — pacote 008 — Espalhar camada;0.59;0.59;0.00;SIM
+3.4.8;3.4;3;Sub-base e base granular — setor 04, pacote 009;2.36;2.36;0.00;SIM
+3.4.8.1;3.4.8;4;Setor 04 — pacote 009 — Produzir mistura de base;0.59;0.59;0.00;SIM
+3.4.8.2;3.4.8;4;Setor 04 — pacote 009 — Transportar material granular;0.59;0.59;0.00;SIM
+3.4.8.3;3.4.8;4;Setor 04 — pacote 009 — Espalhar camada;0.59;0.59;0.00;SIM
+3.4.8.4;3.4.8;4;Setor 04 — pacote 009 — Compactar camada granular;0.59;0.59;0.00;SIM
+3.5.8;3.5;3;Sub-base e base granular — setor 05, pacote 010;2.36;2.36;0.00;SIM
+3.5.8.1;3.5.8;4;Setor 05 — pacote 010 — Transportar material granular;0.59;0.59;0.00;SIM
+3.5.8.2;3.5.8;4;Setor 05 — pacote 010 — Espalhar camada;0.59;0.59;0.00;SIM
+3.5.8.3;3.5.8;4;Setor 05 — pacote 010 — Compactar camada granular;0.59;0.59;0.00;SIM
+3.5.8.4;3.5.8;4;Setor 05 — pacote 010 — Produzir mistura de base;0.59;0.59;0.00;SIM
+3.1.10;3.1;3;Sub-base e base granular — setor 01, pacote 011;2.32;2.32;0.00;SIM
+3.1.10.1;3.1.10;4;Setor 01 — pacote 011 — Espalhar camada;0.58;0.58;0.00;SIM
+3.1.10.2;3.1.10;4;Setor 01 — pacote 011 — Compactar camada granular;0.58;0.58;0.00;SIM
+3.1.10.3;3.1.10;4;Setor 01 — pacote 011 — Produzir mistura de base;0.58;0.58;0.00;SIM
+3.1.10.4;3.1.10;4;Setor 01 — pacote 011 — Transportar material granular;0.58;0.58;0.00;SIM
+3.2.10;3.2;3;Sub-base e base granular — setor 02, pacote 012;2.32;2.32;0.00;SIM
+3.2.10.1;3.2.10;4;Setor 02 — pacote 012 — Compactar camada granular;0.58;0.58;0.00;SIM
+3.2.10.2;3.2.10;4;Setor 02 — pacote 012 — Produzir mistura de base;0.58;0.58;0.00;SIM
+3.2.10.3;3.2.10;4;Setor 02 — pacote 012 — Transportar material granular;0.58;0.58;0.00;SIM
+3.2.10.4;3.2.10;4;Setor 02 — pacote 012 — Espalhar camada;0.58;0.58;0.00;SIM
+3.3.10;3.3;3;Sub-base e base granular — setor 03, pacote 013;1.74;1.74;0.00;SIM
+3.3.10.1;3.3.10;4;Setor 03 — pacote 013 — Produzir mistura de base;0.58;0.58;0.00;SIM
+3.3.10.2;3.3.10;4;Setor 03 — pacote 013 — Transportar material granular;0.58;0.58;0.00;SIM
+3.3.10.3;3.3.10;4;Setor 03 — pacote 013 — Espalhar camada;0.58;0.58;0.00;SIM
+3.4.9;3.4;3;Sub-base e base granular — setor 04, pacote 014;1.74;1.74;0.00;SIM
+3.4.9.1;3.4.9;4;Setor 04 — pacote 014 — Produzir mistura de base;0.58;0.58;0.00;SIM
+3.4.9.2;3.4.9;4;Setor 04 — pacote 014 — Transportar material granular;0.58;0.58;0.00;SIM
+3.4.9.3;3.4.9;4;Setor 04 — pacote 014 — Espalhar camada;0.58;0.58;0.00;SIM
+3.5.9;3.5;3;Sub-base e base granular — setor 05, pacote 015;1.74;1.74;0.00;SIM
+3.5.9.1;3.5.9;4;Setor 05 — pacote 015 — Produzir mistura de base;0.58;0.58;0.00;SIM
+3.5.9.2;3.5.9;4;Setor 05 — pacote 015 — Transportar material granular;0.58;0.58;0.00;SIM
+3.5.9.3;3.5.9;4;Setor 05 — pacote 015 — Espalhar camada;0.58;0.58;0.00;SIM
+3.1.11;3.1;3;Sub-base e base granular — setor 01, pacote 016;1.74;1.74;0.00;SIM
+3.1.11.1;3.1.11;4;Setor 01 — pacote 016 — Produzir mistura de base;0.58;0.58;0.00;SIM
+3.1.11.2;3.1.11;4;Setor 01 — pacote 016 — Transportar material granular;0.58;0.58;0.00;SIM
+3.1.11.3;3.1.11;4;Setor 01 — pacote 016 — Espalhar camada;0.58;0.58;0.00;SIM
+3.2.11;3.2;3;Sub-base e base granular — setor 02, pacote 017;1.74;1.74;0.00;SIM
+3.2.11.1;3.2.11;4;Setor 02 — pacote 017 — Produzir mistura de base;0.58;0.58;0.00;SIM
+3.2.11.2;3.2.11;4;Setor 02 — pacote 017 — Transportar material granular;0.58;0.58;0.00;SIM
+3.2.11.3;3.2.11;4;Setor 02 — pacote 017 — Espalhar camada;0.58;0.58;0.00;SIM
+3.3.11;3.3;3;Sub-base e base granular — setor 03, pacote 018;1.74;1.74;0.00;SIM
+3.3.11.1;3.3.11;4;Setor 03 — pacote 018 — Produzir mistura de base;0.58;0.58;0.00;SIM
+3.3.11.2;3.3.11;4;Setor 03 — pacote 018 — Transportar material granular;0.58;0.58;0.00;SIM
+3.3.11.3;3.3.11;4;Setor 03 — pacote 018 — Espalhar camada;0.58;0.58;0.00;SIM
+3.4.10;3.4;3;Sub-base e base granular — setor 04, pacote 019;1.74;1.74;0.00;SIM
+3.4.10.1;3.4.10;4;Setor 04 — pacote 019 — Produzir mistura de base;0.58;0.58;0.00;SIM
+3.4.10.2;3.4.10;4;Setor 04 — pacote 019 — Transportar material granular;0.58;0.58;0.00;SIM
+3.4.10.3;3.4.10;4;Setor 04 — pacote 019 — Espalhar camada;0.58;0.58;0.00;SIM
+3.5.10;3.5;3;Sub-base e base granular — setor 05, pacote 020;1.74;1.74;0.00;SIM
+3.5.10.1;3.5.10;4;Setor 05 — pacote 020 — Produzir mistura de base;0.58;0.58;0.00;SIM
+3.5.10.2;3.5.10;4;Setor 05 — pacote 020 — Transportar material granular;0.58;0.58;0.00;SIM
+3.5.10.3;3.5.10;4;Setor 05 — pacote 020 — Espalhar camada;0.58;0.58;0.00;SIM
+3.1.12;3.1;3;Sub-base e base granular — setor 01, pacote 021;1.74;1.74;0.00;SIM
+3.1.12.1;3.1.12;4;Setor 01 — pacote 021 — Produzir mistura de base;0.58;0.58;0.00;SIM
+3.1.12.2;3.1.12;4;Setor 01 — pacote 021 — Transportar material granular;0.58;0.58;0.00;SIM
+3.1.12.3;3.1.12;4;Setor 01 — pacote 021 — Espalhar camada;0.58;0.58;0.00;SIM
+3.2.12;3.2;3;Sub-base e base granular — setor 02, pacote 022;1.74;1.74;0.00;SIM
+3.2.12.1;3.2.12;4;Setor 02 — pacote 022 — Produzir mistura de base;0.58;0.58;0.00;SIM
+3.2.12.2;3.2.12;4;Setor 02 — pacote 022 — Transportar material granular;0.58;0.58;0.00;SIM
+3.2.12.3;3.2.12;4;Setor 02 — pacote 022 — Espalhar camada;0.58;0.58;0.00;SIM
+3.3.12;3.3;3;Sub-base e base granular — setor 03, pacote 023;1.74;1.74;0.00;SIM
+3.3.12.1;3.3.12;4;Setor 03 — pacote 023 — Produzir mistura de base;0.58;0.58;0.00;SIM
+3.3.12.2;3.3.12;4;Setor 03 — pacote 023 — Transportar material granular;0.58;0.58;0.00;SIM
+3.3.12.3;3.3.12;4;Setor 03 — pacote 023 — Espalhar camada;0.58;0.58;0.00;SIM
+3.4.11;3.4;3;Sub-base e base granular — setor 04, pacote 024;1.74;1.74;0.00;SIM
+3.4.11.1;3.4.11;4;Setor 04 — pacote 024 — Produzir mistura de base;0.58;0.58;0.00;SIM
+3.4.11.2;3.4.11;4;Setor 04 — pacote 024 — Transportar material granular;0.58;0.58;0.00;SIM
+3.4.11.3;3.4.11;4;Setor 04 — pacote 024 — Espalhar camada;0.58;0.58;0.00;SIM
+3.5.11;3.5;3;Sub-base e base granular — setor 05, pacote 025;1.74;1.74;0.00;SIM
+3.5.11.1;3.5.11;4;Setor 05 — pacote 025 — Produzir mistura de base;0.58;0.58;0.00;SIM
+3.5.11.2;3.5.11;4;Setor 05 — pacote 025 — Transportar material granular;0.58;0.58;0.00;SIM
+3.5.11.3;3.5.11;4;Setor 05 — pacote 025 — Espalhar camada;0.58;0.58;0.00;SIM
+3.1.13;3.1;3;Sub-base e base granular — setor 01, pacote 026;1.74;1.74;0.00;SIM
+3.1.13.1;3.1.13;4;Setor 01 — pacote 026 — Produzir mistura de base;0.58;0.58;0.00;SIM
+3.1.13.2;3.1.13;4;Setor 01 — pacote 026 — Transportar material granular;0.58;0.58;0.00;SIM
+3.1.13.3;3.1.13;4;Setor 01 — pacote 026 — Espalhar camada;0.58;0.58;0.00;SIM
+3.2.13;3.2;3;Sub-base e base granular — setor 02, pacote 027;1.74;1.74;0.00;SIM
+3.2.13.1;3.2.13;4;Setor 02 — pacote 027 — Produzir mistura de base;0.58;0.58;0.00;SIM
+3.2.13.2;3.2.13;4;Setor 02 — pacote 027 — Transportar material granular;0.58;0.58;0.00;SIM
+3.2.13.3;3.2.13;4;Setor 02 — pacote 027 — Espalhar camada;0.58;0.58;0.00;SIM
+3.3.13;3.3;3;Sub-base e base granular — setor 03, pacote 028;1.74;1.74;0.00;SIM
+3.3.13.1;3.3.13;4;Setor 03 — pacote 028 — Produzir mistura de base;0.58;0.58;0.00;SIM
+3.3.13.2;3.3.13;4;Setor 03 — pacote 028 — Transportar material granular;0.58;0.58;0.00;SIM
+3.3.13.3;3.3.13;4;Setor 03 — pacote 028 — Espalhar camada;0.58;0.58;0.00;SIM
+3.4.12;3.4;3;Sub-base e base granular — setor 04, pacote 029;1.74;1.74;0.00;SIM
+3.4.12.1;3.4.12;4;Setor 04 — pacote 029 — Produzir mistura de base;0.58;0.58;0.00;SIM
+3.4.12.2;3.4.12;4;Setor 04 — pacote 029 — Transportar material granular;0.58;0.58;0.00;SIM
+3.4.12.3;3.4.12;4;Setor 04 — pacote 029 — Espalhar camada;0.58;0.58;0.00;SIM
+3.5.12;3.5;3;Sub-base e base granular — setor 05, pacote 030;1.74;1.74;0.00;SIM
+3.5.12.1;3.5.12;4;Setor 05 — pacote 030 — Produzir mistura de base;0.58;0.58;0.00;SIM
+3.5.12.2;3.5.12;4;Setor 05 — pacote 030 — Transportar material granular;0.58;0.58;0.00;SIM
+3.5.12.3;3.5.12;4;Setor 05 — pacote 030 — Espalhar camada;0.58;0.58;0.00;SIM
+3.1.14;3.1;3;Sub-base e base granular — setor 01, pacote 031;1.74;1.74;0.00;SIM
+3.1.14.1;3.1.14;4;Setor 01 — pacote 031 — Produzir mistura de base;0.58;0.58;0.00;SIM
+3.1.14.2;3.1.14;4;Setor 01 — pacote 031 — Transportar material granular;0.58;0.58;0.00;SIM
+3.1.14.3;3.1.14;4;Setor 01 — pacote 031 — Espalhar camada;0.58;0.58;0.00;SIM
+3.2.14;3.2;3;Sub-base e base granular — setor 02, pacote 032;1.74;1.74;0.00;SIM
+3.2.14.1;3.2.14;4;Setor 02 — pacote 032 — Produzir mistura de base;0.58;0.58;0.00;SIM
+3.2.14.2;3.2.14;4;Setor 02 — pacote 032 — Transportar material granular;0.58;0.58;0.00;SIM
+3.2.14.3;3.2.14;4;Setor 02 — pacote 032 — Espalhar camada;0.58;0.58;0.00;SIM
+3.3.14;3.3;3;Sub-base e base granular — setor 03, pacote 033;1.74;1.74;0.00;SIM
+3.3.14.1;3.3.14;4;Setor 03 — pacote 033 — Produzir mistura de base;0.58;0.58;0.00;SIM
+3.3.14.2;3.3.14;4;Setor 03 — pacote 033 — Transportar material granular;0.58;0.58;0.00;SIM
+3.3.14.3;3.3.14;4;Setor 03 — pacote 033 — Espalhar camada;0.58;0.58;0.00;SIM
+3.4.13;3.4;3;Sub-base e base granular — setor 04, pacote 034;1.74;1.74;0.00;SIM
+3.4.13.1;3.4.13;4;Setor 04 — pacote 034 — Produzir mistura de base;0.58;0.58;0.00;SIM
+3.4.13.2;3.4.13;4;Setor 04 — pacote 034 — Transportar material granular;0.58;0.58;0.00;SIM
+3.4.13.3;3.4.13;4;Setor 04 — pacote 034 — Espalhar camada;0.58;0.58;0.00;SIM
+3.5.13;3.5;3;Sub-base e base granular — setor 05, pacote 035;1.74;1.74;0.00;SIM
+3.5.13.1;3.5.13;4;Setor 05 — pacote 035 — Produzir mistura de base;0.58;0.58;0.00;SIM
+3.5.13.2;3.5.13;4;Setor 05 — pacote 035 — Transportar material granular;0.58;0.58;0.00;SIM
+3.5.13.3;3.5.13;4;Setor 05 — pacote 035 — Espalhar camada;0.58;0.58;0.00;SIM
+3.1.15;3.1;3;Sub-base e base granular — setor 01, pacote 036;1.74;1.74;0.00;SIM
+3.1.15.1;3.1.15;4;Setor 01 — pacote 036 — Produzir mistura de base;0.58;0.58;0.00;SIM
+3.1.15.2;3.1.15;4;Setor 01 — pacote 036 — Transportar material granular;0.58;0.58;0.00;SIM
+3.1.15.3;3.1.15;4;Setor 01 — pacote 036 — Espalhar camada;0.58;0.58;0.00;SIM
+3.1.16;3.1;3;Revestimento e superfície de rolamento — setor 01, pacote 001;3.00;3.00;0.00;SIM
+3.1.16.1;3.1.16;4;Setor 01 — pacote 001 — Produzir mistura asfáltica;0.75;0.75;0.00;SIM
+3.1.16.2;3.1.16;4;Setor 01 — pacote 001 — Transportar mistura;0.75;0.75;0.00;SIM
+3.1.16.3;3.1.16;4;Setor 01 — pacote 001 — Aplicar camada de revestimento;0.75;0.75;0.00;SIM
+3.1.16.4;3.1.16;4;Setor 01 — pacote 001 — Compactar superfície;0.75;0.75;0.00;SIM
+3.2.15;3.2;3;Revestimento e superfície de rolamento — setor 02, pacote 002;3.00;3.00;0.00;SIM
+3.2.15.1;3.2.15;4;Setor 02 — pacote 002 — Transportar mistura;0.75;0.75;0.00;SIM
+3.2.15.2;3.2.15;4;Setor 02 — pacote 002 — Aplicar camada de revestimento;0.75;0.75;0.00;SIM
+3.2.15.3;3.2.15;4;Setor 02 — pacote 002 — Compactar superfície;0.75;0.75;0.00;SIM
+3.2.15.4;3.2.15;4;Setor 02 — pacote 002 — Produzir mistura asfáltica;0.75;0.75;0.00;SIM
+3.3.15;3.3;3;Revestimento e superfície de rolamento — setor 03, pacote 003;3.00;3.00;0.00;SIM
+3.3.15.1;3.3.15;4;Setor 03 — pacote 003 — Aplicar camada de revestimento;0.75;0.75;0.00;SIM
+3.3.15.2;3.3.15;4;Setor 03 — pacote 003 — Compactar superfície;0.75;0.75;0.00;SIM
+3.3.15.3;3.3.15;4;Setor 03 — pacote 003 — Produzir mistura asfáltica;0.75;0.75;0.00;SIM
+3.3.15.4;3.3.15;4;Setor 03 — pacote 003 — Transportar mistura;0.75;0.75;0.00;SIM
+3.4.14;3.4;3;Revestimento e superfície de rolamento — setor 04, pacote 004;3.00;3.00;0.00;SIM
+3.4.14.1;3.4.14;4;Setor 04 — pacote 004 — Compactar superfície;0.75;0.75;0.00;SIM
+3.4.14.2;3.4.14;4;Setor 04 — pacote 004 — Produzir mistura asfáltica;0.75;0.75;0.00;SIM
+3.4.14.3;3.4.14;4;Setor 04 — pacote 004 — Transportar mistura;0.75;0.75;0.00;SIM
+3.4.14.4;3.4.14;4;Setor 04 — pacote 004 — Aplicar camada de revestimento;0.75;0.75;0.00;SIM
+3.5.14;3.5;3;Revestimento e superfície de rolamento — setor 05, pacote 005;3.00;3.00;0.00;SIM
+3.5.14.1;3.5.14;4;Setor 05 — pacote 005 — Produzir mistura asfáltica;0.75;0.75;0.00;SIM
+3.5.14.2;3.5.14;4;Setor 05 — pacote 005 — Transportar mistura;0.75;0.75;0.00;SIM
+3.5.14.3;3.5.14;4;Setor 05 — pacote 005 — Aplicar camada de revestimento;0.75;0.75;0.00;SIM
+3.5.14.4;3.5.14;4;Setor 05 — pacote 005 — Compactar superfície;0.75;0.75;0.00;SIM
+3.1.17;3.1;3;Revestimento e superfície de rolamento — setor 01, pacote 006;3.00;3.00;0.00;SIM
+3.1.17.1;3.1.17;4;Setor 01 — pacote 006 — Transportar mistura;0.75;0.75;0.00;SIM
+3.1.17.2;3.1.17;4;Setor 01 — pacote 006 — Aplicar camada de revestimento;0.75;0.75;0.00;SIM
+3.1.17.3;3.1.17;4;Setor 01 — pacote 006 — Compactar superfície;0.75;0.75;0.00;SIM
+3.1.17.4;3.1.17;4;Setor 01 — pacote 006 — Produzir mistura asfáltica;0.75;0.75;0.00;SIM
+3.2.16;3.2;3;Revestimento e superfície de rolamento — setor 02, pacote 007;3.00;3.00;0.00;SIM
+3.2.16.1;3.2.16;4;Setor 02 — pacote 007 — Aplicar camada de revestimento;0.75;0.75;0.00;SIM
+3.2.16.2;3.2.16;4;Setor 02 — pacote 007 — Compactar superfície;0.75;0.75;0.00;SIM
+3.2.16.3;3.2.16;4;Setor 02 — pacote 007 — Produzir mistura asfáltica;0.75;0.75;0.00;SIM
+3.2.16.4;3.2.16;4;Setor 02 — pacote 007 — Transportar mistura;0.75;0.75;0.00;SIM
+3.3.16;3.3;3;Revestimento e superfície de rolamento — setor 03, pacote 008;3.00;3.00;0.00;SIM
+3.3.16.1;3.3.16;4;Setor 03 — pacote 008 — Compactar superfície;0.75;0.75;0.00;SIM
+3.3.16.2;3.3.16;4;Setor 03 — pacote 008 — Produzir mistura asfáltica;0.75;0.75;0.00;SIM
+3.3.16.3;3.3.16;4;Setor 03 — pacote 008 — Transportar mistura;0.75;0.75;0.00;SIM
+3.3.16.4;3.3.16;4;Setor 03 — pacote 008 — Aplicar camada de revestimento;0.75;0.75;0.00;SIM
+3.4.15;3.4;3;Revestimento e superfície de rolamento — setor 04, pacote 009;3.00;3.00;0.00;SIM
+3.4.15.1;3.4.15;4;Setor 04 — pacote 009 — Produzir mistura asfáltica;0.75;0.75;0.00;SIM
+3.4.15.2;3.4.15;4;Setor 04 — pacote 009 — Transportar mistura;0.75;0.75;0.00;SIM
+3.4.15.3;3.4.15;4;Setor 04 — pacote 009 — Aplicar camada de revestimento;0.75;0.75;0.00;SIM
+3.4.15.4;3.4.15;4;Setor 04 — pacote 009 — Compactar superfície;0.75;0.75;0.00;SIM
+3.5.15;3.5;3;Revestimento e superfície de rolamento — setor 05, pacote 010;3.00;3.00;0.00;SIM
+3.5.15.1;3.5.15;4;Setor 05 — pacote 010 — Transportar mistura;0.75;0.75;0.00;SIM
+3.5.15.2;3.5.15;4;Setor 05 — pacote 010 — Aplicar camada de revestimento;0.75;0.75;0.00;SIM
+3.5.15.3;3.5.15;4;Setor 05 — pacote 010 — Compactar superfície;0.75;0.75;0.00;SIM
+3.5.15.4;3.5.15;4;Setor 05 — pacote 010 — Produzir mistura asfáltica;0.75;0.75;0.00;SIM
+3.1.18;3.1;3;Revestimento e superfície de rolamento — setor 01, pacote 011;3.00;3.00;0.00;SIM
+3.1.18.1;3.1.18;4;Setor 01 — pacote 011 — Aplicar camada de revestimento;0.75;0.75;0.00;SIM
+3.1.18.2;3.1.18;4;Setor 01 — pacote 011 — Compactar superfície;0.75;0.75;0.00;SIM
+3.1.18.3;3.1.18;4;Setor 01 — pacote 011 — Produzir mistura asfáltica;0.75;0.75;0.00;SIM
+3.1.18.4;3.1.18;4;Setor 01 — pacote 011 — Transportar mistura;0.75;0.75;0.00;SIM
+3.2.17;3.2;3;Revestimento e superfície de rolamento — setor 02, pacote 012;3.00;3.00;0.00;SIM
+3.2.17.1;3.2.17;4;Setor 02 — pacote 012 — Compactar superfície;0.75;0.75;0.00;SIM
+3.2.17.2;3.2.17;4;Setor 02 — pacote 012 — Produzir mistura asfáltica;0.75;0.75;0.00;SIM
+3.2.17.3;3.2.17;4;Setor 02 — pacote 012 — Transportar mistura;0.75;0.75;0.00;SIM
+3.2.17.4;3.2.17;4;Setor 02 — pacote 012 — Aplicar camada de revestimento;0.75;0.75;0.00;SIM
+3.3.17;3.3;3;Revestimento e superfície de rolamento — setor 03, pacote 013;2.25;2.25;0.00;SIM
+3.3.17.1;3.3.17;4;Setor 03 — pacote 013 — Produzir mistura asfáltica;0.75;0.75;0.00;SIM
+3.3.17.2;3.3.17;4;Setor 03 — pacote 013 — Transportar mistura;0.75;0.75;0.00;SIM
+3.3.17.3;3.3.17;4;Setor 03 — pacote 013 — Aplicar camada de revestimento;0.75;0.75;0.00;SIM
+3.4.16;3.4;3;Revestimento e superfície de rolamento — setor 04, pacote 014;2.25;2.25;0.00;SIM
+3.4.16.1;3.4.16;4;Setor 04 — pacote 014 — Produzir mistura asfáltica;0.75;0.75;0.00;SIM
+3.4.16.2;3.4.16;4;Setor 04 — pacote 014 — Transportar mistura;0.75;0.75;0.00;SIM
+3.4.16.3;3.4.16;4;Setor 04 — pacote 014 — Aplicar camada de revestimento;0.75;0.75;0.00;SIM
+3.5.16;3.5;3;Revestimento e superfície de rolamento — setor 05, pacote 015;2.25;2.25;0.00;SIM
+3.5.16.1;3.5.16;4;Setor 05 — pacote 015 — Produzir mistura asfáltica;0.75;0.75;0.00;SIM
+3.5.16.2;3.5.16;4;Setor 05 — pacote 015 — Transportar mistura;0.75;0.75;0.00;SIM
+3.5.16.3;3.5.16;4;Setor 05 — pacote 015 — Aplicar camada de revestimento;0.75;0.75;0.00;SIM
+3.1.19;3.1;3;Revestimento e superfície de rolamento — setor 01, pacote 016;2.25;2.25;0.00;SIM
+3.1.19.1;3.1.19;4;Setor 01 — pacote 016 — Produzir mistura asfáltica;0.75;0.75;0.00;SIM
+3.1.19.2;3.1.19;4;Setor 01 — pacote 016 — Transportar mistura;0.75;0.75;0.00;SIM
+3.1.19.3;3.1.19;4;Setor 01 — pacote 016 — Aplicar camada de revestimento;0.75;0.75;0.00;SIM
+3.2.18;3.2;3;Revestimento e superfície de rolamento — setor 02, pacote 017;2.25;2.25;0.00;SIM
+3.2.18.1;3.2.18;4;Setor 02 — pacote 017 — Produzir mistura asfáltica;0.75;0.75;0.00;SIM
+3.2.18.2;3.2.18;4;Setor 02 — pacote 017 — Transportar mistura;0.75;0.75;0.00;SIM
+3.2.18.3;3.2.18;4;Setor 02 — pacote 017 — Aplicar camada de revestimento;0.75;0.75;0.00;SIM
+3.3.18;3.3;3;Revestimento e superfície de rolamento — setor 03, pacote 018;2.25;2.25;0.00;SIM
+3.3.18.1;3.3.18;4;Setor 03 — pacote 018 — Produzir mistura asfáltica;0.75;0.75;0.00;SIM
+3.3.18.2;3.3.18;4;Setor 03 — pacote 018 — Transportar mistura;0.75;0.75;0.00;SIM
+3.3.18.3;3.3.18;4;Setor 03 — pacote 018 — Aplicar camada de revestimento;0.75;0.75;0.00;SIM
+3.4.17;3.4;3;Revestimento e superfície de rolamento — setor 04, pacote 019;2.25;2.25;0.00;SIM
+3.4.17.1;3.4.17;4;Setor 04 — pacote 019 — Produzir mistura asfáltica;0.75;0.75;0.00;SIM
+3.4.17.2;3.4.17;4;Setor 04 — pacote 019 — Transportar mistura;0.75;0.75;0.00;SIM
+3.4.17.3;3.4.17;4;Setor 04 — pacote 019 — Aplicar camada de revestimento;0.75;0.75;0.00;SIM
+3.5.17;3.5;3;Revestimento e superfície de rolamento — setor 05, pacote 020;2.25;2.25;0.00;SIM
+3.5.17.1;3.5.17;4;Setor 05 — pacote 020 — Produzir mistura asfáltica;0.75;0.75;0.00;SIM
+3.5.17.2;3.5.17;4;Setor 05 — pacote 020 — Transportar mistura;0.75;0.75;0.00;SIM
+3.5.17.3;3.5.17;4;Setor 05 — pacote 020 — Aplicar camada de revestimento;0.75;0.75;0.00;SIM
+3.1.20;3.1;3;Revestimento e superfície de rolamento — setor 01, pacote 021;2.25;2.25;0.00;SIM
+3.1.20.1;3.1.20;4;Setor 01 — pacote 021 — Produzir mistura asfáltica;0.75;0.75;0.00;SIM
+3.1.20.2;3.1.20;4;Setor 01 — pacote 021 — Transportar mistura;0.75;0.75;0.00;SIM
+3.1.20.3;3.1.20;4;Setor 01 — pacote 021 — Aplicar camada de revestimento;0.75;0.75;0.00;SIM
+3.2.19;3.2;3;Revestimento e superfície de rolamento — setor 02, pacote 022;2.25;2.25;0.00;SIM
+3.2.19.1;3.2.19;4;Setor 02 — pacote 022 — Produzir mistura asfáltica;0.75;0.75;0.00;SIM
+3.2.19.2;3.2.19;4;Setor 02 — pacote 022 — Transportar mistura;0.75;0.75;0.00;SIM
+3.2.19.3;3.2.19;4;Setor 02 — pacote 022 — Aplicar camada de revestimento;0.75;0.75;0.00;SIM
+3.3.19;3.3;3;Revestimento e superfície de rolamento — setor 03, pacote 023;2.25;2.25;0.00;SIM
+3.3.19.1;3.3.19;4;Setor 03 — pacote 023 — Produzir mistura asfáltica;0.75;0.75;0.00;SIM
+3.3.19.2;3.3.19;4;Setor 03 — pacote 023 — Transportar mistura;0.75;0.75;0.00;SIM
+3.3.19.3;3.3.19;4;Setor 03 — pacote 023 — Aplicar camada de revestimento;0.75;0.75;0.00;SIM
+3.4.18;3.4;3;Revestimento e superfície de rolamento — setor 04, pacote 024;2.25;2.25;0.00;SIM
+3.4.18.1;3.4.18;4;Setor 04 — pacote 024 — Produzir mistura asfáltica;0.75;0.75;0.00;SIM
+3.4.18.2;3.4.18;4;Setor 04 — pacote 024 — Transportar mistura;0.75;0.75;0.00;SIM
+3.4.18.3;3.4.18;4;Setor 04 — pacote 024 — Aplicar camada de revestimento;0.75;0.75;0.00;SIM
+3.5.18;3.5;3;Revestimento e superfície de rolamento — setor 05, pacote 025;2.25;2.25;0.00;SIM
+3.5.18.1;3.5.18;4;Setor 05 — pacote 025 — Produzir mistura asfáltica;0.75;0.75;0.00;SIM
+3.5.18.2;3.5.18;4;Setor 05 — pacote 025 — Transportar mistura;0.75;0.75;0.00;SIM
+3.5.18.3;3.5.18;4;Setor 05 — pacote 025 — Aplicar camada de revestimento;0.75;0.75;0.00;SIM
+3.1.21;3.1;3;Revestimento e superfície de rolamento — setor 01, pacote 026;2.25;2.25;0.00;SIM
+3.1.21.1;3.1.21;4;Setor 01 — pacote 026 — Produzir mistura asfáltica;0.75;0.75;0.00;SIM
+3.1.21.2;3.1.21;4;Setor 01 — pacote 026 — Transportar mistura;0.75;0.75;0.00;SIM
+3.1.21.3;3.1.21;4;Setor 01 — pacote 026 — Aplicar camada de revestimento;0.75;0.75;0.00;SIM
+3.2.20;3.2;3;Revestimento e superfície de rolamento — setor 02, pacote 027;2.25;2.25;0.00;SIM
+3.2.20.1;3.2.20;4;Setor 02 — pacote 027 — Produzir mistura asfáltica;0.75;0.75;0.00;SIM
+3.2.20.2;3.2.20;4;Setor 02 — pacote 027 — Transportar mistura;0.75;0.75;0.00;SIM
+3.2.20.3;3.2.20;4;Setor 02 — pacote 027 — Aplicar camada de revestimento;0.75;0.75;0.00;SIM
+3.3.20;3.3;3;Revestimento e superfície de rolamento — setor 03, pacote 028;2.25;2.25;0.00;SIM
+3.3.20.1;3.3.20;4;Setor 03 — pacote 028 — Produzir mistura asfáltica;0.75;0.75;0.00;SIM
+3.3.20.2;3.3.20;4;Setor 03 — pacote 028 — Transportar mistura;0.75;0.75;0.00;SIM
+3.3.20.3;3.3.20;4;Setor 03 — pacote 028 — Aplicar camada de revestimento;0.75;0.75;0.00;SIM
+3.4.19;3.4;3;Revestimento e superfície de rolamento — setor 04, pacote 029;2.25;2.25;0.00;SIM
+3.4.19.1;3.4.19;4;Setor 04 — pacote 029 — Produzir mistura asfáltica;0.75;0.75;0.00;SIM
+3.4.19.2;3.4.19;4;Setor 04 — pacote 029 — Transportar mistura;0.75;0.75;0.00;SIM
+3.4.19.3;3.4.19;4;Setor 04 — pacote 029 — Aplicar camada de revestimento;0.75;0.75;0.00;SIM
+3.5.19;3.5;3;Revestimento e superfície de rolamento — setor 05, pacote 030;2.25;2.25;0.00;SIM
+3.5.19.1;3.5.19;4;Setor 05 — pacote 030 — Produzir mistura asfáltica;0.75;0.75;0.00;SIM
+3.5.19.2;3.5.19;4;Setor 05 — pacote 030 — Transportar mistura;0.75;0.75;0.00;SIM
+3.5.19.3;3.5.19;4;Setor 05 — pacote 030 — Aplicar camada de revestimento;0.75;0.75;0.00;SIM
+3.1.22;3.1;3;Revestimento e superfície de rolamento — setor 01, pacote 031;2.25;2.25;0.00;SIM
+3.1.22.1;3.1.22;4;Setor 01 — pacote 031 — Produzir mistura asfáltica;0.75;0.75;0.00;SIM
+3.1.22.2;3.1.22;4;Setor 01 — pacote 031 — Transportar mistura;0.75;0.75;0.00;SIM
+3.1.22.3;3.1.22;4;Setor 01 — pacote 031 — Aplicar camada de revestimento;0.75;0.75;0.00;SIM
+3.2.21;3.2;3;Revestimento e superfície de rolamento — setor 02, pacote 032;2.25;2.25;0.00;SIM
+3.2.21.1;3.2.21;4;Setor 02 — pacote 032 — Produzir mistura asfáltica;0.75;0.75;0.00;SIM
+3.2.21.2;3.2.21;4;Setor 02 — pacote 032 — Transportar mistura;0.75;0.75;0.00;SIM
+3.2.21.3;3.2.21;4;Setor 02 — pacote 032 — Aplicar camada de revestimento;0.75;0.75;0.00;SIM
+3.3.21;3.3;3;Revestimento e superfície de rolamento — setor 03, pacote 033;2.25;2.25;0.00;SIM
+3.3.21.1;3.3.21;4;Setor 03 — pacote 033 — Produzir mistura asfáltica;0.75;0.75;0.00;SIM
+3.3.21.2;3.3.21;4;Setor 03 — pacote 033 — Transportar mistura;0.75;0.75;0.00;SIM
+3.3.21.3;3.3.21;4;Setor 03 — pacote 033 — Aplicar camada de revestimento;0.75;0.75;0.00;SIM
+3.4.20;3.4;3;Revestimento e superfície de rolamento — setor 04, pacote 034;2.25;2.25;0.00;SIM
+3.4.20.1;3.4.20;4;Setor 04 — pacote 034 — Produzir mistura asfáltica;0.75;0.75;0.00;SIM
+3.4.20.2;3.4.20;4;Setor 04 — pacote 034 — Transportar mistura;0.75;0.75;0.00;SIM
+3.4.20.3;3.4.20;4;Setor 04 — pacote 034 — Aplicar camada de revestimento;0.75;0.75;0.00;SIM
+3.5.20;3.5;3;Revestimento e superfície de rolamento — setor 05, pacote 035;2.25;2.25;0.00;SIM
+3.5.20.1;3.5.20;4;Setor 05 — pacote 035 — Produzir mistura asfáltica;0.75;0.75;0.00;SIM
+3.5.20.2;3.5.20;4;Setor 05 — pacote 035 — Transportar mistura;0.75;0.75;0.00;SIM
+3.5.20.3;3.5.20;4;Setor 05 — pacote 035 — Aplicar camada de revestimento;0.75;0.75;0.00;SIM
+3.1.23;3.1;3;Revestimento e superfície de rolamento — setor 01, pacote 036;2.25;2.25;0.00;SIM
+3.1.23.1;3.1.23;4;Setor 01 — pacote 036 — Produzir mistura asfáltica;0.75;0.75;0.00;SIM
+3.1.23.2;3.1.23;4;Setor 01 — pacote 036 — Transportar mistura;0.75;0.75;0.00;SIM
+3.1.23.3;3.1.23;4;Setor 01 — pacote 036 — Aplicar camada de revestimento;0.75;0.75;0.00;SIM
+4.1.1;4.1;3;Sinalização, defensas e acabamentos — setor 01, pacote 001;1.76;1.76;0.00;SIM
+4.1.1.1;4.1.1;4;Setor 01 — pacote 001 — Instalar defensa;0.44;0.44;0.00;SIM
+4.1.1.2;4.1.1;4;Setor 01 — pacote 001 — Implantar sinalização vertical;0.44;0.44;0.00;SIM
+4.1.1.3;4.1.1;4;Setor 01 — pacote 001 — Executar marcação horizontal;0.44;0.44;0.00;SIM
+4.1.1.4;4.1.1;4;Setor 01 — pacote 001 — Concluir arremate do trecho;0.44;0.44;0.00;SIM
+4.2.1;4.2;3;Sinalização, defensas e acabamentos — setor 02, pacote 002;1.76;1.76;0.00;SIM
+4.2.1.1;4.2.1;4;Setor 02 — pacote 002 — Implantar sinalização vertical;0.44;0.44;0.00;SIM
+4.2.1.2;4.2.1;4;Setor 02 — pacote 002 — Executar marcação horizontal;0.44;0.44;0.00;SIM
+4.2.1.3;4.2.1;4;Setor 02 — pacote 002 — Concluir arremate do trecho;0.44;0.44;0.00;SIM
+4.2.1.4;4.2.1;4;Setor 02 — pacote 002 — Instalar defensa;0.44;0.44;0.00;SIM
+4.3.1;4.3;3;Sinalização, defensas e acabamentos — setor 03, pacote 003;1.76;1.76;0.00;SIM
+4.3.1.1;4.3.1;4;Setor 03 — pacote 003 — Executar marcação horizontal;0.44;0.44;0.00;SIM
+4.3.1.2;4.3.1;4;Setor 03 — pacote 003 — Concluir arremate do trecho;0.44;0.44;0.00;SIM
+4.3.1.3;4.3.1;4;Setor 03 — pacote 003 — Instalar defensa;0.44;0.44;0.00;SIM
+4.3.1.4;4.3.1;4;Setor 03 — pacote 003 — Implantar sinalização vertical;0.44;0.44;0.00;SIM
+4.4.1;4.4;3;Sinalização, defensas e acabamentos — setor 04, pacote 004;1.76;1.76;0.00;SIM
+4.4.1.1;4.4.1;4;Setor 04 — pacote 004 — Concluir arremate do trecho;0.44;0.44;0.00;SIM
+4.4.1.2;4.4.1;4;Setor 04 — pacote 004 — Instalar defensa;0.44;0.44;0.00;SIM
+4.4.1.3;4.4.1;4;Setor 04 — pacote 004 — Implantar sinalização vertical;0.44;0.44;0.00;SIM
+4.4.1.4;4.4.1;4;Setor 04 — pacote 004 — Executar marcação horizontal;0.44;0.44;0.00;SIM
+4.5.1;4.5;3;Sinalização, defensas e acabamentos — setor 05, pacote 005;1.76;1.76;0.00;SIM
+4.5.1.1;4.5.1;4;Setor 05 — pacote 005 — Instalar defensa;0.44;0.44;0.00;SIM
+4.5.1.2;4.5.1;4;Setor 05 — pacote 005 — Implantar sinalização vertical;0.44;0.44;0.00;SIM
+4.5.1.3;4.5.1;4;Setor 05 — pacote 005 — Executar marcação horizontal;0.44;0.44;0.00;SIM
+4.5.1.4;4.5.1;4;Setor 05 — pacote 005 — Concluir arremate do trecho;0.44;0.44;0.00;SIM
+4.1.2;4.1;3;Sinalização, defensas e acabamentos — setor 01, pacote 006;1.76;1.76;0.00;SIM
+4.1.2.1;4.1.2;4;Setor 01 — pacote 006 — Implantar sinalização vertical;0.44;0.44;0.00;SIM
+4.1.2.2;4.1.2;4;Setor 01 — pacote 006 — Executar marcação horizontal;0.44;0.44;0.00;SIM
+4.1.2.3;4.1.2;4;Setor 01 — pacote 006 — Concluir arremate do trecho;0.44;0.44;0.00;SIM
+4.1.2.4;4.1.2;4;Setor 01 — pacote 006 — Instalar defensa;0.44;0.44;0.00;SIM
+4.2.2;4.2;3;Sinalização, defensas e acabamentos — setor 02, pacote 007;1.76;1.76;0.00;SIM
+4.2.2.1;4.2.2;4;Setor 02 — pacote 007 — Executar marcação horizontal;0.44;0.44;0.00;SIM
+4.2.2.2;4.2.2;4;Setor 02 — pacote 007 — Concluir arremate do trecho;0.44;0.44;0.00;SIM
+4.2.2.3;4.2.2;4;Setor 02 — pacote 007 — Instalar defensa;0.44;0.44;0.00;SIM
+4.2.2.4;4.2.2;4;Setor 02 — pacote 007 — Implantar sinalização vertical;0.44;0.44;0.00;SIM
+4.3.2;4.3;3;Sinalização, defensas e acabamentos — setor 03, pacote 008;1.76;1.76;0.00;SIM
+4.3.2.1;4.3.2;4;Setor 03 — pacote 008 — Concluir arremate do trecho;0.44;0.44;0.00;SIM
+4.3.2.2;4.3.2;4;Setor 03 — pacote 008 — Instalar defensa;0.44;0.44;0.00;SIM
+4.3.2.3;4.3.2;4;Setor 03 — pacote 008 — Implantar sinalização vertical;0.44;0.44;0.00;SIM
+4.3.2.4;4.3.2;4;Setor 03 — pacote 008 — Executar marcação horizontal;0.44;0.44;0.00;SIM
+4.4.2;4.4;3;Sinalização, defensas e acabamentos — setor 04, pacote 009;1.32;1.32;0.00;SIM
+4.4.2.1;4.4.2;4;Setor 04 — pacote 009 — Instalar defensa;0.44;0.44;0.00;SIM
+4.4.2.2;4.4.2;4;Setor 04 — pacote 009 — Implantar sinalização vertical;0.44;0.44;0.00;SIM
+4.4.2.3;4.4.2;4;Setor 04 — pacote 009 — Executar marcação horizontal;0.44;0.44;0.00;SIM
+4.5.2;4.5;3;Sinalização, defensas e acabamentos — setor 05, pacote 010;1.32;1.32;0.00;SIM
+4.5.2.1;4.5.2;4;Setor 05 — pacote 010 — Instalar defensa;0.44;0.44;0.00;SIM
+4.5.2.2;4.5.2;4;Setor 05 — pacote 010 — Implantar sinalização vertical;0.44;0.44;0.00;SIM
+4.5.2.3;4.5.2;4;Setor 05 — pacote 010 — Executar marcação horizontal;0.44;0.44;0.00;SIM
+4.1.3;4.1;3;Sinalização, defensas e acabamentos — setor 01, pacote 011;1.32;1.32;0.00;SIM
+4.1.3.1;4.1.3;4;Setor 01 — pacote 011 — Instalar defensa;0.44;0.44;0.00;SIM
+4.1.3.2;4.1.3;4;Setor 01 — pacote 011 — Implantar sinalização vertical;0.44;0.44;0.00;SIM
+4.1.3.3;4.1.3;4;Setor 01 — pacote 011 — Executar marcação horizontal;0.44;0.44;0.00;SIM
+4.2.3;4.2;3;Sinalização, defensas e acabamentos — setor 02, pacote 012;1.32;1.32;0.00;SIM
+4.2.3.1;4.2.3;4;Setor 02 — pacote 012 — Instalar defensa;0.44;0.44;0.00;SIM
+4.2.3.2;4.2.3;4;Setor 02 — pacote 012 — Implantar sinalização vertical;0.44;0.44;0.00;SIM
+4.2.3.3;4.2.3;4;Setor 02 — pacote 012 — Executar marcação horizontal;0.44;0.44;0.00;SIM
+4.3.3;4.3;3;Sinalização, defensas e acabamentos — setor 03, pacote 013;1.32;1.32;0.00;SIM
+4.3.3.1;4.3.3;4;Setor 03 — pacote 013 — Instalar defensa;0.44;0.44;0.00;SIM
+4.3.3.2;4.3.3;4;Setor 03 — pacote 013 — Implantar sinalização vertical;0.44;0.44;0.00;SIM
+4.3.3.3;4.3.3;4;Setor 03 — pacote 013 — Executar marcação horizontal;0.44;0.44;0.00;SIM
+4.4.3;4.4;3;Sinalização, defensas e acabamentos — setor 04, pacote 014;1.32;1.32;0.00;SIM
+4.4.3.1;4.4.3;4;Setor 04 — pacote 014 — Instalar defensa;0.44;0.44;0.00;SIM
+4.4.3.2;4.4.3;4;Setor 04 — pacote 014 — Implantar sinalização vertical;0.44;0.44;0.00;SIM
+4.4.3.3;4.4.3;4;Setor 04 — pacote 014 — Executar marcação horizontal;0.44;0.44;0.00;SIM
+4.5.3;4.5;3;Sinalização, defensas e acabamentos — setor 05, pacote 015;1.32;1.32;0.00;SIM
+4.5.3.1;4.5.3;4;Setor 05 — pacote 015 — Instalar defensa;0.44;0.44;0.00;SIM
+4.5.3.2;4.5.3;4;Setor 05 — pacote 015 — Implantar sinalização vertical;0.44;0.44;0.00;SIM
+4.5.3.3;4.5.3;4;Setor 05 — pacote 015 — Executar marcação horizontal;0.44;0.44;0.00;SIM
+4.1.4;4.1;3;Sinalização, defensas e acabamentos — setor 01, pacote 016;1.32;1.32;0.00;SIM
+4.1.4.1;4.1.4;4;Setor 01 — pacote 016 — Instalar defensa;0.44;0.44;0.00;SIM
+4.1.4.2;4.1.4;4;Setor 01 — pacote 016 — Implantar sinalização vertical;0.44;0.44;0.00;SIM
+4.1.4.3;4.1.4;4;Setor 01 — pacote 016 — Executar marcação horizontal;0.44;0.44;0.00;SIM
+4.2.4;4.2;3;Sinalização, defensas e acabamentos — setor 02, pacote 017;1.32;1.32;0.00;SIM
+4.2.4.1;4.2.4;4;Setor 02 — pacote 017 — Instalar defensa;0.44;0.44;0.00;SIM
+4.2.4.2;4.2.4;4;Setor 02 — pacote 017 — Implantar sinalização vertical;0.44;0.44;0.00;SIM
+4.2.4.3;4.2.4;4;Setor 02 — pacote 017 — Executar marcação horizontal;0.44;0.44;0.00;SIM
+4.3.4;4.3;3;Sinalização, defensas e acabamentos — setor 03, pacote 018;1.30;1.30;0.00;SIM
+4.3.4.1;4.3.4;4;Setor 03 — pacote 018 — Instalar defensa;0.44;0.44;0.00;SIM
+4.3.4.2;4.3.4;4;Setor 03 — pacote 018 — Implantar sinalização vertical;0.43;0.43;0.00;SIM
+4.3.4.3;4.3.4;4;Setor 03 — pacote 018 — Executar marcação horizontal;0.43;0.43;0.00;SIM
+4.4.4;4.4;3;Sinalização, defensas e acabamentos — setor 04, pacote 019;1.29;1.29;0.00;SIM
+4.4.4.1;4.4.4;4;Setor 04 — pacote 019 — Instalar defensa;0.43;0.43;0.00;SIM
+4.4.4.2;4.4.4;4;Setor 04 — pacote 019 — Implantar sinalização vertical;0.43;0.43;0.00;SIM
+4.4.4.3;4.4.4;4;Setor 04 — pacote 019 — Executar marcação horizontal;0.43;0.43;0.00;SIM
+4.5.4;4.5;3;Sinalização, defensas e acabamentos — setor 05, pacote 020;1.29;1.29;0.00;SIM
+4.5.4.1;4.5.4;4;Setor 05 — pacote 020 — Instalar defensa;0.43;0.43;0.00;SIM
+4.5.4.2;4.5.4;4;Setor 05 — pacote 020 — Implantar sinalização vertical;0.43;0.43;0.00;SIM
+4.5.4.3;4.5.4;4;Setor 05 — pacote 020 — Executar marcação horizontal;0.43;0.43;0.00;SIM
+4.1.5;4.1;3;Sinalização, defensas e acabamentos — setor 01, pacote 021;1.29;1.29;0.00;SIM
+4.1.5.1;4.1.5;4;Setor 01 — pacote 021 — Instalar defensa;0.43;0.43;0.00;SIM
+4.1.5.2;4.1.5;4;Setor 01 — pacote 021 — Implantar sinalização vertical;0.43;0.43;0.00;SIM
+4.1.5.3;4.1.5;4;Setor 01 — pacote 021 — Executar marcação horizontal;0.43;0.43;0.00;SIM
+4.2.5;4.2;3;Sinalização, defensas e acabamentos — setor 02, pacote 022;1.29;1.29;0.00;SIM
+4.2.5.1;4.2.5;4;Setor 02 — pacote 022 — Instalar defensa;0.43;0.43;0.00;SIM
+4.2.5.2;4.2.5;4;Setor 02 — pacote 022 — Implantar sinalização vertical;0.43;0.43;0.00;SIM
+4.2.5.3;4.2.5;4;Setor 02 — pacote 022 — Executar marcação horizontal;0.43;0.43;0.00;SIM
+4.3.5;4.3;3;Sinalização, defensas e acabamentos — setor 03, pacote 023;1.29;1.29;0.00;SIM
+4.3.5.1;4.3.5;4;Setor 03 — pacote 023 — Instalar defensa;0.43;0.43;0.00;SIM
+4.3.5.2;4.3.5;4;Setor 03 — pacote 023 — Implantar sinalização vertical;0.43;0.43;0.00;SIM
+4.3.5.3;4.3.5;4;Setor 03 — pacote 023 — Executar marcação horizontal;0.43;0.43;0.00;SIM
+4.4.5;4.4;3;Sinalização, defensas e acabamentos — setor 04, pacote 024;1.29;1.29;0.00;SIM
+4.4.5.1;4.4.5;4;Setor 04 — pacote 024 — Instalar defensa;0.43;0.43;0.00;SIM
+4.4.5.2;4.4.5;4;Setor 04 — pacote 024 — Implantar sinalização vertical;0.43;0.43;0.00;SIM
+4.4.5.3;4.4.5;4;Setor 04 — pacote 024 — Executar marcação horizontal;0.43;0.43;0.00;SIM
+4.1.6;4.1;3;Inspeções e correções — setor 01, pacote 001;2.52;2.52;0.00;SIM
+4.1.6.1;4.1.6;4;Setor 01 — pacote 001 — Inspecionar serviço concluído;0.63;0.63;0.00;SIM
+4.1.6.2;4.1.6;4;Setor 01 — pacote 001 — Executar ensaio de recebimento;0.63;0.63;0.00;SIM
+4.1.6.3;4.1.6;4;Setor 01 — pacote 001 — Registrar pendência;0.63;0.63;0.00;SIM
+4.1.6.4;4.1.6;4;Setor 01 — pacote 001 — Verificar correção executada;0.63;0.63;0.00;SIM
+4.2.6;4.2;3;Inspeções e correções — setor 02, pacote 002;2.52;2.52;0.00;SIM
+4.2.6.1;4.2.6;4;Setor 02 — pacote 002 — Executar ensaio de recebimento;0.63;0.63;0.00;SIM
+4.2.6.2;4.2.6;4;Setor 02 — pacote 002 — Registrar pendência;0.63;0.63;0.00;SIM
+4.2.6.3;4.2.6;4;Setor 02 — pacote 002 — Verificar correção executada;0.63;0.63;0.00;SIM
+4.2.6.4;4.2.6;4;Setor 02 — pacote 002 — Inspecionar serviço concluído;0.63;0.63;0.00;SIM
+4.3.6;4.3;3;Inspeções e correções — setor 03, pacote 003;2.52;2.52;0.00;SIM
+4.3.6.1;4.3.6;4;Setor 03 — pacote 003 — Registrar pendência;0.63;0.63;0.00;SIM
+4.3.6.2;4.3.6;4;Setor 03 — pacote 003 — Verificar correção executada;0.63;0.63;0.00;SIM
+4.3.6.3;4.3.6;4;Setor 03 — pacote 003 — Inspecionar serviço concluído;0.63;0.63;0.00;SIM
+4.3.6.4;4.3.6;4;Setor 03 — pacote 003 — Executar ensaio de recebimento;0.63;0.63;0.00;SIM
+4.4.6;4.4;3;Inspeções e correções — setor 04, pacote 004;2.52;2.52;0.00;SIM
+4.4.6.1;4.4.6;4;Setor 04 — pacote 004 — Verificar correção executada;0.63;0.63;0.00;SIM
+4.4.6.2;4.4.6;4;Setor 04 — pacote 004 — Inspecionar serviço concluído;0.63;0.63;0.00;SIM
+4.4.6.3;4.4.6;4;Setor 04 — pacote 004 — Executar ensaio de recebimento;0.63;0.63;0.00;SIM
+4.4.6.4;4.4.6;4;Setor 04 — pacote 004 — Registrar pendência;0.63;0.63;0.00;SIM
+4.5.5;4.5;3;Inspeções e correções — setor 05, pacote 005;1.89;1.89;0.00;SIM
+4.5.5.1;4.5.5;4;Setor 05 — pacote 005 — Inspecionar serviço concluído;0.63;0.63;0.00;SIM
+4.5.5.2;4.5.5;4;Setor 05 — pacote 005 — Executar ensaio de recebimento;0.63;0.63;0.00;SIM
+4.5.5.3;4.5.5;4;Setor 05 — pacote 005 — Registrar pendência;0.63;0.63;0.00;SIM
+4.1.7;4.1;3;Inspeções e correções — setor 01, pacote 006;1.87;1.87;0.00;SIM
+4.1.7.1;4.1.7;4;Setor 01 — pacote 006 — Inspecionar serviço concluído;0.63;0.63;0.00;SIM
+4.1.7.2;4.1.7;4;Setor 01 — pacote 006 — Executar ensaio de recebimento;0.62;0.62;0.00;SIM
+4.1.7.3;4.1.7;4;Setor 01 — pacote 006 — Registrar pendência;0.62;0.62;0.00;SIM
+4.2.7;4.2;3;Inspeções e correções — setor 02, pacote 007;1.86;1.86;0.00;SIM
+4.2.7.1;4.2.7;4;Setor 02 — pacote 007 — Inspecionar serviço concluído;0.62;0.62;0.00;SIM
+4.2.7.2;4.2.7;4;Setor 02 — pacote 007 — Executar ensaio de recebimento;0.62;0.62;0.00;SIM
+4.2.7.3;4.2.7;4;Setor 02 — pacote 007 — Registrar pendência;0.62;0.62;0.00;SIM
+4.3.7;4.3;3;Inspeções e correções — setor 03, pacote 008;1.86;1.86;0.00;SIM
+4.3.7.1;4.3.7;4;Setor 03 — pacote 008 — Inspecionar serviço concluído;0.62;0.62;0.00;SIM
+4.3.7.2;4.3.7;4;Setor 03 — pacote 008 — Executar ensaio de recebimento;0.62;0.62;0.00;SIM
+4.3.7.3;4.3.7;4;Setor 03 — pacote 008 — Registrar pendência;0.62;0.62;0.00;SIM
+4.4.7;4.4;3;Inspeções e correções — setor 04, pacote 009;1.86;1.86;0.00;SIM
+4.4.7.1;4.4.7;4;Setor 04 — pacote 009 — Inspecionar serviço concluído;0.62;0.62;0.00;SIM
+4.4.7.2;4.4.7;4;Setor 04 — pacote 009 — Executar ensaio de recebimento;0.62;0.62;0.00;SIM
+4.4.7.3;4.4.7;4;Setor 04 — pacote 009 — Registrar pendência;0.62;0.62;0.00;SIM
+4.5.6;4.5;3;Inspeções e correções — setor 05, pacote 010;1.86;1.86;0.00;SIM
+4.5.6.1;4.5.6;4;Setor 05 — pacote 010 — Inspecionar serviço concluído;0.62;0.62;0.00;SIM
+4.5.6.2;4.5.6;4;Setor 05 — pacote 010 — Executar ensaio de recebimento;0.62;0.62;0.00;SIM
+4.5.6.3;4.5.6;4;Setor 05 — pacote 010 — Registrar pendência;0.62;0.62;0.00;SIM
+4.1.8;4.1;3;Inspeções e correções — setor 01, pacote 011;1.86;1.86;0.00;SIM
+4.1.8.1;4.1.8;4;Setor 01 — pacote 011 — Inspecionar serviço concluído;0.62;0.62;0.00;SIM
+4.1.8.2;4.1.8;4;Setor 01 — pacote 011 — Executar ensaio de recebimento;0.62;0.62;0.00;SIM
+4.1.8.3;4.1.8;4;Setor 01 — pacote 011 — Registrar pendência;0.62;0.62;0.00;SIM
+4.2.8;4.2;3;Inspeções e correções — setor 02, pacote 012;1.86;1.86;0.00;SIM
+4.2.8.1;4.2.8;4;Setor 02 — pacote 012 — Inspecionar serviço concluído;0.62;0.62;0.00;SIM
+4.2.8.2;4.2.8;4;Setor 02 — pacote 012 — Executar ensaio de recebimento;0.62;0.62;0.00;SIM
+4.2.8.3;4.2.8;4;Setor 02 — pacote 012 — Registrar pendência;0.62;0.62;0.00;SIM
+5.1.1;5.1;3;Entrega e desmobilização — setor 01, pacote 001;2.00;2.00;0.00;SIM
+5.1.1.1;5.1.1;4;Setor 01 — pacote 001 — Preparar documentação final;0.50;0.50;0.00;SIM
+5.1.1.2;5.1.1;4;Setor 01 — pacote 001 — Entregar área ao operador;0.50;0.50;0.00;SIM
+5.1.1.3;5.1.1;4;Setor 01 — pacote 001 — Retirar instalação provisória;0.50;0.50;0.00;SIM
+5.1.1.4;5.1.1;4;Setor 01 — pacote 001 — Encerrar registro da frente;0.50;0.50;0.00;SIM
+5.2.1;5.2;3;Entrega e desmobilização — setor 02, pacote 002;2.00;2.00;0.00;SIM
+5.2.1.1;5.2.1;4;Setor 02 — pacote 002 — Entregar área ao operador;0.50;0.50;0.00;SIM
+5.2.1.2;5.2.1;4;Setor 02 — pacote 002 — Retirar instalação provisória;0.50;0.50;0.00;SIM
+5.2.1.3;5.2.1;4;Setor 02 — pacote 002 — Encerrar registro da frente;0.50;0.50;0.00;SIM
+5.2.1.4;5.2.1;4;Setor 02 — pacote 002 — Preparar documentação final;0.50;0.50;0.00;SIM
+5.3.1;5.3;3;Entrega e desmobilização — setor 03, pacote 003;2.00;2.00;0.00;SIM
+5.3.1.1;5.3.1;4;Setor 03 — pacote 003 — Retirar instalação provisória;0.50;0.50;0.00;SIM
+5.3.1.2;5.3.1;4;Setor 03 — pacote 003 — Encerrar registro da frente;0.50;0.50;0.00;SIM
+5.3.1.3;5.3.1;4;Setor 03 — pacote 003 — Preparar documentação final;0.50;0.50;0.00;SIM
+5.3.1.4;5.3.1;4;Setor 03 — pacote 003 — Entregar área ao operador;0.50;0.50;0.00;SIM
+5.4.1;5.4;3;Entrega e desmobilização — setor 04, pacote 004;1.50;1.50;0.00;SIM
+5.4.1.1;5.4.1;4;Setor 04 — pacote 004 — Encerrar registro da frente;0.50;0.50;0.00;SIM
+5.4.1.2;5.4.1;4;Setor 04 — pacote 004 — Preparar documentação final;0.50;0.50;0.00;SIM
+5.4.1.3;5.4.1;4;Setor 04 — pacote 004 — Entregar área ao operador;0.50;0.50;0.00;SIM
+5.5.1;5.5;3;Entrega e desmobilização — setor 05, pacote 005;1.50;1.50;0.00;SIM
+5.5.1.1;5.5.1;4;Setor 05 — pacote 005 — Encerrar registro da frente;0.50;0.50;0.00;SIM
+5.5.1.2;5.5.1;4;Setor 05 — pacote 005 — Preparar documentação final;0.50;0.50;0.00;SIM
+5.5.1.3;5.5.1;4;Setor 05 — pacote 005 — Entregar área ao operador;0.50;0.50;0.00;SIM
+5.1.2;5.1;3;Entrega e desmobilização — setor 01, pacote 006;1.50;1.50;0.00;SIM
+5.1.2.1;5.1.2;4;Setor 01 — pacote 006 — Encerrar registro da frente;0.50;0.50;0.00;SIM
+5.1.2.2;5.1.2;4;Setor 01 — pacote 006 — Preparar documentação final;0.50;0.50;0.00;SIM
+5.1.2.3;5.1.2;4;Setor 01 — pacote 006 — Entregar área ao operador;0.50;0.50;0.00;SIM
+5.2.2;5.2;3;Entrega e desmobilização — setor 02, pacote 007;1.50;1.50;0.00;SIM
+5.2.2.1;5.2.2;4;Setor 02 — pacote 007 — Encerrar registro da frente;0.50;0.50;0.00;SIM
+5.2.2.2;5.2.2;4;Setor 02 — pacote 007 — Preparar documentação final;0.50;0.50;0.00;SIM
+5.2.2.3;5.2.2;4;Setor 02 — pacote 007 — Entregar área ao operador;0.50;0.50;0.00;SIM
+5.3.2;5.3;3;Entrega e desmobilização — setor 03, pacote 008;1.50;1.50;0.00;SIM
+5.3.2.1;5.3.2;4;Setor 03 — pacote 008 — Encerrar registro da frente;0.50;0.50;0.00;SIM
+5.3.2.2;5.3.2;4;Setor 03 — pacote 008 — Preparar documentação final;0.50;0.50;0.00;SIM
+5.3.2.3;5.3.2;4;Setor 03 — pacote 008 — Entregar área ao operador;0.50;0.50;0.00;SIM
+5.4.2;5.4;3;Entrega e desmobilização — setor 04, pacote 009;1.50;1.50;0.00;SIM
+5.4.2.1;5.4.2;4;Setor 04 — pacote 009 — Encerrar registro da frente;0.50;0.50;0.00;SIM
+5.4.2.2;5.4.2;4;Setor 04 — pacote 009 — Preparar documentação final;0.50;0.50;0.00;SIM
+5.4.2.3;5.4.2;4;Setor 04 — pacote 009 — Entregar área ao operador;0.50;0.50;0.00;SIM
+1.1.15;1.1;3;Planejamento, controles e supervisão — setor 01, pacote 001;12.00;12.00;0.00;SIM
+1.1.15.1;1.1.15;4;Setor 01 — pacote 001 — Atualizar programação;3.00;3.00;0.00;SIM
+1.1.15.2;1.1.15;4;Setor 01 — pacote 001 — Consolidar medição de avanço;3.00;3.00;0.00;SIM
+1.1.15.3;1.1.15;4;Setor 01 — pacote 001 — Coordenar interface de campo;3.00;3.00;0.00;SIM
+1.1.15.4;1.1.15;4;Setor 01 — pacote 001 — Emitir relatório de controle;3.00;3.00;0.00;SIM
+1.2.14;1.2;3;Planejamento, controles e supervisão — setor 02, pacote 002;9.00;9.00;0.00;SIM
+1.2.14.1;1.2.14;4;Setor 02 — pacote 002 — Consolidar medição de avanço;3.00;3.00;0.00;SIM
+1.2.14.2;1.2.14;4;Setor 02 — pacote 002 — Coordenar interface de campo;3.00;3.00;0.00;SIM
+1.2.14.3;1.2.14;4;Setor 02 — pacote 002 — Emitir relatório de controle;3.00;3.00;0.00;SIM
+1.3.14;1.3;3;Planejamento, controles e supervisão — setor 03, pacote 003;9.00;9.00;0.00;SIM
+1.3.14.1;1.3.14;4;Setor 03 — pacote 003 — Consolidar medição de avanço;3.00;3.00;0.00;SIM
+1.3.14.2;1.3.14;4;Setor 03 — pacote 003 — Coordenar interface de campo;3.00;3.00;0.00;SIM
+1.3.14.3;1.3.14;4;Setor 03 — pacote 003 — Emitir relatório de controle;3.00;3.00;0.00;SIM
+1.1.16;1.1;3;Segurança, meio ambiente e qualidade — setor 01, pacote 001;6.00;6.00;0.00;SIM
+1.1.16.1;1.1.16;4;Setor 01 — pacote 001 — Realizar inspeção preventiva;1.50;1.50;0.00;SIM
+1.1.16.2;1.1.16;4;Setor 01 — pacote 001 — Acompanhar controle ambiental;1.50;1.50;0.00;SIM
+1.1.16.3;1.1.16;4;Setor 01 — pacote 001 — Verificar qualidade de execução;1.50;1.50;0.00;SIM
+1.1.16.4;1.1.16;4;Setor 01 — pacote 001 — Orientar equipe da frente;1.50;1.50;0.00;SIM
+1.2.15;1.2;3;Segurança, meio ambiente e qualidade — setor 02, pacote 002;4.50;4.50;0.00;SIM
+1.2.15.1;1.2.15;4;Setor 02 — pacote 002 — Acompanhar controle ambiental;1.50;1.50;0.00;SIM
+1.2.15.2;1.2.15;4;Setor 02 — pacote 002 — Verificar qualidade de execução;1.50;1.50;0.00;SIM
+1.2.15.3;1.2.15;4;Setor 02 — pacote 002 — Orientar equipe da frente;1.50;1.50;0.00;SIM
+1.3.15;1.3;3;Segurança, meio ambiente e qualidade — setor 03, pacote 003;4.50;4.50;0.00;SIM
+1.3.15.1;1.3.15;4;Setor 03 — pacote 003 — Acompanhar controle ambiental;1.50;1.50;0.00;SIM
+1.3.15.2;1.3.15;4;Setor 03 — pacote 003 — Verificar qualidade de execução;1.50;1.50;0.00;SIM
+1.3.15.3;1.3.15;4;Setor 03 — pacote 003 — Orientar equipe da frente;1.50;1.50;0.00;SIM

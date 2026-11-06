@@ -1,0 +1,3 @@
+﻿SOLUCAO;PRAZO_DIAS;CUSTO_DIRETO;PESSOA_DIAS;CUSTO_TOTAL_BASE;ORIGEM;PARETO;OBSERVACAO
+SENS04;22.66666667;17.151;227.6666667;24.16266667;Solucao MILP reprecificada pelas taxas-base;Não dominada na amostra;"Amostra de soluções por variação dos pesos; não é a fronteira completa por prazo imposto."
+SENS03;24.33333334;16.6142;231.00000007;23.97586667;Solucao MILP reprecificada pelas taxas-base;Não dominada na amostra;"Amostra de soluções por variação dos pesos; não é a fronteira completa por prazo imposto."

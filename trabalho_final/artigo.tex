@@ -1,0 +1,104 @@
+\documentclass[12pt,a4paper]{article}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[brazilian]{babel}
+\usepackage{lmodern}
+\usepackage{amsmath,amssymb}
+\usepackage{booktabs}
+\usepackage{geometry}
+\usepackage{hyperref}
+\geometry{margin=2.5cm}
+\hypersetup{hidelinks}
+
+\title{Otimização do custo de obras por seleção de equipes e programação de atividades}
+\author{Lucas Araújo Campos Szuster \and João Marcos Claro Porcino \and Arthur Samuel Ferreira Andrade}
+\date{Pesquisa Operacional -- Universidade Federal de Minas Gerais}
+
+\begin{document}
+\maketitle
+
+\begin{center}
+\textbf{Versão em desenvolvimento: o caso derivado da obra e a execução final no Gurobi ainda estão pendentes de validação.}
+\end{center}
+
+\begin{abstract}
+Este trabalho investiga a seleção de equipes e o sequenciamento de atividades de uma obra, considerando relações de precedência, disponibilidade de recursos e custos diretos e indiretos. Formula-se um problema de programação linear inteira mista em que cada atividade é executada por um modo escolhido entre alternativas de produtividade e custo. Uma parcela do custo indireto é proporcional ao prazo do projeto. Para verificar a implementação, considera-se inicialmente um piloto sintético com 12 atividades e um marco. Nesse piloto, o cenário otimizado apresentou duração de 24,33 dias úteis e custo de 23,9759 pontos de índice, ante 34 dias e 24,96 pontos em uma referência factível específica. A otimalidade foi verificada para a instância sintética e suas hipóteses, não para uma obra real. O caso derivado de dados tratados encontra-se em preparação.
+
+\noindent\textbf{Palavras-chave:} programação de obras; programação linear inteira mista; alocação de equipes; compromisso tempo--custo.
+\end{abstract}
+
+\section{Introdução}
+A execução de obras envolve atividades com relações de precedência e recursos limitados. A escolha de uma equipe pode alterar a produtividade e o custo direto de um serviço, bem como a duração do projeto e os custos de manutenção da estrutura de apoio. A redução do tempo de uma atividade, entretanto, não necessariamente antecipa a conclusão da obra: outra sequência de atividades ou um conflito de recursos pode determinar o término.
+
+Este trabalho investiga a seleção conjunta de modos de execução e horários de início para minimizar o custo total de um projeto. A abordagem distingue o custo direto de cada alternativa e uma parcela indireta proporcional ao prazo. O modelo é verificado inicialmente em um piloto sintético e deverá ser aplicado a um recorte de dados de obra tratados, com hipóteses explicitadas. As conclusões serão limitadas à qualidade dos dados e às premissas utilizadas.
+
+\section{Revisão da literatura}
+Hartmann e Briskorn~\cite{hartmann2022} revisam variantes do problema de programação de projetos com recursos limitados, incluindo modos alternativos, restrições de recursos e diferentes objetivos. O enquadramento contribui para este estudo porque cada modo representa uma forma de executar uma atividade, com duração e consumo de recursos associados. Por se tratar de uma revisão, a referência não constitui uma validação experimental da instância aqui desenvolvida.
+
+Senouci e Mubarak~\cite{senouci2016} apresentam um modelo multiobjetivo para programação de obras sob condições climáticas extremas e empregam algoritmos genéticos na análise conjunta de prazo e custo. Em um exemplo com 12 atividades e cinco formações por atividade, reportam soluções entre 63 dias úteis e US\$ 1.082.500 e 130 dias úteis e US\$ 880.000 em uma aproximação da fronteira de compromisso. O estudo também considera data de início e clima, enquanto o piloto deste trabalho é determinístico e minimiza uma função de custo. A aplicação de uma meta-heurística não constitui, por si só, certificado de otimalidade global.
+
+Hegazy~\cite{hegazy1999} investiga a alocação e o nivelamento de recursos usando algoritmos genéticos. A proposta motiva o tratamento conjunto da programação e dos recursos. O presente modelo, porém, restringe a disponibilidade dos recursos sem incluir o nivelamento de efetivo como objetivo. \textbf{Pendente:} completar a análise crítica dos experimentos após conferir o texto integral.
+
+Zou et al.~\cite{zou2017} estudam o compromisso tempo--custo em projetos repetitivos com múltiplas equipes por meio de uma formulação inteira mista. A referência é relevante para modelagem computacional de obras, mas o piloto atual não representa atividades repetidas por trechos. \textbf{Pendente:} verificar a ferramenta utilizada e os resultados dos experimentos no artigo completo.
+
+\section{Descrição do problema e modelagem}
+Seja $A$ o conjunto de atividades, $P$ o conjunto de precedências término--início e $E_i$ o conjunto de modos habilitados para a atividade $i$. Um modo representa uma formação de equipe e está associado a um recurso compartilhado. A quantidade de serviço é $Q_i$, a produtividade é $p_{ie}>0$ e a duração determinística correspondente é $d_{ie}=Q_i/p_{ie}$. Cada modo possui custo direto $c_{ie}$ e efetivo $h_{ie}$.
+
+Define-se $x_{ie}\in\{0,1\}$ como a escolha do modo, $S_i\geq0$ como o início da atividade e $C_{\max}\geq0$ como o término do projeto. No piloto, a função objetivo é
+\begin{equation}
+\min\quad C_f+\sum_{i\in A}\sum_{e\in E_i}c_{ie}x_{ie}
+ +c_t C_{\max}+c_h\sum_{i\in A}\sum_{e\in E_i}h_{ie}d_{ie}x_{ie},
+\end{equation}
+em que $C_f$ é um custo fixo, $c_t$ é a taxa indireta por dia de projeto e $c_h$ é o custo de apoio por pessoa-dia. As parcelas devem ser conciliadas para evitar dupla contagem. Cada atividade escolhe um modo:
+\begin{equation}
+\sum_{e\in E_i}x_{ie}=1\quad (i\in A).
+\end{equation}
+Definindo $D_i=\sum_{e\in E_i}d_{ie}x_{ie}$, as precedências e o término são dados por
+\begin{align}
+S_i+D_i&\leq S_j &&((i,j)\in P),\\
+S_i+D_i&\leq C_{\max} &&(i\in A).
+\end{align}
+Para um recurso compartilhado $r$ de capacidade unitária, seja $z_{ir}$ o indicador de que a atividade $i$ usa esse recurso e $y_{ijr}\in\{0,1\}$ uma variável de ordenação para um par de atividades que pode utilizá-lo. A não sobreposição é imposta por
+\begin{align}
+S_i+D_i&\leq S_j+M(3-z_{ir}-z_{jr}-y_{ijr}),\\
+S_j+D_j&\leq S_i+M(2-z_{ir}-z_{jr}+y_{ijr}).
+\end{align}
+O parâmetro $M$ deve ser uma cota válida para a instância. O piloto assume uma formação por atividade, sem interrupções ou divisão entre equipes simultâneas. Os recursos têm capacidade unitária constante; calendários distintos e incerteza não são modelados.
+
+\section{Descrição do algoritmo e dos dados}
+O protótipo foi implementado com \texttt{scipy.optimize.milp} e HiGHS. Para o piloto sintético, a solução foi reproduzida com status de otimalidade e \emph{gap} zero. A versão final está prevista para execução no Gurobi, cuja instalação e licença ainda precisam ser confirmadas. Não se afirma, nesta versão, que o modelo tenha sido executado no Gurobi.
+
+A instância sintética contém 12 atividades, um marco, 13 precedências, 36 combinações habilitadas e seis grupos de recursos compartilhados. Quantidades, produtividades, custos e capacidades são hipóteses didáticas. A referência comparativa fixa os modos padrão e gera um cronograma factível; ela não é apresentada como ótima.
+
+\textbf{Caso derivado em preparação:} a auditoria da base tratada identificou dados de atividades, composições e planejamento, mas não encontrou predecessoras explícitas ou medições de execução. A revisão de origem e a interpretação do calendário precisam ser confirmadas. O recorte, seus custos e as hipóteses de equipes e precedências devem ser documentados antes de interpretar os resultados.
+
+\section{Resultados e análise}
+A Tabela~\ref{tab:piloto} apresenta somente o piloto sintético, com custos em pontos de índice e sem interpretação monetária.
+\begin{table}[ht]
+\centering
+\caption{Comparação dos cenários no piloto sintético.}
+\label{tab:piloto}
+\begin{tabular}{lrr}
+\toprule
+Cenário & Prazo (dias úteis) & Custo (pontos)\\
+\midrule
+Referência factível & 34,00 & 24,9600\\
+Otimização conjunta & 24,33 & 23,9759\\
+\bottomrule
+\end{tabular}
+\end{table}
+
+Sob as premissas do piloto, a redução é de aproximadamente 28,4\% no prazo e 3,9\% no custo em relação à referência específica. A diferença combina escolha de modos e sequenciamento; não isola o efeito de cada decisão e não demonstra superioridade geral. O CPM lógico sem recursos resulta em 30 dias, mas não é considerado cronograma factível para a capacidade assumida. A solução ótima é restrita ao modelo e aos dados sintéticos usados.
+
+\textbf{Pendente:} adicionar o caso baseado na obra tratada, a validação da execução final, as análises de sensibilidade e as limitações dos dados.
+
+\section{Conclusões provisórias}
+O piloto demonstra a possibilidade de formular conjuntamente escolha de equipes e programação de atividades. A análise não comprova economia na obra de referência nem substitui validação de dados e premissas. As conclusões definitivas dependerão do caso tratado e das verificações computacionais. Possíveis extensões incluem equipes simultâneas, calendários distintos e incerteza de produtividade.
+
+\begin{thebibliography}{9}
+\bibitem{hartmann2022} HARTMANN, S.; BRISKORN, D. An updated survey of variants and extensions of the resource-constrained project scheduling problem. \textit{European Journal of Operational Research}, v. 297, n. 1, p. 1--14, 2022. DOI: \href{https://doi.org/10.1016/j.ejor.2021.05.004}{10.1016/j.ejor.2021.05.004}.
+\bibitem{senouci2016} SENOUCI, A. B.; MUBARAK, S. A. Multiobjective optimization model for scheduling of construction projects under extreme weather. \textit{Journal of Civil Engineering and Management}, v. 22, n. 3, p. 373--381, 2016. DOI: \href{https://doi.org/10.3846/13923730.2014.897968}{10.3846/13923730.2014.897968}.
+\bibitem{hegazy1999} HEGAZY, T. Optimization of resource allocation and leveling using genetic algorithms. \textit{Journal of Construction Engineering and Management}, v. 125, n. 3, p. 167--175, 1999. DOI: \href{https://doi.org/10.1061/(ASCE)0733-9364(1999)125:3(167)}{10.1061/(ASCE)0733-9364(1999)125:3(167)}.
+\bibitem{zou2017} ZOU, X.; FANG, S.-C.; HUANG, Y.-S.; ZHANG, L.-H. Mixed-integer linear programming approach for scheduling repetitive projects with time-cost trade-off consideration. \textit{Journal of Computing in Civil Engineering}, v. 31, n. 3, 2017. DOI: \href{https://doi.org/10.1061/(ASCE)CP.1943-5487.0000641}{10.1061/(ASCE)CP.1943-5487.0000641}.
+\end{thebibliography}
+\end{document}

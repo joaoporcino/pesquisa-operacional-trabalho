@@ -1,0 +1,35 @@
+{
+  "tipo_de_dados": "caso acadêmico inteiramente hipotético; o script não consulta a base da obra",
+  "total_de_custo_indice": "1000.00",
+  "unidade_de_duracao": "dias úteis presumidos",
+  "regra_pert": "TE = (O + 4*M + P) / 6",
+  "regra_cpm": "relações finish-to-start; sem lag; durações calculadas com TE",
+  "duracao_esperada_do_projeto_dias": "134.00",
+  "caminho_critico_exemplo": [
+    "A01",
+    "A02",
+    "A04",
+    "A05",
+    "A11",
+    "A12",
+    "A13",
+    "A14",
+    "A15",
+    "A16",
+    "A17"
+  ],
+  "pacotes_loe_excluidos_da_rede": [
+    "A18",
+    "A19"
+  ],
+  "numero_de_itens_eap": 31,
+  "numero_de_atividades_e_marcos_na_rede": 19,
+  "numero_de_dependencias": 25,
+  "premissas": [
+    "Escopo genérico de infraestrutura linear, sem nomes, códigos, valores, quantidades ou datas da obra real.",
+    "Pontos de custo e estimativas de duração são números ilustrativos criados para o estudo.",
+    "Classificação direta/indireta/em dúvida é uma hipótese didática de orçamento, não uma regra contábil universal.",
+    "Controles contínuos de supervisão e HSE/ambiente/qualidade aparecem como pacotes LOE na EAP e não dirigem a rede CPM.",
+    "Predecessoras foram definidas como hipóteses de sequência; devem ser explicadas e ajustadas ao escopo acadêmico."
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "tipo_de_dados": "EAP acadêmica inteiramente sintética; não consulta dados do projeto",
+  "referencia_de_escala": "Somente quantidade agregada de nós, folhas e agrupadores; sem descrições, custos, atividades ou relações do projeto",
+  "numero_de_nos_eap": 1849,
+  "numero_de_agrupadores": 450,
+  "numero_de_atividades_folha": 1399,
+  "numero_de_atividades_discretas_pert_cpm": 1379,
+  "numero_de_pacotes_loe": 20,
+  "numero_de_marcos_pert_cpm": 2,
+  "numero_de_dependencias_fs": 1613,
+  "total_custo_pontos_indice": "1000.00",
+  "duracao_esperada_projeto_dias_uteis": "116.67",
+  "atividades_criticas": 44,
+  "premissas": [
+    "O modelo usa 19 famílias genéricas de serviços, segmentadas em frentes e pacotes hipotéticos.",
+    "Quantidades-modelo, atividades, descrições, coeficientes sintéticos, custos-índice, durações e precedências foram criados para o estudo.",
+    "A classificação direta/indireta/em dúvida é didática e requer critério definido pelo curso.",
+    "As atividades A18/A19 são LOE e ficam fora da rede CPM."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "tipo_dataset": "EAP acadêmica inteiramente hipotética",
+  "entrada_unica": "EAP_sintetica.csv",
+  "referencias_sinapi": 5,
+  "cpus_por_atividade": 19,
+  "itens_cpu": 108,
+  "custo_total_pontos_indice": "1000.00",
+  "custo_em_moeda": false,
+  "quantidades_sao_sinteticas": true,
+  "precos_sinapi_utilizados": false,
+  "precos_sinteticos_calibrados_para_reconciliar_com_eap": true,
+  "niveis_eap_divergentes": 0,
+  "observacao": "Coeficientes SINAPI são referências técnicas. Preços, quantidades e complementos são sintéticos; itens SINAPI tipo C não foram expandidos recursivamente."
+}

@@ -1,0 +1,32 @@
+﻿COD_EAP;COD_PAI;NIVEL;TIPO_EAP;DESCRICAO_SINTETICA;CLASSIFICACAO;ID_ATIVIDADE;INCLUI_REDE_PERT_CPM;PONTOS_CUSTO_INDICE;ENTREGA
+0;;0;PROJETO;Projeto acadêmico de implantação de infraestrutura linear;AGRUPADOR;;NAO_AGRUPADOR;1000.00;Infraestrutura hipotética pronta para operação
+1;0;1;FASE;Preparação, engenharia e apoio;AGRUPADOR;;NAO_AGRUPADOR;150.00;Frentes liberadas e recursos de apoio disponíveis
+1.1;1;2;CONTA_CONTROLE;Implantação e levantamentos;AGRUPADOR;;NAO_AGRUPADOR;30.00;Área mobilizada e condições de campo conhecidas
+1.1.1;1.1;3;PACOTE_TRABALHO;Mobilização e instalações provisórias;INDIRETA;A01;SIM;20.00;Canteiro e equipe disponíveis
+1.1.2;1.1;3;PACOTE_TRABALHO;Levantamentos de campo;DUVIDA;A02;SIM;10.00;Dados topográficos e geotécnicos disponíveis
+1.2;1;2;CONTA_CONTROLE;Engenharia, liberações e suprimentos;AGRUPADOR;;NAO_AGRUPADOR;75.00;Projeto e insumos críticos liberados
+1.2.1;1.2;3;PACOTE_TRABALHO;Autorizações e liberação de frentes;INDIRETA;A03;SIM;10.00;Frentes autorizadas para execução
+1.2.2;1.2;3;PACOTE_TRABALHO;Projeto executivo e construtibilidade;INDIRETA;A04;SIM;25.00;Pacotes de projeto liberados para construção
+1.2.3;1.2;3;PACOTE_TRABALHO;Aquisição de materiais de prazo longo;DUVIDA;A05;SIM;40.00;Materiais críticos disponíveis
+1.3;1;2;CONTA_CONTROLE;Gestão e apoio contínuo;AGRUPADOR;;NAO_AGRUPADOR;45.00;Controles de campo ativos durante a execução
+1.3.1;1.3;3;PACOTE_LOE;Planejamento, controles e supervisão;INDIRETA;A18;NAO_LOE;30.00;Acompanhamento integrado da obra
+1.3.2;1.3;3;PACOTE_LOE;Segurança, meio ambiente e qualidade;INDIRETA;A19;NAO_LOE;15.00;Suporte contínuo aos controles de campo
+2;0;1;FASE;Execução da infraestrutura;AGRUPADOR;;NAO_AGRUPADOR;810.00;Obras civis e camadas executadas
+2.1;2;2;CONTA_CONTROLE;Preparação e movimentação de terra;AGRUPADOR;;NAO_AGRUPADOR;305.00;Plataforma preparada
+2.1.1;2.1;3;PACOTE_TRABALHO;Limpeza e acessos provisórios;DIRETA;A06;SIM;40.00;Área de trabalho acessível e liberada
+2.1.2;2.1;3;PACOTE_TRABALHO;Cortes, aterros e conformação;DIRETA;A08;SIM;200.00;Terreno conformado segundo o projeto
+2.1.3;2.1;3;PACOTE_TRABALHO;Preparação do subleito;DIRETA;A09;SIM;65.00;Subleito preparado e compactado
+2.2;2;2;CONTA_CONTROLE;Drenagem;AGRUPADOR;;NAO_AGRUPADOR;135.00;Águas superficiais conduzidas com segurança
+2.2.1;2.2;3;PACOTE_TRABALHO;Drenagem transversal;DIRETA;A07;SIM;70.00;Dispositivos transversais instalados
+2.2.2;2.2;3;PACOTE_TRABALHO;Drenagem longitudinal;DIRETA;A10;SIM;65.00;Valas e dispositivos longitudinais executados
+2.3;2;2;CONTA_CONTROLE;Fundações e estruturas;AGRUPADOR;;NAO_AGRUPADOR;175.00;Estruturas concluídas
+2.3.1;2.3;3;PACOTE_TRABALHO;Fundações e contenções;DIRETA;A11;SIM;95.00;Fundações e contenções executadas
+2.3.2;2.3;3;PACOTE_TRABALHO;Estruturas de concreto ou metálicas;DIRETA;A12;SIM;80.00;Estruturas construídas e liberadas
+2.4;2;2;CONTA_CONTROLE;Camadas e acabamentos;AGRUPADOR;;NAO_AGRUPADOR;195.00;Superfície de rolamento e itens de segurança prontos
+2.4.1;2.4;3;PACOTE_TRABALHO;Sub-base e base granular;DIRETA;A13;SIM;70.00;Camadas granulares executadas
+2.4.2;2.4;3;PACOTE_TRABALHO;Revestimento e superfície de rolamento;DIRETA;A14;SIM;90.00;Superfície de rolamento executada
+2.4.3;2.4;3;PACOTE_TRABALHO;Sinalização, defensas e acabamentos;DIRETA;A15;SIM;35.00;Itens de segurança e acabamento instalados
+3;0;1;FASE;Inspeção, entrega e encerramento;AGRUPADOR;;NAO_AGRUPADOR;40.00;Infraestrutura aceita e equipe desmobilizada
+3.1;3;2;CONTA_CONTROLE;Aceitação e encerramento;AGRUPADOR;;NAO_AGRUPADOR;40.00;Pendências tratadas e entrega formalizada
+3.1.1;3.1;3;PACOTE_TRABALHO;Inspeções e correções;DUVIDA;A16;SIM;25.00;Inspeções concluídas e pendências tratadas
+3.1.2;3.1;3;PACOTE_TRABALHO;Entrega e desmobilização;INDIRETA;A17;SIM;15.00;Documentação entregue e instalações provisórias removidas
