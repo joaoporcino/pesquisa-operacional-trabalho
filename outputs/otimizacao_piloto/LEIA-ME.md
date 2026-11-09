@@ -66,6 +66,21 @@ O PERT usa uma faixa simétrica hipotética O/M/P; seu valor esperado coincide c
 
 ## Reproduzir
 
+### Modelo em Gurobi
+
+O arquivo `resolver_gurobi.py` implementa diretamente em Python/Gurobi a formulação descrita em `modelo_matematico.md`: escolha de equipe, precedências, disponibilidade unitária por pool e minimização dos custos fixos, diretos e indiretos. Lê os CSVs de `dados_modelo` e grava `cronograma_gurobi.csv` e `resumo_gurobi.json` em `resultados_gurobi`, sobrescrevendo esses dois arquivos em execuções posteriores. A saída informa status, gap e limite inferior do Gurobi; ótimo é declarado conforme a tolerância configurada. A solução é conferida quanto a precedências e sobreposição de recursos.
+
+Na raiz do projeto, com o ambiente virtual e a licença Gurobi configurados:
+
+```powershell
+.\.venv\Scripts\python.exe outputs/otimizacao_piloto/resolver_gurobi.py
+.\.venv\Scripts\python.exe outputs/otimizacao_piloto/resolver_gurobi.py --prazo-maximo 25 --output-dir outputs/otimizacao_piloto/gurobi_prazo_25
+```
+
+O prazo é em dias úteis contínuos; `--tempo-limite` define segundos e `--gap` a tolerância relativa do MIP. Para outros dados com o mesmo formato, use `--data-dir`. Uma execução sem solução viável retorna erro e não gera resultados novos. Dados, produtividades, custos e precedências do piloto são hipotéticos: para calcular o custo de uma obra específica, é necessário preparar e validar esses dados, inclusive as precedências e a conciliação do orçamento mencionadas em `RULES.md`.
+
+### Modelo anterior em SciPy
+
 Na raiz do workspace, execute:
 
     python outputs/otimizacao_piloto/gerar_base_otimizacao_piloto.py --force
