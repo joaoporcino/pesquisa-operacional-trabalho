@@ -66,7 +66,7 @@ S_j+D_j&\leq S_i+M(2-z_{ir}-z_{jr}+y_{ijr}).
 O parâmetro $M$ deve ser uma cota válida para a instância. O piloto assume uma formação por atividade, sem interrupções ou divisão entre equipes simultâneas. Os recursos têm capacidade unitária constante; calendários distintos e incerteza não são modelados.
 
 \section{Descrição do algoritmo e dos dados}
-O protótipo foi implementado com \texttt{scipy.optimize.milp} e HiGHS. Para o piloto sintético, a solução foi reproduzida com status de otimalidade e \emph{gap} zero. A versão final está prevista para execução no Gurobi, cuja instalação e licença ainda precisam ser confirmadas. Não se afirma, nesta versão, que o modelo tenha sido executado no Gurobi.
+O protótipo foi implementado com \texttt{scipy.optimize.milp} e HiGHS e também executado no Gurobi. Para o piloto sintético, a solução foi reproduzida com status de otimalidade. Um recorte sintético ampliado de 68 tarefas foi executado no Gurobi com limite de 30 segundos; a solução factível obtida apresentou \emph{gap} de 7,57\%, sem comprovação de otimalidade. A análise numérica a seguir ainda apresenta o piloto de 12 atividades.
 
 A instância sintética contém 12 atividades, um marco, 13 precedências, 36 combinações habilitadas e seis grupos de recursos compartilhados. Quantidades, produtividades, custos e capacidades são hipóteses didáticas. A referência comparativa fixa os modos padrão e gera um cronograma factível; ela não é apresentada como ótima.
 

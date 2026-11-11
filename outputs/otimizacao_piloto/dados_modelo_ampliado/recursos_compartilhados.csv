@@ -1,0 +1,7 @@
+﻿ID_POOL_RECURSO;FAMILIA;DESCRICAO_RECURSO;DISPONIBILIDADE;UNIDADE_CAPACIDADE;REGRA_CAPACIDADE;PREMISSA
+ASF;ASF;Pavimentação asfáltica;1;equipe;Capacidade unitária compartilhada entre todos os perfis/modos desta família.;Um conjunto de equipe e equipamento disponível por família no piloto sintético.
+BASE;BASE;Base granular;1;equipe;Capacidade unitária compartilhada entre todos os perfis/modos desta família.;Um conjunto de equipe e equipamento disponível por família no piloto sintético.
+DREN;DREN;Drenagem e estruturas hidráulicas;1;equipe;Capacidade unitária compartilhada entre todos os perfis/modos desta família.;Um conjunto de equipe e equipamento disponível por família no piloto sintético.
+FIN;FIN;Acabamentos e sinalização;1;equipe;Capacidade unitária compartilhada entre todos os perfis/modos desta família.;Um conjunto de equipe e equipamento disponível por família no piloto sintético.
+QA;QA;Inspeção e ensaios;1;equipe;Capacidade unitária compartilhada entre todos os perfis/modos desta família.;Um conjunto de equipe e equipamento disponível por família no piloto sintético.
+TERR;TERR;Terraplenagem e escavação;1;equipe;Capacidade unitária compartilhada entre todos os perfis/modos desta família.;Um conjunto de equipe e equipamento disponível por família no piloto sintético.

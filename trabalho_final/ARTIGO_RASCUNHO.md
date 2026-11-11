@@ -1,6 +1,6 @@
 # Otimização do custo de obras por seleção de equipes e programação de atividades
 
-**Rascunho de pesquisa — resultados e fontes sujeitos à conferência.** O caso principal derivado da obra e a verificação da ferramenta exigida pela disciplina estão em desenvolvimento. Os resultados numéricos abaixo referem-se exclusivamente a um piloto sintético; não descrevem a obra de referência.
+**Rascunho de pesquisa — resultados e fontes sujeitos à conferência.** Os resultados numéricos abaixo referem-se ao piloto sintético de 12 atividades. Há também um recorte sintético ampliado de 68 tarefas com PERT no nível de tarefas e execução no Gurobi, descrito em `outputs/otimizacao_piloto/LEIA-ME-AMPLIADO.md`; a redação dos resultados abaixo ainda precisa ser atualizada para esse recorte. Nenhum dos dois descreve a obra de referência.
 
 ## Resumo
 
@@ -49,7 +49,7 @@ O modelo assume atividades sem interrupção, uma formação por atividade e rec
 
 ## 4. Método computacional e dados
 
-O protótipo foi implementado com `scipy.optimize.milp`, que emprega o solver HiGHS para programação inteira mista. A formulação foi executada e reproduzida com status de otimalidade e gap zero para o piloto. Para a versão final, prevê-se utilizar o Gurobi, cuja instalação e ativação da licença acadêmica dependem do acesso do grupo à rede da universidade. A execução no Gurobi ainda não foi realizada; sua versão, parâmetros, resultados e registros devem ser acrescentados depois da instalação e do teste.
+O protótipo foi implementado com `scipy.optimize.milp` e também executado com Gurobi. O piloto teve otimalidade comprovada; no recorte ampliado, o Gurobi encontrou solução factível com limite de 30 segundos e gap de 7,57%, sem comprovar otimalidade. Os registros e parâmetros estão nas pastas de resultados correspondentes.
 
 A instância piloto é inteiramente sintética: 12 atividades, um marco, 13 relações de precedência, 36 combinações habilitadas e seis grupos de recursos compartilhados. Quantidades, produtividades, custos, capacidades e relações são hipóteses didáticas. A referência fixa os modos padrão e programa atividades respeitando precedências e recursos; não se afirma que ela seja ótima. O CPM lógico sem recursos não é apresentado como cronograma factível.
 

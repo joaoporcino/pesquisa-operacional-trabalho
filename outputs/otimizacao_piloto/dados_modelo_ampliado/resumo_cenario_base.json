@@ -1,0 +1,12 @@
+{
+  "tipo": "cenário-base factível; não é ótimo",
+  "regra": "Equipe padrão em todas as atividades; início mais cedo respeitando precedências e um pool unitário compartilhado por família.",
+  "prazo_cpm_sem_restricao_dias": 29.19,
+  "prazo_cenario_base_com_equipes_dias": 72.4,
+  "custo_fixo_uma_vez": 1.34,
+  "custo_direto_equipes_e_materiais": 43.24,
+  "custo_indireto_por_prazo": 14.48,
+  "custo_indireto_por_efetivo": 4.1334,
+  "custo_total_indice": 63.1934,
+  "unidade": "pontos de índice sintéticos, sem moeda"
+}

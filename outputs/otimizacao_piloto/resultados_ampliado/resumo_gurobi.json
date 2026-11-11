@@ -1,0 +1,18 @@
+{
+  "status_gurobi": 9,
+  "otimo_comprovado": false,
+  "gap_mip": 0.07572014341617887,
+  "limite_inferior_objetivo": 56.06085450001342,
+  "variaveis": 712,
+  "restricoes": 1106,
+  "prazo_dias_uteis": 50.160000019999785,
+  "custo_fixo_indice": 1.34,
+  "custo_direto_indice": 45.26020000000002,
+  "custo_indireto_prazo_indice": 10.032000003999958,
+  "custo_indireto_efetivo_indice": 4.021350001099998,
+  "custo_total_indice": 60.65355000509998,
+  "objetivo_solver_indice": 60.653550005099966,
+  "prazo_limite_dias": null,
+  "verificacao_precedencias_e_capacidade": "APROVADA",
+  "unidade": "pontos de índice sintéticos, sem moeda"
+}

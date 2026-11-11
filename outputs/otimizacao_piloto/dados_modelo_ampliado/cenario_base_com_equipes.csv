@@ -1,0 +1,70 @@
+﻿ID_ATIVIDADE;DESCRICAO;ID_EQUIPE;ID_POOL_RECURSO;PERFIL_EQUIPE;INICIO_DIA;FIM_DIA;DURACAO_DIAS;QUANTIDADE;UNIDADE;PRODUTIVIDADE_UNID_DIA;PESSOAS_EQUIPE;CUSTO_DIRETO_INDICE;CUSTO_INDIRETO_EFETIVO_INDICE
+OP00;Marco de mobilização concluída;NAO_APLICA;NAO_APLICA;MARCO;0.0;0.0;0.0;0;marco;0;0;0;0
+OP001;Setor 01 — pacote 001 — Liberar utilidades provisórias;FIN_PADRAO;FIN;PADRAO;0.0;2.17;2.17;1.0;pacote-modelo;0.460829493088;5;0.67;0.05425
+OP018;Setor 02 — pacote 002 — Montar módulo temporário;FIN_PADRAO;FIN;PADRAO;2.17;4.34;2.17;1.0;pacote-modelo;0.460829493088;5;0.67;0.05425
+OP035;Setor 03 — pacote 003 — Liberar utilidades provisórias;FIN_PADRAO;FIN;PADRAO;4.34;6.51;2.17;1.0;pacote-modelo;0.460829493088;5;0.67;0.05425
+OP052;Setor 04 — pacote 004 — Organizar acesso da frente;FIN_PADRAO;FIN;PADRAO;6.51;8.68;2.17;1.0;pacote-modelo;0.460829493088;5;0.67;0.05425
+OP002;Setor 01 — pacote 001 — Implantar pontos de controle;QA_PADRAO;QA;PADRAO;2.17;4.34;2.17;1.0;pacote-modelo;0.460829493088;3;0.4;0.03255
+OP019;Setor 02 — pacote 002 — Levantar faixa de implantação;QA_PADRAO;QA;PADRAO;4.34;6.51;2.17;1.0;pacote-modelo;0.460829493088;3;0.4;0.03255
+OP036;Setor 03 — pacote 003 — Levantar faixa de implantação;QA_PADRAO;QA;PADRAO;6.51;8.68;2.17;1.0;pacote-modelo;0.460829493088;3;0.4;0.03255
+OP053;Setor 04 — pacote 004 — Levantar faixa de implantação;QA_PADRAO;QA;PADRAO;8.68;10.85;2.17;1.0;pacote-modelo;0.460829493088;3;0.4;0.03255
+OP003;Setor 01 — pacote 001 — Preparar documentação de liberação;QA_PADRAO;QA;PADRAO;10.85;13.02;2.17;1.0;pacote-modelo;0.460829493088;3;0.5;0.03255
+OP004;Setor 01 — pacote 001 — Detalhar solução executiva;QA_PADRAO;QA;PADRAO;13.02;16.19;3.17;1.0;pacote-modelo;0.315457413249;3;0.56;0.04755
+OP020;Setor 02 — pacote 002 — Validar acesso à área;QA_PADRAO;QA;PADRAO;16.19;18.36;2.17;1.0;pacote-modelo;0.460829493088;3;0.5;0.03255
+OP021;Setor 02 — pacote 002 — Compatibilizar interfaces;QA_PADRAO;QA;PADRAO;18.36;21.53;3.17;1.0;pacote-modelo;0.315457413249;3;0.56;0.04755
+OP037;Setor 03 — pacote 003 — Registrar condicionantes de execução;QA_PADRAO;QA;PADRAO;21.53;23.7;2.17;1.0;pacote-modelo;0.460829493088;3;0.5;0.03255
+OP038;Setor 03 — pacote 003 — Revisar sequência construtiva;QA_PADRAO;QA;PADRAO;23.7;26.87;3.17;1.0;pacote-modelo;0.315457413249;3;0.56;0.04755
+OP054;Setor 04 — pacote 004 — Registrar condicionantes de execução;QA_PADRAO;QA;PADRAO;26.87;29.04;2.17;1.0;pacote-modelo;0.460829493088;3;0.5;0.03255
+OP055;Setor 04 — pacote 004 — Emitir desenho para campo;QA_PADRAO;QA;PADRAO;29.04;32.21;3.17;1.0;pacote-modelo;0.315457413249;3;0.56;0.04755
+OP006;Setor 01 — pacote 001 — Limpar área de trabalho;TERR_PADRAO;TERR;PADRAO;13.02;15.02;2.0;1.0;pacote-modelo;0.5;6;0.5;0.06
+OP005;Setor 01 — pacote 001 — Confirmar especificação de fornecimento;FIN_PADRAO;FIN;PADRAO;16.19;20.36;4.17;1.0;pacote-modelo;0.239808153477;5;0.5;0.10425
+OP023;Setor 02 — pacote 002 — Preparar acesso temporário;TERR_PADRAO;TERR;PADRAO;18.36;20.36;2.0;1.0;pacote-modelo;0.5;6;0.5;0.06
+OP022;Setor 02 — pacote 002 — Emitir pedido de material;FIN_PADRAO;FIN;PADRAO;21.53;25.7;4.17;1.0;pacote-modelo;0.239808153477;5;0.5;0.10425
+OP040;Setor 03 — pacote 003 — Organizar área de estocagem;TERR_PADRAO;TERR;PADRAO;23.7;25.7;2.0;1.0;pacote-modelo;0.5;6;0.5;0.06
+OP039;Setor 03 — pacote 003 — Inspecionar recebimento;FIN_PADRAO;FIN;PADRAO;26.87;31.04;4.17;1.0;pacote-modelo;0.239808153477;5;0.5;0.10425
+OP057;Setor 04 — pacote 004 — Remover material superficial;TERR_PADRAO;TERR;PADRAO;29.04;31.04;2.0;1.0;pacote-modelo;0.5;6;0.5;0.06
+OP056;Setor 04 — pacote 004 — Liberar lote para uso;FIN_PADRAO;FIN;PADRAO;32.21;36.38;4.17;1.0;pacote-modelo;0.239808153477;5;0.5;0.10425
+OP007;Setor 01 — pacote 001 — Escavar travessia;DREN_PADRAO;DREN;PADRAO;15.02;17.19;2.17;1.0;pacote-modelo;0.460829493088;5;0.7;0.05425
+OP008;Setor 01 — pacote 001 — Executar corte de material;TERR_PADRAO;TERR;PADRAO;15.02;17.19;2.17;1.0;pacote-modelo;0.460829493088;6;0.92;0.0651
+OP011;Setor 01 — pacote 001 — Preparar base de fundação;DREN_PADRAO;DREN;PADRAO;20.36;23.53;3.17;1.0;pacote-modelo;0.315457413249;5;0.95;0.07925
+OP024;Setor 02 — pacote 002 — Preparar berço de assentamento;DREN_PADRAO;DREN;PADRAO;23.53;25.7;2.17;1.0;pacote-modelo;0.460829493088;5;0.7;0.05425
+OP025;Setor 02 — pacote 002 — Carregar e transportar solo;TERR_PADRAO;TERR;PADRAO;20.36;22.53;2.17;1.0;pacote-modelo;0.460829493088;6;0.92;0.0651
+OP028;Setor 02 — pacote 002 — Montar armadura;DREN_PADRAO;DREN;PADRAO;25.7;28.87;3.17;1.0;pacote-modelo;0.315457413249;5;0.95;0.07925
+OP041;Setor 03 — pacote 003 — Assentar tubo transversal;DREN_PADRAO;DREN;PADRAO;28.87;31.04;2.17;1.0;pacote-modelo;0.460829493088;5;0.7;0.05425
+OP042;Setor 03 — pacote 003 — Distribuir material de aterro;TERR_PADRAO;TERR;PADRAO;25.7;27.87;2.17;1.0;pacote-modelo;0.460829493088;6;0.92;0.0651
+OP045;Setor 03 — pacote 003 — Executar concretagem;DREN_PADRAO;DREN;PADRAO;31.04;34.21;3.17;1.0;pacote-modelo;0.315457413249;5;0.95;0.07925
+OP058;Setor 04 — pacote 004 — Executar proteção de saída;DREN_PADRAO;DREN;PADRAO;34.21;36.38;2.17;1.0;pacote-modelo;0.460829493088;5;0.7;0.05425
+OP059;Setor 04 — pacote 004 — Conformar plataforma;TERR_PADRAO;TERR;PADRAO;31.04;33.21;2.17;1.0;pacote-modelo;0.460829493088;6;0.92;0.0651
+OP062;Setor 04 — pacote 004 — Conferir elemento de contenção;DREN_PADRAO;DREN;PADRAO;36.38;39.55;3.17;1.0;pacote-modelo;0.315457413249;5;0.95;0.07925
+OP009;Setor 01 — pacote 001 — Regularizar superfície;TERR_PADRAO;TERR;PADRAO;33.21;35.21;2.0;1.0;pacote-modelo;0.5;6;0.82;0.06
+OP010;Setor 01 — pacote 001 — Escavar vala longitudinal;DREN_PADRAO;DREN;PADRAO;17.19;19.36;2.17;1.0;pacote-modelo;0.460829493088;5;0.65;0.05425
+OP012;Setor 01 — pacote 001 — Montar elemento estrutural;DREN_PADRAO;DREN;PADRAO;39.55;43.55;4.0;1.0;pacote-modelo;0.25;5;0.73;0.1
+OP026;Setor 02 — pacote 002 — Ajustar umidade;TERR_PADRAO;TERR;PADRAO;35.21;37.21;2.0;1.0;pacote-modelo;0.5;6;0.82;0.06
+OP027;Setor 02 — pacote 002 — Instalar elemento drenante;DREN_PADRAO;DREN;PADRAO;43.55;45.72;2.17;1.0;pacote-modelo;0.460829493088;5;0.65;0.05425
+OP029;Setor 02 — pacote 002 — Instalar armadura ou ligação;DREN_PADRAO;DREN;PADRAO;45.72;49.72;4.0;1.0;pacote-modelo;0.25;5;0.73;0.1
+OP043;Setor 03 — pacote 003 — Compactar camada;TERR_PADRAO;TERR;PADRAO;37.21;39.21;2.0;1.0;pacote-modelo;0.5;6;0.82;0.06
+OP044;Setor 03 — pacote 003 — Executar enchimento filtrante;DREN_PADRAO;DREN;PADRAO;49.72;51.89;2.17;1.0;pacote-modelo;0.460829493088;5;0.65;0.05425
+OP046;Setor 03 — pacote 003 — Concretar ou fixar estrutura;DREN_PADRAO;DREN;PADRAO;51.89;55.89;4.0;1.0;pacote-modelo;0.25;5;0.73;0.1
+OP060;Setor 04 — pacote 004 — Verificar condição do subleito;TERR_PADRAO;TERR;PADRAO;39.21;41.21;2.0;1.0;pacote-modelo;0.5;6;0.82;0.06
+OP061;Setor 04 — pacote 004 — Conectar saída de drenagem;DREN_PADRAO;DREN;PADRAO;55.89;58.06;2.17;1.0;pacote-modelo;0.460829493088;5;0.65;0.05425
+OP063;Setor 04 — pacote 004 — Inspecionar geometria do elemento;DREN_PADRAO;DREN;PADRAO;58.06;62.06;4.0;1.0;pacote-modelo;0.25;5;0.73;0.1
+OP013;Setor 01 — pacote 001 — Produzir mistura de base;BASE_PADRAO;BASE;PADRAO;43.55;45.72;2.17;1.0;pacote-modelo;0.460829493088;6;0.59;0.0651
+OP030;Setor 02 — pacote 002 — Transportar material granular;BASE_PADRAO;BASE;PADRAO;49.72;51.89;2.17;1.0;pacote-modelo;0.460829493088;6;0.59;0.0651
+OP047;Setor 03 — pacote 003 — Espalhar camada;BASE_PADRAO;BASE;PADRAO;55.89;58.06;2.17;1.0;pacote-modelo;0.460829493088;6;0.59;0.0651
+OP064;Setor 04 — pacote 004 — Compactar camada granular;BASE_PADRAO;BASE;PADRAO;62.06;64.23;2.17;1.0;pacote-modelo;0.460829493088;6;0.59;0.0651
+OP014;Setor 01 — pacote 001 — Produzir mistura asfáltica;ASF_PADRAO;ASF;PADRAO;45.72;47.72;2.0;1.0;pacote-modelo;0.5;9;0.75;0.09
+OP031;Setor 02 — pacote 002 — Transportar mistura;ASF_PADRAO;ASF;PADRAO;51.89;53.89;2.0;1.0;pacote-modelo;0.5;9;0.75;0.09
+OP048;Setor 03 — pacote 003 — Aplicar camada de revestimento;ASF_PADRAO;ASF;PADRAO;58.06;60.06;2.0;1.0;pacote-modelo;0.5;9;0.75;0.09
+OP065;Setor 04 — pacote 004 — Compactar superfície;ASF_PADRAO;ASF;PADRAO;64.23;66.23;2.0;1.0;pacote-modelo;0.5;9;0.75;0.09
+OP015;Setor 01 — pacote 001 — Instalar defensa;FIN_PADRAO;FIN;PADRAO;47.72;49.89;2.17;1.0;pacote-modelo;0.460829493088;5;0.44;0.05425
+OP032;Setor 02 — pacote 002 — Implantar sinalização vertical;FIN_PADRAO;FIN;PADRAO;53.89;56.06;2.17;1.0;pacote-modelo;0.460829493088;5;0.44;0.05425
+OP049;Setor 03 — pacote 003 — Executar marcação horizontal;FIN_PADRAO;FIN;PADRAO;60.06;62.23;2.17;1.0;pacote-modelo;0.460829493088;5;0.44;0.05425
+OP066;Setor 04 — pacote 004 — Concluir arremate do trecho;FIN_PADRAO;FIN;PADRAO;66.23;68.4;2.17;1.0;pacote-modelo;0.460829493088;5;0.44;0.05425
+OP016;Setor 01 — pacote 001 — Inspecionar serviço concluído;QA_PADRAO;QA;PADRAO;49.89;51.89;2.0;1.0;pacote-modelo;0.5;3;0.63;0.03
+OP033;Setor 02 — pacote 002 — Executar ensaio de recebimento;QA_PADRAO;QA;PADRAO;56.06;58.06;2.0;1.0;pacote-modelo;0.5;3;0.63;0.03
+OP050;Setor 03 — pacote 003 — Registrar pendência;QA_PADRAO;QA;PADRAO;62.23;64.23;2.0;1.0;pacote-modelo;0.5;3;0.63;0.03
+OP067;Setor 04 — pacote 004 — Verificar correção executada;QA_PADRAO;QA;PADRAO;68.4;70.4;2.0;1.0;pacote-modelo;0.5;3;0.63;0.03
+OP017;Setor 01 — pacote 001 — Preparar documentação final;FIN_PADRAO;FIN;PADRAO;51.89;53.89;2.0;1.0;pacote-modelo;0.5;5;0.5;0.05
+OP034;Setor 02 — pacote 002 — Entregar área ao operador;FIN_PADRAO;FIN;PADRAO;58.06;60.06;2.0;1.0;pacote-modelo;0.5;5;0.5;0.05
+OP051;Setor 03 — pacote 003 — Retirar instalação provisória;FIN_PADRAO;FIN;PADRAO;64.23;66.23;2.0;1.0;pacote-modelo;0.5;5;0.5;0.05
+OP068;Setor 04 — pacote 004 — Encerrar registro da frente;FIN_PADRAO;FIN;PADRAO;70.4;72.4;2.0;1.0;pacote-modelo;0.5;5;0.5;0.05

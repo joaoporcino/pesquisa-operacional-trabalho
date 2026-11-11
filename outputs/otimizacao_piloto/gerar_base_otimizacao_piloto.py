@@ -487,10 +487,8 @@ def main() -> None:
     for task in TASKS:
         source_cost = sum(source_lookup[s]["PONTOS"] for s in task["source_ids"])
         source_classes = {source_lookup[s]["CLASSIFICACAO"] for s in task["source_ids"]}
-        if task["id"] != "OP12" and source_classes != {"DIRETA"}:
-            raise AssertionError(f"Classificação inesperada em {task['id']}: {source_classes}")
-        if task["id"] == "OP12" and source_classes != {"DUVIDA"}:
-            raise AssertionError(f"A inspeção deveria conservar a classificação em dúvida: {source_classes}")
+        if len(source_classes) != 1:
+            raise AssertionError(f"Classificações de origem incompatíveis em {task['id']}: {source_classes}")
         std_duration = task["quantity"] / task["std_productivity"]
         eap_codes = [source_lookup[s]["COD_EAP"] for s in task["source_ids"]]
         activity_rows.append(
@@ -498,7 +496,7 @@ def main() -> None:
                 "ID_ATIVIDADE": task["id"],
                 "DESCRICAO": task["name"],
                 "TIPO": "EXECUCAO",
-                "CLASSIFICACAO": "DUVIDA" if task["id"] == "OP12" else "DIRETA",
+                "CLASSIFICACAO": next(iter(source_classes)),
                 "UNIDADE": task["unit"],
                 "QUANTIDADE": num(task["quantity"]),
                 "FAMILIA_EQUIPE": task["family"],
@@ -563,7 +561,7 @@ def main() -> None:
                     "HABILITADA": "SIM",
                     "QUANTIDADE": num(task["quantity"]),
                     "UNIDADE": task["unit"],
-                    "PRODUTIVIDADE_UNID_DIA": num(productivity),
+                    "PRODUTIVIDADE_UNID_DIA": num(productivity, 12),
                     "DURACAO_DIAS": num(duration),
                     "O_DIAS": num(o),
                     "M_DIAS": num(m),

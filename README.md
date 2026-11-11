@@ -21,9 +21,124 @@ A pergunta de pesquisa é: **como a escolha conjunta de equipes e datas de iníc
 | `dados_anonimizados/` | Referência para explicar EAP, composições, insumos e planejamento na abordagem convencional |
 | `dados_simulados/eap_academica_sintetica_escala_exemplo/` | EAP acadêmica independente usada como referência estrutural e de pontos de custo para o recorte simulado |
 | `outputs/otimizacao_piloto/dados_modelo/` | Entradas efetivamente lidas pelos solvers: atividades, alternativas, precedências, recursos e premissas de custo |
+| `outputs/otimizacao_piloto/dados_modelo_ampliado/` | Recorte ampliado: 68 tarefas individuais, rede lógica, modos e cenário de referência factível |
 | `outputs/otimizacao_piloto/resultados_gurobi/` | Cronograma e resumo produzidos pelo solver Gurobi |
 
 Portanto, **a aplicação quantitativa será feita nos dados simulados**, preparados para o problema de otimização. O gerador do piloto utiliza a EAP acadêmica independente e acrescenta quantidades, produtividades, alternativas de equipe e precedências hipotéticas. Os vínculos de origem registrados nesses CSVs apontam para a EAP acadêmica. Eles não estabelecem uma correspondência validada com as atividades do projeto anonimizado.
+
+### Recorte ampliado com tarefas paralelas
+
+O [recorte ampliado](outputs/otimizacao_piloto/LEIA-ME-AMPLIADO.md) contém 68 tarefas, um marco inicial, 92 precedências e 204 alternativas de equipe. Cada tarefa corresponde a uma folha distinta da EAP sintética, e o PERT/CPM é calculado sobre essas tarefas, não sobre seus agrupadores. Foram modelados quatro setores e atividades paralelas dentro de cada setor. As precedências são hipóteses do caso acadêmico, não foram extraídas do projeto anonimizado. O CPM lógico resulta em 29,19 dias úteis; com os recursos limitados e as equipes padrão, a referência factível dura 72,40 dias. Os resultados abaixo se referem exclusivamente ao piloto anterior de 12 atividades.
+
+<!-- INICIO GANTT AMPLIADO -->
+### Gantt do recorte ampliado por EAP
+
+A visualização usa a solução factível do Gurobi registrada em `resultados_ampliado/`: 68 tarefas, prazo de 50,16 dias úteis e gap de 7,57%, sem otimalidade comprovada. As linhas estão agrupadas pela hierarquia original da EAP (fase → conta de controle → pacote → tarefa); os agrupadores não são atividades nem criam precedências. O marco inicial ocorre no dia 0.
+
+O Mermaid exige uma escala de datas: **01/01/2026 representa o dia útil 0**, e cada dia no eixo equivale a um dia útil do modelo. As datas são apenas uma régua fictícia, sem calendário civil, fins de semana ou feriados. Os horários são convertidos e arredondados ao minuto para a visualização; os valores originais estão no CSV. Tarefas em linhas diferentes podem ocorrer em paralelo, respeitando os recursos da solução. Cada seção identifica fase e conta; o código antes de cada tarefa identifica também seu pacote de trabalho.
+
+Em cada linha, **P** indica predecessoras e **S** sucessoras pelos IDs das tarefas; `-` indica ausência. `OP00` é o marco inicial. As relações são término-início, sem defasagem. Conforme a [sintaxe do Mermaid](https://mermaid.ai/open-source/syntax/gantt.html), `after` posiciona a tarefa no término mais tardio das predecessoras, enquanto a solução com recursos pode iniciá-la mais tarde. Por isso, as barras usam datas explícitas do solver e os vínculos aparecem nos rótulos; o Gantt não desenha setas entre elas.
+
+```mermaid
+gantt
+    title Cronograma ampliado por tarefa e EAP — escala fictícia
+    dateFormat YYYY-MM-DD HH:mm
+    axisFormat %d/%m
+    todayMarker off
+    section Marcos
+    OP00 Marco inicial :milestone, OP00, 2026-01-01 00:00, 0d
+    section 1 Preparação, mobilização e engenharia / 1.1 Apoio e mobilização — frente 01
+    1.1.1.3 OP001 Liberar utilidades provisórias [P OP00 | S OP002+OP006] :OP001, 2026-01-01 00:00, 2026-01-02 10:43
+    1.1.3.1 OP002 Implantar pontos de controle [P OP001 | S OP003+OP004] :OP002, 2026-01-02 10:43, 2026-01-03 21:26
+    1.1.5.1 OP003 Preparar documentação de liberação [P OP002 | S OP006] :OP003, 2026-01-03 21:26, 2026-01-05 08:10
+    1.1.7.1 OP004 Detalhar solução executiva [P OP002 | S OP005] :OP004, 2026-01-16 03:12, 2026-01-19 07:17
+    1.1.10.1 OP005 Confirmar especificação de fornecimento [P OP004 | S OP011+OP014] :OP005, 2026-01-19 07:17, 2026-01-23 11:22
+    section 1 Preparação, mobilização e engenharia / 1.2 Levantamentos — frente 02
+    1.2.1.1 OP018 Montar módulo temporário [P OP00 | S OP019+OP023] :OP018, 2026-01-06 18:53, 2026-01-08 22:58
+    1.2.3.1 OP019 Levantar faixa de implantação [P OP018 | S OP020+OP021] :OP019, 2026-01-10 08:19, 2026-01-11 19:02
+    1.2.5.1 OP020 Validar acesso à área [P OP019 | S OP023] :OP020, 2026-01-13 23:07, 2026-01-16 03:12
+    1.2.6.1 OP021 Compatibilizar interfaces [P OP019 | S OP022] :OP021, 2026-01-24 15:26, 2026-01-27 19:31
+    1.2.9.1 OP022 Emitir pedido de material [P OP021 | S OP028+OP031] :OP022, 2026-01-27 19:31, 2026-01-30 14:14
+    section 1 Preparação, mobilização e engenharia / 1.3 Engenharia e liberações — frente 03
+    1.3.1.1 OP035 Liberar utilidades provisórias [P OP00 | S OP036+OP040] :OP035, 2026-01-02 10:43, 2026-01-04 14:48
+    1.3.3.1 OP036 Levantar faixa de implantação [P OP035 | S OP037+OP038] :OP036, 2026-01-05 08:10, 2026-01-06 18:53
+    1.3.5.1 OP037 Registrar condicionantes de execução [P OP036 | S OP040] :OP037, 2026-01-08 21:36, 2026-01-10 08:19
+    1.3.6.1 OP038 Revisar sequência construtiva [P OP036 | S OP039] :OP038, 2026-01-06 18:53, 2026-01-08 21:36
+    1.3.9.1 OP039 Inspecionar recebimento [P OP038 | S OP045+OP048] :OP039, 2026-01-09 13:36, 2026-01-12 08:19
+    section 1 Preparação, mobilização e engenharia / 1.4 Suprimentos — frente 04
+    1.4.1.1 OP052 Organizar acesso da frente [P OP00 | S OP053+OP057] :OP052, 2026-01-04 14:48, 2026-01-06 18:53
+    1.4.3.1 OP053 Levantar faixa de implantação [P OP052 | S OP054+OP055] :OP053, 2026-01-11 19:02, 2026-01-13 23:07
+    1.4.4.1 OP054 Registrar condicionantes de execução [P OP053 | S OP057] :OP054, 2026-01-22 11:22, 2026-01-24 15:26
+    1.4.5.1 OP055 Emitir desenho para campo [P OP053 | S OP056] :OP055, 2026-01-19 07:17, 2026-01-22 11:22
+    1.4.8.1 OP056 Liberar lote para uso [P OP055 | S OP062+OP065] :OP056, 2026-01-23 11:22, 2026-01-27 15:26
+    section 2 Preparação física, terraplenagem e drenagem / 2.1 Acessos e limpeza — frente 01
+    2.1.1.1 OP006 Limpar área de trabalho [P OP001+OP003 | S OP007+OP008+OP011] :OP006, 2026-01-05 08:10, 2026-01-07 08:10
+    2.1.6.1 OP007 Escavar travessia [P OP006 | S OP010] :OP007, 2026-01-07 08:10, 2026-01-09 12:14
+    2.1.12.1 OP008 Executar corte de material [P OP006 | S OP009+OP010] :OP008, 2026-01-07 08:10, 2026-01-09 12:14
+    2.1.25.1 OP009 Regularizar superfície [P OP008 | S OP013] :OP009, 2026-02-04 19:31, 2026-02-06 19:31
+    2.1.30.1 OP010 Escavar vala longitudinal [P OP007+OP008 | S OP013] :OP010, 2026-01-10 04:14, 2026-01-12 08:19
+    2.1.36.1 OP011 Preparar base de fundação [P OP005+OP006 | S OP012] :OP011, 2026-01-24 22:05, 2026-01-27 00:48
+    section 2 Preparação física, terraplenagem e drenagem / 2.2 Movimentação de terra — frente 02
+    2.2.1.1 OP023 Preparar acesso temporário [P OP018+OP020 | S OP024+OP025+OP028] :OP023, 2026-01-16 04:24, 2026-01-18 04:24
+    2.2.6.1 OP024 Preparar berço de assentamento [P OP023 | S OP027] :OP024, 2026-01-18 04:24, 2026-01-19 15:07
+    2.2.12.1 OP025 Carregar e transportar solo [P OP023 | S OP026+OP027] :OP025, 2026-01-18 04:24, 2026-01-20 08:29
+    2.2.25.1 OP026 Ajustar umidade [P OP025 | S OP030] :OP026, 2026-01-22 19:22, 2026-01-24 19:22
+    2.2.30.1 OP027 Instalar elemento drenante [P OP024+OP025 | S OP030] :OP027, 2026-01-22 00:38, 2026-01-23 11:22
+    2.2.36.1 OP028 Montar armadura [P OP022+OP023 | S OP029] :OP028, 2026-01-30 14:14, 2026-02-01 16:58
+    section 2 Preparação física, terraplenagem e drenagem / 2.3 Subleito — frente 03
+    2.3.1.1 OP040 Organizar área de estocagem [P OP035+OP037 | S OP041+OP042+OP045] :OP040, 2026-01-10 08:19, 2026-01-12 08:19
+    2.3.6.1 OP041 Assentar tubo transversal [P OP040 | S OP044] :OP041, 2026-01-19 20:34, 2026-01-22 00:38
+    2.3.12.1 OP042 Distribuir material de aterro [P OP040 | S OP043+OP044] :OP042, 2026-01-13 19:02, 2026-01-15 23:07
+    2.3.25.1 OP043 Compactar camada [P OP042 | S OP047] :OP043, 2026-01-20 08:29, 2026-01-22 08:29
+    2.3.30.1 OP044 Executar enchimento filtrante [P OP041+OP042 | S OP047] :OP044, 2026-01-23 11:22, 2026-01-24 22:05
+    2.3.36.1 OP045 Executar concretagem [P OP039+OP040 | S OP046] :OP045, 2026-01-12 08:19, 2026-01-15 12:24
+    section 2 Preparação física, terraplenagem e drenagem / 2.4 Dispositivos de drenagem — frente 04
+    2.4.1.1 OP057 Remover material superficial [P OP052+OP054 | S OP058+OP059+OP062] :OP057, 2026-01-24 19:22, 2026-01-26 19:22
+    2.4.6.1 OP058 Executar proteção de saída [P OP057 | S OP061] :OP058, 2026-01-27 00:48, 2026-01-28 11:31
+    2.4.12.1 OP059 Conformar plataforma [P OP057 | S OP060+OP061] :OP059, 2026-02-01 14:44, 2026-02-03 18:49
+    2.4.25.1 OP060 Verificar condição do subleito [P OP059 | S OP064] :OP060, 2026-02-09 21:02, 2026-02-11 21:02
+    2.4.30.1 OP061 Conectar saída de drenagem [P OP058+OP059 | S OP064] :OP061, 2026-02-07 00:58, 2026-02-09 05:02
+    2.4.36.1 OP062 Conferir elemento de contenção [P OP056+OP057 | S OP063] :OP062, 2026-01-28 11:31, 2026-01-30 14:14
+    section 3 Estruturas, bases e revestimentos / 3.1 Estruturas — frente 01
+    3.1.1.1 OP012 Montar elemento estrutural [P OP011 | S OP013] :OP012, 2026-02-04 08:58, 2026-02-07 00:58
+    3.1.8.1 OP013 Produzir mistura de base [P OP009+OP010+OP012 | S OP014] :OP013, 2026-02-07 00:58, 2026-02-09 05:02
+    3.1.16.1 OP014 Produzir mistura asfáltica [P OP005+OP013 | S OP015] :OP014, 2026-02-09 05:02, 2026-02-11 05:02
+    section 3 Estruturas, bases e revestimentos / 3.2 Camadas granulares — frente 02
+    3.2.1.1 OP029 Instalar armadura ou ligação [P OP028 | S OP030] :OP029, 2026-02-01 16:58, 2026-02-04 08:58
+    3.2.8.1 OP030 Transportar material granular [P OP026+OP027+OP029 | S OP031] :OP030, 2026-02-04 08:58, 2026-02-06 13:02
+    3.2.15.1 OP031 Transportar mistura [P OP022+OP030 | S OP032] :OP031, 2026-02-06 13:02, 2026-02-08 13:02
+    section 3 Estruturas, bases e revestimentos / 3.3 Revestimento — frente 03
+    3.3.1.1 OP046 Concretar ou fixar estrutura [P OP045 | S OP047] :OP046, 2026-01-15 12:24, 2026-01-18 04:24
+    3.3.8.1 OP047 Espalhar camada [P OP043+OP044+OP046 | S OP048] :OP047, 2026-01-29 11:22, 2026-01-31 15:26
+    3.3.15.1 OP048 Aplicar camada de revestimento [P OP039+OP047 | S OP049] :OP048, 2026-01-31 15:26, 2026-02-02 15:26
+    section 3 Estruturas, bases e revestimentos / 3.4 Interfaces construtivas — frente 04
+    3.4.1.1 OP063 Inspecionar geometria do elemento [P OP062 | S OP064] :OP063, 2026-02-09 05:02, 2026-02-11 21:02
+    3.4.7.1 OP064 Compactar camada granular [P OP060+OP061+OP063 | S OP065] :OP064, 2026-02-11 21:02, 2026-02-13 07:46
+    3.4.14.1 OP065 Compactar superfície [P OP056+OP064 | S OP066] :OP065, 2026-02-13 09:07, 2026-02-15 09:07
+    section 4 Segurança, inspeção e acabamento / 4.1 Defensas e sinalização — frente 01
+    4.1.1.1 OP015 Instalar defensa [P OP014 | S OP016] :OP015, 2026-02-11 05:02, 2026-02-13 09:07
+    4.1.6.1 OP016 Inspecionar serviço concluído [P OP015 | S OP017] :OP016, 2026-02-14 14:24, 2026-02-16 14:24
+    section 4 Segurança, inspeção e acabamento / 4.2 Inspeções — frente 02
+    4.2.1.1 OP032 Implantar sinalização vertical [P OP031 | S OP033] :OP032, 2026-02-08 19:31, 2026-02-10 23:36
+    4.2.6.1 OP033 Executar ensaio de recebimento [P OP032 | S OP034] :OP033, 2026-02-11 03:41, 2026-02-13 03:41
+    section 4 Segurança, inspeção e acabamento / 4.3 Correções — frente 03
+    4.3.1.1 OP049 Executar marcação horizontal [P OP048 | S OP050] :OP049, 2026-02-02 15:26, 2026-02-04 19:31
+    4.3.6.1 OP050 Registrar pendência [P OP049 | S OP051] :OP050, 2026-02-04 19:31, 2026-02-06 19:31
+    section 4 Segurança, inspeção e acabamento / 4.4 Acabamentos — frente 04
+    4.4.1.1 OP066 Concluir arremate do trecho [P OP065 | S OP067] :OP066, 2026-02-15 09:07, 2026-02-16 19:50
+    4.4.6.1 OP067 Verificar correção executada [P OP066 | S OP068] :OP067, 2026-02-16 19:50, 2026-02-18 19:50
+    section 5 Entrega e encerramento / 5.1 Entrega — frente 01
+    5.1.1.1 OP017 Preparar documentação final [P OP016 | S -] :OP017, 2026-02-16 19:50, 2026-02-18 19:50
+    section 5 Entrega e encerramento / 5.2 Documentação — frente 02
+    5.2.1.1 OP034 Entregar área ao operador [P OP033 | S -] :OP034, 2026-02-13 09:07, 2026-02-15 09:07
+    section 5 Entrega e encerramento / 5.3 Desmobilização — frente 03
+    5.3.1.1 OP051 Retirar instalação provisória [P OP050 | S -] :OP051, 2026-02-06 19:31, 2026-02-08 19:31
+    section 5 Entrega e encerramento / 5.4 Encerramento administrativo — frente 04
+    5.4.1.1 OP068 Encerrar registro da frente [P OP067 | S -] :OP068, 2026-02-18 19:50, 2026-02-20 03:50
+```
+
+O Gantt é atualizado automaticamente após uma solução válida do recorte ampliado gravada em `resultados_ampliado/`. Para atualizá-lo manualmente, execute `python scripts/atualizar_gantt_readme.py`. Os horários originais estão em [cronograma_gurobi.csv](outputs/otimizacao_piloto/resultados_ampliado/cronograma_gurobi.csv).
+<!-- FIM GANTT AMPLIADO -->
 
 ### Os dados já permitem executar o modelo?
 

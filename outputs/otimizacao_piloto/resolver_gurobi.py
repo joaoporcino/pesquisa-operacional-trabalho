@@ -6,6 +6,8 @@ import argparse
 import csv
 import json
 import math
+import subprocess
+import sys
 from collections import defaultdict
 from itertools import combinations
 from pathlib import Path
@@ -140,6 +142,7 @@ def main():
     parser.add_argument("--prazo-maximo", type=float, help="Prazo máximo em dias úteis")
     parser.add_argument("--tempo-limite", type=float, default=60, help="Tempo máximo do solver em segundos")
     parser.add_argument("--gap", type=float, default=1e-9, help="Tolerância relativa de otimalidade")
+    parser.add_argument("--sem-atualizar-readme", action="store_true", help="Não atualizar o Gantt do README após resolver o recorte ampliado padrão")
     args = parser.parse_args()
     for name, value in (("prazo máximo", args.prazo_maximo), ("tempo limite", args.tempo_limite), ("gap", args.gap)):
         if value is not None:
@@ -151,6 +154,14 @@ def main():
     except (ValueError, RuntimeError, gp.GurobiError) as exc:
         parser.exit(1, f"Erro: {exc}\n")
     print(json.dumps(result, ensure_ascii=False, indent=2))
+    if (not args.sem_atualizar_readme
+            and args.data_dir.resolve() == (ROOT / "dados_modelo_ampliado").resolve()
+            and args.output_dir.resolve() == (ROOT / "resultados_ampliado").resolve()):
+        script = ROOT.parents[1] / "scripts" / "atualizar_gantt_readme.py"
+        try:
+            subprocess.run([sys.executable, str(script)], check=True)
+        except (OSError, subprocess.CalledProcessError) as exc:
+            parser.exit(1, f"A solução foi salva, mas o Gantt do README não foi atualizado: {exc}\n")
 
 
 if __name__ == "__main__":
